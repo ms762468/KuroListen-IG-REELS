@@ -4506,6 +4506,2632 @@
           "text": "還是好感的🥹🥹"
         }
       ]
+    },
+    {
+      "story_id": "R007-02",
+      "chat_id": "chat-8439548727fc69fa",
+      "source_room_number": 7,
+      "account_name": "10/17 11-12禪～Marina",
+      "pet": "索妮亞",
+      "dates": [
+        "2026/07/05"
+      ],
+      "source_csv": "data/raw/20261001/7_20260427_20260923_10_17 11-12禪～Marina.csv",
+      "source_records": [
+        270,
+        308
+      ],
+      "source_message_keys": [
+        "7d52d33f95d81facd9c5d38fd60456ef64a9841d1440d4ae4c30c280ae614cb4",
+        "ae52a6fe57ec0eaf40049e13c845b99a694212f62f7c71825ad982e764d78b22",
+        "60485b8368c4a6708a56b3da3a488649426f5d67632df5f8ea853b20dbb8282d",
+        "1539d6357bf0f115f80a9052b056a28cf53a73f4fc745c638602738adaae76c2",
+        "29afee1479f8fb15e2542361267ff69b42ee5df5b382ff26751a231f426a8985",
+        "3b60955cd9e5af85c50fd9fcb916f9c2aff0e1f55f0b74ac3df1f66e4e3c1543",
+        "432be8a29fff5bd4166eec0c44223a546778b668d60998a77de7f088e86160af",
+        "00f70e4a4d38186f81fac7c4ab64dc873b8dcbeee45d6383539d5260bd455fc6",
+        "1ffaf2eb8ee06a6b3027bf7bbae2f5844e35e61ca01ea8d736392e0fdf8bada5",
+        "9770b4f135e8ca81d0c3abcf06e4a41193733d2143307c1e47d08f3e29e58f7d",
+        "8ec67e8393c78af2f5c700ce25f82bc3880bd33db5114276f003a13b4e637b00",
+        "ca599f4012a876fec696e58f5068fa2e1424ca6c84efe58cc53ba24a4ac7a09b",
+        "db6faac41e2001a3cda750a1bbcb4a8695b6f50da02004d894ddc5e0ec0a6bdc",
+        "d2159ca377865222de92de3467799294ec1523b6542cb537c59c927fa3ca4965",
+        "d7a09ab6fe8fb6d16b34ae771e049c4041f7caf3639e42729a84ba1cf6adb33b",
+        "9d24c55e43c89095a49e438759f230d432064d4232332fe858a95663fb783f5b",
+        "4aeac00bb15559fef5a8a6d18e24be7d65f5b8d70d1abe4fadecd5701c06b162",
+        "47d263cc2230b2e8f9d6af77074ebe279a22fbd393007ea5ccda2a496524ca4e",
+        "fab0ad3228e37d2b451de218add66af24c03da8b0d89ad300ba2ee509d89e5cb",
+        "ad30e4213c9424004b2c6ae8bb282b150809a9f00fe10d278bdc99b14cf115fb",
+        "d0a78d4f3947a83c596d6cdfd2d8ccaee0d012282d33c53185f57960a3a1318f",
+        "97cc6f7d03ae0972edf3aa962241c43cffce3232f99b1c05d21ec8ce17d5caa4",
+        "8c2899064b9aa372a7af5c9b87827eeaadd4d46ff166536fc2ee90a90985c35a",
+        "acd819e9a211cd5ae1be166976638fe1589dfddc5db441080cd4d2fdd88ad9cf",
+        "013b4dd195b99d9e2031e90e5d12c186d49c66c65e7a28d6efea67f686596563",
+        "45cd9f2989c126aa8a9b7048e986e5d1a93ccc51767f5644b158d45e30cc41e4",
+        "a86acdecc4753c08d5157bcff179b122eec5881af69f3abbc7abe0ac6dc7f85f",
+        "fac26ee46f8d3c39251245353d966e5cbcd061f10209986b25fde667660a3204",
+        "30a0add3dff15d0ba8dbfabe4526de67b43ba429795ca9883324d033da123a55",
+        "dfacec40cf58a785b76ea042eb2f1faac66c35ecc100204dd0284558e1e78a08",
+        "1453ec90d417684e7c831650e4b65055f7de3e18b53367ab026eef65737fe1ce",
+        "ddc0770c8600afbf6e0287bb58214e1e649f1f6f420ae373005208d711a7851b",
+        "9909c60e03bd2f747b9ae96dcb4bfa33f741cdd903946859033a8dc82a121f87",
+        "7411c1f8e4a1a25518aa8fbc78341e01ec7e4ed03b0f16584f03d3a7051db2e6",
+        "3954e7e4f4c0c1546c263f3ef9bed8c0fc8f7cc22ce0d4f1bfe5eff4aadff15e",
+        "d354e2802c2fcc43998ce2276a0e1dfe95e1e2f1b04ae81f89873770f73b6299",
+        "4a87d45f256725c0b2e81fd98802b7f0e40ea8303c4337be8f39ac29a61ef9fc",
+        "5fcbc1128641eadb69a099f859d37c762939ee616984e2aa6f8c939d722fa300",
+        "fd950996b58d470712f5e63bdc90024076f9c2de24dedd00388ce10b01da84d9"
+      ],
+      "scenario_summary": "家長確認男友做飯及醬油蔥蒜香；客家小炒只是阿玲的氣味比喻，家長明確說不是該菜，站鏡子減肥亦未獲確認。",
+      "title": "聊刺蝟聊到我肚子餓",
+      "keywords": [
+        "爸比感覺很會做菜欸(?",
+        "都是我男友做飯😂"
+      ],
+      "spoken_parts": [
+        "這次聊刺蝟，聊到最後，肚子餓的是我。",
+        "我當時提到爸爸端出很香的飯，感覺很會做菜。",
+        "家長說：「都是我男友做飯。」醬油香也對上了。",
+        "但我形容像客家小炒，她說不是那道菜。",
+        "好，香味有共鳴，菜名先別亂點，我差點替自己叫外送。",
+        "你家誰一煮飯，全家都知道？"
+      ],
+      "estimated_seconds": 25,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R007-02_聊刺蝟聊到我肚子餓.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 287,
+          "text": "爸比感覺很會做菜欸(?"
+        },
+        {
+          "role": "User",
+          "record": 288,
+          "text": "都是我男友做飯😂"
+        },
+        {
+          "role": "User",
+          "record": 297,
+          "text": "醬油蠻常用的"
+        },
+        {
+          "role": "User",
+          "record": 298,
+          "text": "但不是客家小炒"
+        },
+        {
+          "role": "User",
+          "record": 305,
+          "text": "對對"
+        }
+      ]
+    },
+    {
+      "story_id": "R011-02",
+      "chat_id": "chat-362f1fcfe1005c2d",
+      "source_room_number": 11,
+      "account_name": "9/10 9PM-奕如",
+      "pet": "哈魯",
+      "dates": [
+        "2026/09/10"
+      ],
+      "source_csv": "data/raw/20261001/11_20260726_20260913_9_10 9PM-奕如.csv",
+      "source_records": [
+        81,
+        96
+      ],
+      "source_message_keys": [
+        "afd259930d82165577bbb3ba6b5648342d9fc73b23490c98675bb9f3d0f63fd1",
+        "3dd4ea0e4b3b58b316af17545aa52758b2d8e744d9aa35e184a7c09d55055ed9",
+        "4ed0995cf85ab919df4321db62da70999197871f6c71f081693c1f2d934b8067",
+        "0eee2f59dc09c71e2890aa36c612a64f9b83a21afac2c3b6e1eca92783580527",
+        "ecf5034d07a5e203e6b4fd2469c9f2dde93239884808c3cde484e081923d9d72",
+        "d85d82376ee15a2733a84413fedba8e03d5f317ff75b51ae5be820cb546e2282",
+        "1bc95206129e872e17c903bb9bb749becc318dd50d869c9df28aa815253b424b",
+        "663d28e4460e616b35015589c00b56d65861535d3df8d72a0d9670877576515f",
+        "21b0379dbec6e7915ad5de0d5f654ec1178aafdc97edd7fd76c6f69fe192abbc",
+        "3aef542208139dedf96b0fa58791c99fb2de868593839e59266076dcf31d8cd7",
+        "f3d8cb90d66b8370a552f456b5e06ad9757fb5b803e0288021a3d18c414940d9",
+        "5ddd52eae0fd7e88ab4cdc5b94f5354de606daa7c0af19e97f3ec7c00563d0e1",
+        "c84f5cba63b8c03bece2349bef12a5c5de2f2949da16214c305e9f9c0d3457ed",
+        "c6d42fd358babc62dfeaf519e92b3d32d84593cb004259d6a608c57c97c09313",
+        "fca60d6e0c0339b36a2cdd1223f9904de3c5b687061c3d865b5705c90a1ff3f1",
+        "bbff1cba0aedba32044867a43cf7460050c04df67db6c0a5fa4d9b2d98563285"
+      ],
+      "scenario_summary": "提供室友照片後，阿玲轉述大口吸貓，家長確認只有室友會如此。琪琪稱呼未確認，不將名字寫成命中。",
+      "title": "室友的吸貓習慣被點名",
+      "keywords": [
+        "哈魯 : 他都會偷偷吸我很大口",
+        "真的耶 只有室友會吸他 "
+      ],
+      "spoken_parts": [
+        "聊一隻貓，室友的吸貓習慣也被點名。",
+        "那次看到室友照片後，我轉述哈魯的意思：",
+        "「她都會偷偷吸我很大口。」",
+        "家長馬上回：「真的耶，只有室友會吸牠。」",
+        "我本來在介紹家庭成員，突然變成吸貓習慣調查；每個人親近牠的方式都不同。",
+        "你家誰是最忍不住的那一位？"
+      ],
+      "estimated_seconds": 26,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R011-02_室友的吸貓習慣被點名.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 89,
+          "text": "哈魯 : 他都會偷偷吸我很大口"
+        },
+        {
+          "role": "User",
+          "record": 92,
+          "text": "真的耶  只有室友會吸他  "
+        },
+        {
+          "role": "User",
+          "record": 94,
+          "text": "哈哈哈 對啊 哈魯很親人"
+        }
+      ]
+    },
+    {
+      "story_id": "R011-03",
+      "chat_id": "chat-362f1fcfe1005c2d",
+      "source_room_number": 11,
+      "account_name": "9/10 9PM-奕如",
+      "pet": "哈魯",
+      "dates": [
+        "2026/09/10"
+      ],
+      "source_csv": "data/raw/20261001/11_20260726_20260913_9_10 9PM-奕如.csv",
+      "source_records": [
+        224,
+        250
+      ],
+      "source_message_keys": [
+        "9215574981d85c073adb3f69133b74e26828f647e84134d57e89e7fb447020f9",
+        "051b903843aee6e8afc1b1771ccba429ca228ed97f8b44722a82b97fed7e94f4",
+        "60e11bebe61b7a8488873591478c622ef267ce5385ca52f8025380bbf1d8e443",
+        "b29429de6d454eecdd7edba7426f4ba390fe9e48ec6e077a386131fd90928df0",
+        "65e7483c74b3bf9c70a2c8a799c536956e7c7491ca32601709754630f51236c8",
+        "c736b71aa4b107f5afa56b9cba61abe8a5f0809709b779c1ec2ac7f263e4ddca",
+        "0a84f99305e4295201ea184d9a07cb8fb5d3519ef2bbbbf20c807d1109a4acd8",
+        "d5bb12d96219bc5015a1abe18eb712042383d1646214f0cd3e149c6b2b2bdfa5",
+        "2f1daa36195394880b589cd794ff25aa6665aad99b37e7a595f3cf9dfcdf53c6",
+        "1e8b45f475d250f5b9687cf1763e72e46c2377c2691850566410ccc2f0e37d54",
+        "31a38e39f0972729646e7fd3acaf96508f9aa3cf9415c7c84979b243b2013107",
+        "00d8e86e4957ad91d36a65277fdf0bb5d77909846ab34433bde330e6fd5d3cdb",
+        "f692c35377d8a50143358f78822f509cf77f3afd90f6d1ab5dc84c0f5fa70383",
+        "4d8d8a886130eb9f309a4d40f29b071bf9c8a11129f5b3bc3ec52647fbbebb2e",
+        "f7923504d15873a738a3aa281c389fb40beee0f2a61ccf09debf5ce080d1a173",
+        "65336cfe9c1fa1a46811c6eaefb00bae9668d483486737e7840f0692fdf03724",
+        "109fe30ffe29c0ecafddbc63032bdfacc5e79d9d29027b634648f495284e335a",
+        "4a08aa69f2825644688798715e1e212a06d79ef2338e09e8b759df9be976af24",
+        "b7d869fccb4944e3d58c9c80109a2bf53c0f7e68266698f5b4d69eb191d5f7d8",
+        "de528487eec17e0fcbe8ded1a0e0cef92436c89fe2a2643b26d37787076d668b",
+        "1a0aa4ae1f922f18f510ef47a78cc84c223dd95338a280ffc3b3829436b7bbeb",
+        "2b99405c9dd4470b978c0e3c6b5ac4a4c8ce6db867b0bf3b052c3efabfbc34bd",
+        "4aadfa97be293beeb9716ba1da3d7cd850beb58fdbb8275ff5d0b12d1a630784",
+        "124200dfcd6a6596c38a473c1f5922fe612fb65821ccd218f9316df893f407bc",
+        "2594a455dd0764081da0505c5c08880bc2bd7a9e2725bb91dd86062670d42c34",
+        "90d980f25529e99fccae1182bc357f085bec9569453a3712b198a5366a80ac61",
+        "7e8db9f6685020ef4649a6959b739234f37589b7b46a3ea25de3d73c9cef8d81"
+      ],
+      "scenario_summary": "家長問排泄落在盆外；阿玲描述愛靠邊上，家長回對。盆太小是轉述的主張，阿玲當場亦說看起來不像，不能斷言原因或排除健康問題。",
+      "title": "廁所裡面和外面只差一個屁股",
+      "keywords": [
+        "他好像喜歡在邊邊大便",
+        "對！"
+      ],
+      "spoken_parts": [
+        "貓有走進廁所，不代表屁股也有。",
+        "家長問我，怎麼便便老是在貓砂盆外面？",
+        "我提到哈魯好像喜歡靠邊上，她立刻說：「對！」",
+        "我當時轉述牠嫌廁所小；可是看起來，是屁股停在外面。",
+        "一個覺得有進場，一個忙著收場。原因還得另外觀察。",
+        "你家也有這種停車技術嗎？"
+      ],
+      "estimated_seconds": 26,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R011-03_廁所裡面和外面只差一個屁股.docx",
+      "evidence": [
+        {
+          "role": "User",
+          "record": 236,
+          "text": "對！"
+        },
+        {
+          "role": "User",
+          "record": 245,
+          "text": "對吧  像是他亂大便"
+        },
+        {
+          "role": "User",
+          "record": 224,
+          "text": "想問他 為什麼常常 屎會在貓砂盆外面 有時候是一小粒 有時候是一坨   姊姊哭笑不得  房間到處都有屎腳印 "
+        },
+        {
+          "role": "Account",
+          "record": 235,
+          "text": "他好像喜歡在邊邊大便"
+        },
+        {
+          "role": "Account",
+          "record": 239,
+          "text": "然後屁股就在外面了"
+        },
+        {
+          "role": "Account",
+          "record": 241,
+          "text": "但我看起來不像"
+        }
+      ]
+    },
+    {
+      "story_id": "R016-02",
+      "chat_id": "chat-62e86bb9565b12e8",
+      "source_room_number": 16,
+      "account_name": "Yü。",
+      "pet": "威風",
+      "dates": [
+        "2026/08/02"
+      ],
+      "source_csv": "data/raw/20261001/16_20260427_20260802_Yü。.csv",
+      "source_records": [
+        100,
+        118
+      ],
+      "source_message_keys": [
+        "2b0ddaf259a26b28b03775ec16bfce4ee107521db55cfb5fa255decb107cc292",
+        "bc691e9dd6b3401a1782a97a8d9fbce8237946086676428d43969708b9bd4c38",
+        "4b432ae88a787c5b5fdde492a15b0050cb71b47f15ff25d740d871380a593552",
+        "c00350a34740f33986cdd441fcda702c742ffa09e6f40855b9f871dea0d54d3a",
+        "f0c9479f65dc80b8511092bd49a92e71b4153c3c3fb60c7787d7b906dea6e5b4",
+        "54ea21a03f6e8bf768f13e7fce866129fd176d8fbbf464eee36a161cea36fd66",
+        "915be8ab86214aad3f12aa2cdfb637d650b05bb8db5896e2121ad94066104065",
+        "0cfc3aa876f4b3b742a45a7706f49170dd6c38682c64457d5cd86acbc2f91aed",
+        "ea3028f7216375c050711309b14337e0587487813eb40039efa566af3ba37d29",
+        "adb0b9e71d1a1fefc0c4193da44f14e088379ba47e629ae0a92045374a42388b",
+        "7cff324aabe44640be8f57f99191c5bfc3250ad32ea96f1c1217635504af5ac8",
+        "bdc0438e919d3e387ba4576a8c9e5cd392ee719891a5b905acda4772db145f0a",
+        "f6760669326f39da1d8784ad668687149ea386190d2072cadfb1648186df4364",
+        "2a664fbc46f658a8bd9ee9704c89ddda87a262dc8f944b91b4b7b0a0bc03c953",
+        "c5b511984fd7482d6eb04ac5fc604b01be5d9abf81bdc22888965019d93f7e4d",
+        "19a80d2c8737264dd4d38779e4e05f4a62f19df51302b255cacef1fdeb0fdc3e",
+        "65249605b5dc11718bb272fc83bcc5c810f2df0f5724d47cd344f243a632d790",
+        "dd9b5d24a5fb3ec40e5c0a5a66ee61198e24780030f08fb1d61c6f0503af1c73",
+        "dc24df6f2bb27261a3ea5a495a8bf07e6fee064b9b25d5ccb0a7b8c4df4a2993"
+      ],
+      "scenario_summary": "阿玲描述阿嬤突然起身掃毛，家長確認最近回來住即會如此；轉述媽媽也被念，家長強烈確認。",
+      "title": "阿嬤一打掃全家都有份",
+      "keywords": [
+        "他給我看阿罵突然看地板哪裡不順眼",
+        "阿嬤這幾天回來住，就會突然看哪裡很多毛就要打掃"
+      ],
+      "spoken_parts": [
+        "我以為在問狗狗，結果問出全家的打掃現場。",
+        "我描述阿嬤看見地板有毛，就突然起身打掃。",
+        "媽媽說，真的！阿嬤這幾天回來就是這樣。",
+        "接著我轉述：「媽媽也會被阿嬤念。」她回了一長串「真的」！",
+        "原來在阿嬤面前，人跟狗都是小孩。被念也能一起作伴。",
+        "你家誰一出場，全家開始收東西？"
+      ],
+      "estimated_seconds": 27,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R016-02_阿嬤一打掃全家都有份.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 104,
+          "text": "他給我看阿罵突然看地板哪裡不順眼"
+        },
+        {
+          "role": "User",
+          "record": 108,
+          "text": "阿嬤這幾天回來住，就會突然看哪裡很多毛就要打掃"
+        },
+        {
+          "role": "Account",
+          "record": 115,
+          "text": "威風 : 媽媽有會被阿罵念"
+        },
+        {
+          "role": "User",
+          "record": 116,
+          "text": "真的！！！！！！！！！(人類先崩潰"
+        }
+      ]
+    },
+    {
+      "story_id": "R018-02",
+      "chat_id": "chat-25c63cbd83f3d211",
+      "source_room_number": 18,
+      "account_name": "Sophie",
+      "pet": "豆豆",
+      "dates": [
+        "2026/07/30"
+      ],
+      "source_csv": "data/raw/20261001/18_20260620_20260801_Sophie.csv",
+      "source_records": [
+        239,
+        254
+      ],
+      "source_message_keys": [
+        "e1d6fd3d0c355c20840a1acdcb9048939c32f35534d1e24721bd6075b2e358dc",
+        "e1edf4b406c1c502bab98a33a6d8d87465c2d298c66e194d433dcc6928e6dd6e",
+        "8918a0044b963c794d76c53a5c75a22f3654fb6cedfc275689bc7ebe33d9982f",
+        "f4ecdfda090a7b5b28a6227781e799565119fca6075884508a345e444361924b",
+        "d1b91fe367efb268e1e38f13ee1466fd5f3efd1b00c0e18612abb68946aef050",
+        "dfa94eb49705b5e9219d233dcde22857a3ff089d5e114c2d327c6988d3f542c7",
+        "4271c4e8310fdc1a77cd07a2bb2aa59cb8b9fab8dd4c506e2ace84bb62a6ba89",
+        "edbd07410af0d85af84194c4740853db74a2c3d207e2536e3b5d5da1ab5506a2",
+        "7b05987a78aa3aef7e77fc499c193a2d5004f6199d27eae609d914b693403b26",
+        "dcae5c8dbbec2fd2d73ad73ad08df61607d375a79b464b810f1880c3b8f2170f",
+        "1b3ba5fed30d0414cefed21e21abb28e39d18142694eac610a6c74be128052f4",
+        "2a78a3b752d7f2aae1fcd8964172116e1536f27c37190612242a2f067bc646c2",
+        "2d202a70584619ce6bb287d8e59ea17109c286b99c2831ace66405ee3b1550c3",
+        "1f4268b443dd5d9f398d9829e5fdac3beac2ca05d165c447d8ccbe5ffcba3dae",
+        "876ecce1bacbd75067b3d39ab4a3d710b46b7877619d17977dee11279cc1cc83",
+        "7db74be403f7169a07b23dda73bea17ce4294e6dfe4317f25f44a2a9d4b3fd79"
+      ],
+      "scenario_summary": "轉述外婆用指尖偷摸、兔子回頭就縮手，家長先後回對及沒錯。家長補充曾被咬傷，腳本不取笑害怕或鼓勵強摸。",
+      "title": "外婆只敢用指尖偷偷摸",
+      "keywords": [
+        "豆 : 她都用手指頭前面偷摸我",
+        "對！！！"
+      ],
+      "spoken_parts": [
+        "這次說中的，是外婆那一小截手指頭。",
+        "我轉述豆豆的意思：外婆都用指尖偷偷摸牠。",
+        "媽媽馬上說：「對！都偷偷來。」",
+        "我再描述，一點點伸過去，牠回頭就縮手，媽媽又說：「沒錯！」",
+        "想親近又有點怕，真的很有畫面。摸摸不用勉強，安心比較重要。",
+        "你家誰也是小心翼翼派？"
+      ],
+      "estimated_seconds": 26,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R018-02_外婆只敢用指尖偷偷摸.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 242,
+          "text": "豆 : 她都用手指頭前面偷摸我"
+        },
+        {
+          "role": "User",
+          "record": 243,
+          "text": "對！！！"
+        },
+        {
+          "role": "User",
+          "record": 245,
+          "text": "都偷偷來"
+        },
+        {
+          "role": "Account",
+          "record": 246,
+          "text": "看起來是外婆用手指頭一點點戳過去"
+        },
+        {
+          "role": "User",
+          "record": 247,
+          "text": "沒錯！"
+        },
+        {
+          "role": "User",
+          "record": 250,
+          "text": "他真的很怕被咬"
+        }
+      ]
+    },
+    {
+      "story_id": "R018-03",
+      "chat_id": "chat-25c63cbd83f3d211",
+      "source_room_number": 18,
+      "account_name": "Sophie",
+      "pet": "豆豆",
+      "dates": [
+        "2026/07/30"
+      ],
+      "source_csv": "data/raw/20261001/18_20260620_20260801_Sophie.csv",
+      "source_records": [
+        415,
+        424
+      ],
+      "source_message_keys": [
+        "9ddd9171a0650690389118968e1fd374f0b4fb0c99a226eaa6b6276fdc0d9964",
+        "96d0ac8ea6f59417c61a50abf4346e02de903de0a45f2b945d9731a5dad78d6a",
+        "39865a4f61a7c5d8c0bc997c34c3ac49f5b27360417de4daffc6b3bdf4708112",
+        "b9658f8a2fdc85df7774d64c1f5cb8827b9c77c47864c123b6614a6affdab41a",
+        "cf876d6e04549974302038c9d35007d0d3e29de1b47061e4bbb9b96af1a40248",
+        "4a13a8a3d67ae77b24e2be2c8e85f1a04b0b83b0773fe663d33b5f0470d03446",
+        "ca6159d56c2f79027b945337d154ee8aec1f30a8d0cd3ff78d9868cbeb36bce5",
+        "faf07a4b4b8a81088495e4486217098b56b0d982b7d541cfc09e15ef2ccb0c18",
+        "ae0c2609b5fe0a2c79d5ed19b8182d5e2c7faa228b6b493370fa40126b9f610d",
+        "ba23ef5c961fb3338014ddfcb4e17a1948ea46865f1b65b7037ffac77f2e60bb"
+      ],
+      "scenario_summary": "轉述放風蹦跳後趴著，家長確認每天晚上的模式；不將跳舞直接當作所有兔子的特定心理證據。",
+      "title": "兔子的晚間表演有固定觀眾",
+      "keywords": [
+        "豆 : 有時候放我出來我就會跳舞給媽媽看欸",
+        "對！我最喜歡看豆豆跳舞"
+      ],
+      "spoken_parts": [
+        "這隻兔子的晚間表演，原來有固定觀眾。",
+        "我當時轉述豆豆說，放出來會跳舞給媽媽看。",
+        "媽媽說：「對！我最喜歡看豆豆跳舞。」",
+        "我描述蹦蹦跳跳、累了就趴著，她又說，這就是每天晚上的模式。",
+        "我聽完只想說，觀眾比表演者還投入。平常的小習慣，也很值得記住。",
+        "你家每晚固定上演什麼？"
+      ],
+      "estimated_seconds": 28,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R018-03_兔子的晚間表演有固定觀眾.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 416,
+          "text": "豆 : 有時候放我出來我就會跳舞給媽媽看欸"
+        },
+        {
+          "role": "User",
+          "record": 417,
+          "text": "對！我最喜歡看豆豆跳舞"
+        },
+        {
+          "role": "Account",
+          "record": 419,
+          "text": "(看起來是出來的時候會蹦蹦跳跳然後累了就趴著"
+        },
+        {
+          "role": "User",
+          "record": 420,
+          "text": "對！"
+        },
+        {
+          "role": "User",
+          "record": 421,
+          "text": "這就是每天晚上的模式"
+        }
+      ]
+    },
+    {
+      "story_id": "R026-02",
+      "chat_id": "chat-46f88b3ae3bce9f6",
+      "source_room_number": 26,
+      "account_name": "ANN",
+      "pet": "茶米",
+      "dates": [
+        "2026/07/19"
+      ],
+      "source_csv": "data/raw/20261001/26_20260618_20260722_ANN.csv",
+      "source_records": [
+        493,
+        516
+      ],
+      "source_message_keys": [
+        "fd8e5b56fa02bad0771c6670eb7a164a245763409fb03e33337badca8dc68083",
+        "63d368d3420aeb736cdf440e6d2b66f6954799484654e0143027c336607f5552",
+        "5825e63f9bf20cf5c2b448b3f5959c5443da93d7f94e2f384120426682cf0402",
+        "f3c786511cb454ced1627d19fe196b55287fe2a00e8aa6e5d49aeb04ec200967",
+        "aa7359f8d003e1c49807d921e67f43159d6dc628bf6dbdbb5743d847a4032da6",
+        "e2e4307d7a8464d5f57318016de5b95dadb40c7f70bd2a377bcf6f07bfa9feda",
+        "f63750dfaed352c74b171f5963ad515fe259936cad6bfbd665bd5f3067bbf37c",
+        "7cdf4e5735d18caf46a6935544f933431fb688755631f5625896c362c6bed8d8",
+        "ccca09d1ca21edfc6df723ff0d1be80338f200960ef38115248a857037ab1de2",
+        "f0551e3cad3c75102a4f04eb65299c518a7102601f298d1c43844be2c6b9414b",
+        "3ae3c1915814747ce031c2f567b1d78e799e6f01759d8adcda11fafc8fb7bc4f",
+        "f2a3c0c67dcb4380f0e2ee94f4d43be7ffc869aaf599eba59ef750903ccfef7e",
+        "b6d8ef6d1ec012d6f8020f1f0a493f699afcdd54a077a05a5a0decbcccf712fb",
+        "3156b6673b33cbc6e221578af966ac697d399fe5786b6b8969da47f47c62f053",
+        "2d650bce242a86ce07a1a8a3317fe31d305feb4a3c102d98ff8eb5b17b16cb61",
+        "cf3c7b8469483c2b12b530f277f5df343538f73d1a87417b81bcd13a87299094",
+        "81be57808944bb44438f03996e06cfcb133f023ca4a17af36bf6402f9c7d1f2b",
+        "4247849669be11c8c2f9f2e681c91a184798b965720e8b25463394140053e7e4",
+        "4a1ce4a16e5e1506fffbb9aeb783f9f797b01299b6f0ff90ede71ff6008e2f7d",
+        "cda671f6b6ffd641dd541b0b4882b0e5f4289a50946ccc87f3402eb9c7c0673b",
+        "2aeffa0f708d4ace1ff400e0522a7572dc2669efa2d79d6db298de3595c30316",
+        "bfca2c22cfe319e3a9b1fbcea4b7a57bedfae6e1c5170b70be3fd18b6d4f6cc5",
+        "86a2d9abf4a68c46b1e362b36760658f7fbd5c2444a8f994d83fc8ccc1786f9e",
+        "81fa123a2c71d71dbac63f9febc13afefc3befcc27e40bec5830a201c3d0f545"
+      ],
+      "scenario_summary": "阿玲描述一圈圈慢食碗獲確認；轉述媽媽稱讚碗吃得乾淨不用洗也獲確認，但家長實際仍洗碗。",
+      "title": "吃完飯還以為自己會洗碗",
+      "keywords": [
+        "然後你再用到碗裡,好像是慢食晚",
+        "對！"
+      ],
+      "spoken_parts": [
+        "這隻狗吃完飯，還以為自己幫忙做家事。",
+        "我先提到一圈一圈的慢食碗，媽媽說：「對！」",
+        "再轉述茶米說，媽媽都稱讚牠很會洗碗。",
+        "家長確認，吃得像沒用過的碗，連「看起來不用洗」都說過。",
+        "我差點替牠寫進履歷。但吃得乾淨，碗還是要洗啦。",
+        "你家也有自認很能幹的小幫手嗎？"
+      ],
+      "estimated_seconds": 27,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R026-02_吃完飯還以為自己會洗碗.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 493,
+          "text": "然後你再用到碗裡,好像是慢食晚"
+        },
+        {
+          "role": "Account",
+          "record": 495,
+          "text": "一圈一圈的"
+        },
+        {
+          "role": "User",
+          "record": 496,
+          "text": "對！"
+        },
+        {
+          "role": "Account",
+          "record": 508,
+          "text": "茶米 : 媽媽都會稱讚我很會洗碗"
+        },
+        {
+          "role": "User",
+          "record": 510,
+          "text": "對他都吃很乾淨"
+        },
+        {
+          "role": "Account",
+          "record": 513,
+          "text": "茶米 : 我吃完,媽媽說看起來晚根本不用洗"
+        },
+        {
+          "role": "User",
+          "record": 514,
+          "text": "對"
+        },
+        {
+          "role": "Account",
+          "record": 515,
+          "text": "茶米 : 但媽媽還是會洗啦"
+        }
+      ]
+    },
+    {
+      "story_id": "R026-03",
+      "chat_id": "chat-46f88b3ae3bce9f6",
+      "source_room_number": 26,
+      "account_name": "ANN",
+      "pet": "茶米",
+      "dates": [
+        "2026/07/19"
+      ],
+      "source_csv": "data/raw/20261001/26_20260618_20260722_ANN.csv",
+      "source_records": [
+        522,
+        545
+      ],
+      "source_message_keys": [
+        "b1d75f1341c6a87780214eb2b2cb0fb5650da2a701250f456ab0de76edc23d33",
+        "4786f9543f166eb7215f219e2bc3364a6171937764b73e4ef1c9c743ffacdb92",
+        "893e4bcca784ef44fe2d61bb2ea3041adbc3d867758ea192ed5e49309441725f",
+        "d7a33db92f8ca4adb671815a5dcbcc25199d20885d34462eec9c12cdc7bb089a",
+        "6ed0b66e8400c68a4ca1a4c302de1535b578e4ce1b798b538390618b1e1ff9d3",
+        "d031f405518bb84511b5a4772d2c2c3c302fda3d74cf1b6e88bd1a19ac4c8e7d",
+        "6e73c2865ff268681405f0af2f2666bd2a1180dc1be5b458d118f89e2aae21db",
+        "0f26f8fda13558de447245a8c575e46f7d3e4a9d0f7c7fafa6074dafc06f4072",
+        "6d487f56d89f63474eaf78897ce155552ec54b4b24f8e1ada670922102e76a22",
+        "0f80a11d2670157e112ae3b239b28be9291c7fa4e4ab8e8a8549ea94815470ac",
+        "8d4c4b82fc4400ec8fd4fe554bf3f1ecaf87daccff9296995fdec38b36509899",
+        "abf5fe02e5709ccbf70564a57e92c1cc331789c09f98b05d04bcb4e9405ec936",
+        "b6a68aa91321884f5d083502eb5a32c3660f7e4a574e6f566117c1d2bd496dc8",
+        "9ea67de195903a00697e7f2b6a4da7b608520cd7d3817246d40b15ff4e320e65",
+        "e7f61e3dcee04e5e31c04f5f84922d4bdea8abb54479817068e3dc4fdda59683",
+        "59c58d38beb0e052c802cfc9f17fe143049ec1c1350696eadd67d9fb59534394",
+        "9c4328df276818a202c328f1a3beb815b8de7af274220ef1e7646fc2700cf48e",
+        "7199626bbc9998ce3137f87195487c06a06a11f9c3a50934f6db554d355aabdb",
+        "040f3decf63c15f4e9798d066cc42a709b148c6019bd95a4aaa3474374712e7d",
+        "b2be0eb638538676449abaca473b0d097976d62acc2ebc7923c58373d6786b59",
+        "ca5240c6b883b0f64a5e216715fc5c31dc3aac68e21e2deed433c00aab8b924d",
+        "6ceaa186118f30dfb3281d93e7886179be5ff99005a32e76b4f2bc8b33618712",
+        "655798aafeee04270366afca195a0faf514b221562e82083a26c3b9cdfea8644",
+        "dc7cbef65586bbacb9d9f5141d2ab3cf9184d676364207039581e79cf715823a"
+      ],
+      "scenario_summary": "家長先談喜歡爬山；阿玲提出三隻淺色犬及都是女生，家長分別確認。毛長描述中途修正，不宣稱完整外貌全中。",
+      "title": "爬山團的成員逐一對上",
+      "keywords": [
+        "跟三隻淺色狗?",
+        "對！"
+      ],
+      "spoken_parts": [
+        "聊爬山，居然聊成小狗的點名時間。",
+        "媽媽先說茶米喜歡爬山，我接著問，是跟三隻淺色狗嗎？",
+        "她回：「對！」",
+        "我又轉述：「牠們都是我姐。」再問，都是女生嗎？媽媽說：「對，都是女生！」",
+        "原來出遊還有姐姐團。記住同行的夥伴，也是一段生活故事。",
+        "你家毛孩有固定旅伴嗎？"
+      ],
+      "estimated_seconds": 25,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R026-03_爬山團的成員逐一對上.docx",
+      "evidence": [
+        {
+          "role": "User",
+          "record": 528,
+          "text": "對！"
+        },
+        {
+          "role": "User",
+          "record": 541,
+          "text": "對 都是女生！"
+        },
+        {
+          "role": "User",
+          "record": 525,
+          "text": "也很喜歡爬山"
+        },
+        {
+          "role": "Account",
+          "record": 526,
+          "text": "跟三隻淺色狗?"
+        },
+        {
+          "role": "Account",
+          "record": 539,
+          "text": "茶米 : 他們都是我姊欸"
+        },
+        {
+          "role": "Account",
+          "record": 540,
+          "text": "(???  都女生嗎"
+        }
+      ]
+    },
+    {
+      "story_id": "R030-02",
+      "chat_id": "chat-b0404c12aa30c345",
+      "source_room_number": 30,
+      "account_name": "盧卡媽媽",
+      "pet": "盧卡",
+      "dates": [
+        "2026/04/24"
+      ],
+      "source_csv": "data/raw/20261001/30_20260421_20260717_盧卡媽媽.csv",
+      "source_records": [
+        74,
+        96
+      ],
+      "source_message_keys": [
+        "097e4c34a4e5dd5a41da5cccd0b8650ac5be7286d5c400253acf1e90c6ff18c8",
+        "a40a9028e0c96aef3840a5518a38db340a784db2c9b248549911cfb72de62ed8",
+        "8af1b1b3a934126f151b5c98442b8a644d22324d350ef6898f229153d54baeea",
+        "9f065c0792bcaed5025d7d55813a3ae98910cb7858b159436ddaad047be44051",
+        "a5a451bd72681a4079c197a41354d6a53deab46970febe6810edb153cb7559db",
+        "e06507b179247a92786e1d9caeac333099badb72d1ad363a068d7abca8fc4ac3",
+        "526256c1aa30df77261e7b9b03ecc7aa2f5145f0949c98abdff3848f8ff19171",
+        "d7952ea0773c58ca77e1676e49aa06721f4a64b5ff8b0bd7b870479682dff0ee",
+        "d2c906c883ea82d3eec08a770b5ae7442536123fdf043cefc2061aa63656636d",
+        "6423cd4787e41d6dff2394fbc1b0884d66f203ef247f998893b6e42c3bbe831f",
+        "62c6bc2a2bde10afc480fcd3f999200ab18881e7d1c578cd0f20abb62de39f6f",
+        "efc58872ececa74c6793cf076a687d5d9d26f9449f0855f32ab1f865c35291ae",
+        "74565c98f962f83fccc777178ab7cb222f2ae66613025a8b3361d550931b25d6",
+        "68cfa0e5516278333f028fb89187f69ba72e016d20748b5b354ce10c013380e8",
+        "887dcf36a25e825774e1c74be51403e887dcae69ef6f85d640d730ad607e3cc1",
+        "f5736788480c22196d566cba885dbee7235da721b7da3e019363f633ed2cc039",
+        "82ef12847f003e6f9fe73f4759fc4a8b6810c72c84322e22e6e5160db95bde88",
+        "10ed74f43e0a5c2c690ac1c308625121448f16749b86b31573ecce8efc03ab24",
+        "f37462f9e4a41a21bad3946872382e81a02d4a7e5992585a1d3434f127829fc2",
+        "b5d5912835fa6e04b7fdc82ddaf386efaab31fd456723de8ada87691c0b44d21",
+        "60a9472e62e1888de1356c2df01b784b676628b8e1bc03b77ee1ab0d14139e99",
+        "f67ddc585b3329fd08601518407502efc5f0174b6773be1c8e942dccb7d95c9c",
+        "e85c5f046f933f14003a72c7184374205e718cd6b4950677669151547a4319c6"
+      ],
+      "scenario_summary": "阿玲轉述今日媽媽很急，家長回很準並確認散步縮短一半。不可寫成小狗能精確報時；當日約溝通時間是阿玲已知資訊。",
+      "title": "散步少一半被當場說中",
+      "keywords": [
+        "我問他今天去那裡散步,他說今天媽媽好像很急",
+        "很準！非常準！"
+      ],
+      "spoken_parts": [
+        "那次溝通，媽媽的趕時間被點出來了。",
+        "我轉述盧卡覺得，今天媽媽很急，還沒聞夠就回家。",
+        "她直接回：「很準！非常準！」",
+        "接著補充，今天散步真的比平常少一半。",
+        "結果趕的是我們約好的聊天時間，我這個訪客，竟然也有一份。行程變短，體驗也會不一樣。",
+        "你出門最常為了什麼趕時間？"
+      ],
+      "estimated_seconds": 27,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R030-02_散步少一半被當場說中.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 74,
+          "text": "我問他今天去那裡散步,他說今天媽媽好像很急"
+        },
+        {
+          "role": "User",
+          "record": 76,
+          "text": "很準！非常準！"
+        },
+        {
+          "role": "Account",
+          "record": 78,
+          "text": "好好笑,他覺得今天聞的不夠"
+        },
+        {
+          "role": "User",
+          "record": 80,
+          "text": "哈哈哈哈哈對！他今天散步比平常少一半"
+        },
+        {
+          "role": "User",
+          "record": 87,
+          "text": "是，媽媽真的急😃"
+        },
+        {
+          "role": "User",
+          "record": 91,
+          "text": "對對⋯⋯感覺非常正確！"
+        }
+      ]
+    },
+    {
+      "story_id": "R030-03",
+      "chat_id": "chat-b0404c12aa30c345",
+      "source_room_number": 30,
+      "account_name": "盧卡媽媽",
+      "pet": "盧卡",
+      "dates": [
+        "2026/04/24"
+      ],
+      "source_csv": "data/raw/20261001/30_20260421_20260717_盧卡媽媽.csv",
+      "source_records": [
+        116,
+        144
+      ],
+      "source_message_keys": [
+        "0f124fb0e49ab89a59aa89f5d24dd66ea173e89449f71a645bf9d56971f4c953",
+        "099758cc3ad7a652891923c2ba2f1279af5a5923ab6fe6db6b270151113a76e3",
+        "b909880575d442da08bee64593ab41a0e31a8cce906483aa65dfa722a8e3502a",
+        "c24fb26d8459fe3daa8492f47246f04c35b6483cb1fcf1be727cd63d16d078fc",
+        "118912b4346680f04e2c66ddabdac933611104e2e3c6cfc9942de9ca60411d53",
+        "476e76bb6340e4648a7fb5b09a1ad31bf1c5557db68dc4165a78df40624e216e",
+        "96518be43da89667da6d65b81ad428dc6b3810bcddc3e106b7563eefb0faa021",
+        "01fc1981318e64ea510f17043cb98a3568791b07ae4df2f077bbcc2da11ca363",
+        "cf1949ada422678748fe6236d45797716fa23e8fd88f3dd298227cdb0c43a47a",
+        "47f5e16d7dca6d0d95c9a7a48a20e4c6bf14520055fcb1109416b2065cf12287",
+        "bd41c1ce81bcdbb2177cb532a1bdafb7a5519aa7a9f1df845027f9e75a607477",
+        "de05566724bc45b3e7c165d6798d1e61cd72fa9968395f5ea8bfd32890cfcee0",
+        "10c7084d3c211742be89880d0380792ce59e0353af2452edb0d1a5a96bb855ca",
+        "215936862adf3241eb9a452e12c9e0f4e9ba7e1d989b6579a74bcba83f24bd59",
+        "e4d197aa55268949228e49754dc24fde064aefcb8dd47f3d2a4ecf8f303b1b83",
+        "07a0ff96cde3ba0364576ab786c62bdd0c96d092b99d73761d22fcd2a61629ad",
+        "094e39257f05271fc658eaf0a9dc194a8ed03600b9daa6fbd257f71ced76513e",
+        "33d6cd3b72e6fdc7ea83bfe395bbd9782f1b56491f0b11f5d6b09b7b1c4f2c50",
+        "1af47f0d76fd147598817d56b8751aa6994beb713b49d952761fb79025116c11",
+        "47cf9a4d3d2ec95520620e98b1b670883e460a676aa5cb94a35a352ed12dda4f",
+        "532bf66f6df8f754593a72bb020867a93bc390d2d148261756f592b77b15871b",
+        "52237d101a47afc76c07f5d4529ebcc1fc012342634cc3da712e036f11a8ac83",
+        "4c43b5a3b5a217cad9821869ffe43b92d805825484c66d261e4a5b593951aa94",
+        "60566b9328352a02b7706702a4f2c6f1975ffee3152ba1294147b594ca74930b",
+        "23609d453165c3f36f787cf2a517c70ba605dd584d58cb1fa82098b6ec81ad3e",
+        "bb26aa7609f99500d447626e1924db2a7986a458f706121b172cbe3b229cba2b",
+        "92e2ddef7244a63e5f96b61342676ee5d1aad437580e950237f3e85151f35782",
+        "49a527a5bb2fcee0e0095ddc7d72aa672f080cd79d1f73b6eb7256a56c9515ce",
+        "bf52afa0ac21cd4e24e5ecfa48bc644b3385fab1976ce07d34cf9682b552629d"
+      ],
+      "scenario_summary": "家長確認媽媽躺沙發丟球及爸爸較認真亂方向丟；轉述小狗以為爸爸不會丟球是趣味觀點，不指責爸爸。",
+      "title": "媽媽躺著丟球反而比較好玩",
+      "keywords": [
+        "他說在家,你會躺在沙發上丟給他玩,他覺得很開心",
+        "對對對"
+      ],
+      "spoken_parts": [
+        "最認真陪玩的爸爸，這次有點冤枉。",
+        "我轉述盧卡喜歡媽媽躺在沙發上丟球，家長回：「對對對！」",
+        "媽媽還驚訝，牠竟然喜歡這麼省力的玩法。",
+        "牠那次的版本是：爸爸亂丟，我以為他不會，所以幫他撿。",
+        "我笑了，原來爸爸在增加難度，牠以為在幫忙。",
+        "你家玩遊戲，誰比誰還認真？"
+      ],
+      "estimated_seconds": 27,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R030-03_媽媽躺著丟球反而比較好玩.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 123,
+          "text": "他說在家,你會躺在沙發上丟給他玩,他覺得很開心"
+        },
+        {
+          "role": "User",
+          "record": 124,
+          "text": "對對對"
+        },
+        {
+          "role": "User",
+          "record": 126,
+          "text": "竟然比較喜歡媽媽敷衍的玩法"
+        },
+        {
+          "role": "User",
+          "record": 129,
+          "text": "爸爸是很認真的玩！"
+        },
+        {
+          "role": "Account",
+          "record": 140,
+          "text": "：是喔我以為爸爸不會丟球,想說那我就幫他撿"
+        }
+      ]
+    },
+    {
+      "story_id": "R034-02",
+      "chat_id": "chat-7974bfd7c61a0288",
+      "source_room_number": 34,
+      "account_name": "Alice",
+      "pet": "腿腿",
+      "dates": [
+        "2026/05/16"
+      ],
+      "source_csv": "data/raw/20261001/34_20260427_20260712_Alice.csv",
+      "source_records": [
+        90,
+        129
+      ],
+      "source_message_keys": [
+        "4a7b745c75e52329971f67d70dcc8c993e1baec60c1944fc82794ef490b27255",
+        "3162c7175924a7cec158ba75f2f2efaf58e2ceb66f889891fc8b7053cb815328",
+        "bd9f9ad44f3476b8073ef5611f8ffc72993830d0eeddf7bda680ea0723ef54a9",
+        "82dc97fc8795913a7196e132727f71956401856365f0116c03df1df0d15c2a74",
+        "c0f8e83b5a5e79997786c317b814a47d8538b3c1912df3571c1d50bb2436c183",
+        "490486c729efc2efb8f3185b059a1c386494f60e03b5fb67c25a158c395c7706",
+        "b7c3d2b03130616766a8a5c0d9896af6483086a5ca48676df2c537c54298d9ef",
+        "70fd0ab2fa12b001323a7cb0b57ada1bb78d660bac1232b3c64c58a93cb66396",
+        "0083c2b9e3d75462ab373abeb81861cf66cf1d267acb1b3eb29716f01989ace8",
+        "fa887e03c735cb0f67a6ff890063ee5ff88c919696e28933bbd812cfc42ca411",
+        "19dcc71a2e5e8a0ef62543be2fc40e58ca9f9aca20a2480a5f27a59859b14311",
+        "9b64969d1d01a0ce10ad5e6db5d84f2b35b0e7f56251d42a6e493cf3e27e71e3",
+        "8b8304ecb2f291fe9ece2a2e7332040896149bca23851bda99181cded3d8df73",
+        "d95542fe5487b83585475e7b5a4f17eb689acab93869eb54161c7bce137bf7a2",
+        "22d774e6ff4bc757f2f32c52cc04961d0eff85d07a7ba01ee62dcc79ceb032bc",
+        "d3aae4d8579e3f52f17a679bbdaee8cf354409558cf177f7168b2fb8cf86e494",
+        "b8c534c3ed14731a99e22e8cfa7ef4fb123b08fac5bf130f3d24c8771a37f1e1",
+        "a94a6d0eb41ae8a17858605525678a4a0baf09a078f937041fbf6589b765451b",
+        "c0ae11c4cd865687d990179ffe680360f1ad37c27eb0650025b89ced16e60760",
+        "7245f4b9ab8218e7debb9c26f1c74c4bf4cb4f1edb59e620bfbe50a3fad36e02",
+        "54fc657660e1ec3a696d4755a525ee92cf71b233ff704327d33e7f704e0d29fb",
+        "5f55b9f7035d45bb56b7f55817f1467ced102f46cc34c796bcd33e6ce44101e6",
+        "fcbf84928410cb4140e9d69089f18a07da4a965915fb0b098df89286d59ff2b9",
+        "5bb20016faece9fca392331308b5a7950138c3f970c3041d363db2a8ea55d519",
+        "9356b804b9b2c94a108f193beb53dc22e8975c3e45b0baef2abd9bad28b6f37e",
+        "2770ac62bc490e1559c1d600000262aeb98e2773992ad6a620c40c67612d0122",
+        "de29f8b6964fd4d8687de756ab60bb3cd662b3549ac5df476e3ea3a9ae550914",
+        "ba69ba0dd466902c7bab8e1b782967b22c388e4483bc3a189fe37735fd1c8d9d",
+        "3a63157ea604e1e55b9b7f1f13e2d7eef1e28cd027726bce300bf468474ac1de",
+        "ea973acb2b151d4df0d32be7f90c659596e400097fc1b3f80d8f048984fb70d1",
+        "f15e881274604c30f8c7e83a097f58595f0ef953232109253a8c0c404e551b11",
+        "dc29e180dd41bf3394111959757d4598e7feeded40cf130a4c60da942d91d2c1",
+        "ef29eab5171571f963688cc4f69ef2dd5eb0dc8114c4d0404225fc012689b11b",
+        "859a9ea91b68f74f4e5ca1b4c7cf718b922ab7425feef41734b0f265a4e71c84",
+        "4fa4d63e1c290374593c939b3d63ef0a07cff85809a720c68f57d16c3fc4f076",
+        "7c283d84c81bde3e42f8619691b56d98d756196f95f32ca6839e0a86dc232aa0",
+        "f178615ef1ed41b3035ad492a7d9cd2df66145cbb056ad03e36a5e390bed6572",
+        "2385261a49b50c3354cf5eb163ebafbe01a7ae575bcec2be4bca6d21b3ca156c",
+        "7178a4a688d561602009d2e45a209e23a9ee7368f9c26d93fbd648de3526e9d7",
+        "85b4be8d8b7e63b5935c0b5c53c321f16991fa32e07cb33474440c4a9c3b906b"
+      ],
+      "scenario_summary": "家長已先提供枕頭擺法；高光僅為阿玲描述父母面對面近看，家長確認。不能把枕頭方向寫成未告知即知。",
+      "title": "睡中間要接受兩面注目禮",
+      "keywords": [
+        "他在中間的時候你們會都面對他看著他是嘛",
+        "對🤣🤣🤣🤣"
+      ],
+      "spoken_parts": [
+        "貓睡在爸媽中間，待遇可能太隆重。",
+        "那次家長問枕頭怎麼放，我接著描述：你們是不是都面向牠？",
+        "媽媽回：「對！」",
+        "我說，一轉頭媽媽的臉很近，換一邊爸爸也很近。她笑說，他們超愛。",
+        "我腦中只剩一隻貓，被兩份愛夾住。喜歡靠著，也可以留點空間。",
+        "你睡前也會一直看毛孩嗎？"
+      ],
+      "estimated_seconds": 27,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R034-02_睡中間要接受兩面注目禮.docx",
+      "evidence": [
+        {
+          "role": "User",
+          "record": 105,
+          "text": "對🤣🤣🤣🤣"
+        },
+        {
+          "role": "User",
+          "record": 129,
+          "text": "我確實對枕頭這件事討論很多次哈哈哈哈"
+        },
+        {
+          "role": "User",
+          "record": 90,
+          "text": "其實我是想問他可以睡中間的枕頭嗎，枕頭放直的或橫的會影響到他想不想睡中間嗎（還是他就是想睡我們的枕頭"
+        },
+        {
+          "role": "Account",
+          "record": 104,
+          "text": "他在中間的時候你們會都面對他看著他是嘛"
+        },
+        {
+          "role": "Account",
+          "record": 114,
+          "text": "一轉頭媽媽的臉很近"
+        },
+        {
+          "role": "Account",
+          "record": 115,
+          "text": "換一邊爸爸的臉很近"
+        },
+        {
+          "role": "User",
+          "record": 116,
+          "text": "超好笑，我們很愛"
+        }
+      ]
+    },
+    {
+      "story_id": "R037-03",
+      "chat_id": "chat-d8059d909fc5eab5",
+      "source_room_number": 37,
+      "account_name": "Guava",
+      "pet": "蛙生",
+      "dates": [
+        "2026/07/10"
+      ],
+      "source_csv": "data/raw/20261001/37_20260427_20260710_Guava.csv",
+      "source_records": [
+        124,
+        143
+      ],
+      "source_message_keys": [
+        "63fa6b9a29f4a195a58e9c344f5b5b84c1cb3190a43c2378c39e3716da16e568",
+        "9568eed37c4fda4e93e2b209b68372703ea81c6385000f6ef02e30054107148e",
+        "7664e230945534900e796f104ec97b335379964049a91b7afc5b7eeff447c1ed",
+        "baddc2505bc64a560e141b33dbaf16a3ff3013e3f5d5611e7a4e8ce3eeb27ce8",
+        "56db17e354b0a12aa0287beab32e7600f0f43a382893d291b6e24c4eeb47f39a",
+        "e91eb0a1d62679b6175854cbc077949feab1ba5a593589e9d6b8f1a01417faeb",
+        "176f129f7bcd7e89933ddbd7d1dffa02703bd57fa011243cc3156c752494a6ec",
+        "ef879967ce393e28413cf6208573cc28a2d43dcd42696e00aca1b57eec9cb2b5",
+        "fe8374a91da4e0fa31aa5fae201a769e7eb9197a8eed5ba121aeb871c7260332",
+        "50ab9e6e7c4195c5d5694561f8be0a8856eb5747b68de50b6ceac9f4d18047c3",
+        "839b153f58914794a18316caa72e7ec9298e3230b10f9c9f1b7326b7dce95add",
+        "37ae1aed8ffcea42808e6f0f80c4b0bbea0a90f31860f10e04306947ae3b1ba0",
+        "f6b791dc69084ea853d50ab5b8defb1bf2459d81644bab04dad199f4b956d69a",
+        "06d8a0eb7e74ba063ab5d6f05c418e081f8f19063941fca57e775dc1dde8fe0d",
+        "8d625fbbd0c3cbaa68f1c33531a96bd5139e9bccb304b1270ec2f27203882016",
+        "f6cfeb7edeecb4bf1e09bdbf5124d5eab59694259ea46bc7182d0ac34f52d1a3",
+        "25f123747025308c6d8574c5b8ea9a986fbd93c33ee76367b994095e16129bb4",
+        "1d7b124f93d058192e723ebe1b556ecfaefff46755ee8ae7bd5a96fbc0444a0b",
+        "04ef0b0e0118a82dd8b5f21473408fb09966f8031c13e3032395ca0f17f88e67",
+        "379cb98856002c3e26c6fbab91ae02f18e9415b851598cfeef35b86c3a00a928"
+      ],
+      "scenario_summary": "阿玲問家中唱歌獲確認，再描述爸爸做家事哼歌及媽媽躺著附和，家長回這個好準。台語諺語未確認不納入。",
+      "title": "爸爸做家事媽媽負責和聲",
+      "keywords": [
+        "你們在家會...大聲唱歌(?",
+        "會"
+      ],
+      "spoken_parts": [
+        "我聊貓，聊出了家裡的雙人演唱會。",
+        "那次我問，家裡會唱歌嗎？媽媽說會。",
+        "我接著描述，爸爸邊做家事哼歌，媽媽躺著附和。",
+        "家長直接回：「這個好準！」",
+        "我聽著笑了，原來一個負責家事，一個負責和聲。日常分工，也可以有自己的小默契。",
+        "你家誰是主唱，誰只負責捧場？"
+      ],
+      "estimated_seconds": 26,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R037-03_爸爸做家事媽媽負責和聲.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 124,
+          "text": "你們在家會...大聲唱歌(?"
+        },
+        {
+          "role": "User",
+          "record": 128,
+          "text": "會"
+        },
+        {
+          "role": "Account",
+          "record": 137,
+          "text": "(然後看起來像是爸爸邊做家事亂亨"
+        },
+        {
+          "role": "Account",
+          "record": 138,
+          "text": "你會躺著附和"
+        },
+        {
+          "role": "User",
+          "record": 140,
+          "text": "這個好準～"
+        }
+      ]
+    },
+    {
+      "story_id": "R039-02",
+      "chat_id": "chat-40c8953023be67c0",
+      "source_room_number": 39,
+      "account_name": "Wendy",
+      "pet": "圓圓",
+      "dates": [
+        "2026/07/06"
+      ],
+      "source_csv": "data/raw/20261001/39_20260619_20260707_Wendy.csv",
+      "source_records": [
+        290,
+        317
+      ],
+      "source_message_keys": [
+        "05e27baf2cce372debca99dc46e050b2141bd0511decc7763ab2bffd2cba6fa1",
+        "acd63eb7e95eee422428da32d568010d5aa681f8dff65a457ac6cadc7c707e9e",
+        "a7789156b9bc2f01831242fdcb37921ab3c925f6f31c4eebd1fb88e0b0544b79",
+        "d308e99f1d186a724af8942381694d369346d75abed7aeedbd5705077dc68902",
+        "f800d88b8f94b9dd2d43887e3df41c0f8e0d6c8784024f4ac29251e42be1ca89",
+        "87872453fbaf37f5415c782000636bd1a5f2a88725d36197b129abf2089cb6cf",
+        "11257dc180d517af9ffe99f1789771d3c3b64d600714c0dac3d1758c3d635455",
+        "b28d52c65a16ebcce0e6a8d01f1acedd0e8098bb68b573f2a221e46eb1aa4082",
+        "435d7cfa4a57b89c0d6967368c7b766610f6ff07338bc2528cab9f3a4023db72",
+        "853b985539ecb5955cf8afafec6e2ddc3b5f368403dd577a5bf98e86a3cf9d9d",
+        "aa8b5bcf9bbd4014e9e75bf2f051baa63764c353dae6f658b043117d4413f153",
+        "9602c3a56cf67af39ddadd6cdce30f0223254f272fab7858461357914ddf7af5",
+        "cfcfb0f25a24356a8e0d60260f6baa8ebd16d4470ebcb58dab38a1eda2e7f449",
+        "a04559e43f6c05dab0b9aecb2f5189be497d9f5fdf679024615e03693a1744a2",
+        "1911d7a0939306a33746d5ade6d1d07cac5a0a6c1f08f9c70afe33f290ef4fef",
+        "9d4b2190a0bf401a130f85f18df55b7a2aceef9e2396e6f8d9bd0ae9c0d9c9a6",
+        "eba55b63001e365af9e510bebd4d14c58340ea727af5c8c800fcf36f23b223c3",
+        "83f4ae6774e655d23c3652de0093480cdc487b0eba5ecdb2e82d6b6c52746a26",
+        "7eddc12a89718d91b293e2da80c8b2ba5e8815da99b226c808f436e2b9ff812a",
+        "e391b1bb400673aba4c0b0a5ef442fda5ec4562862f760513b572aa84e3cb79e",
+        "7c6f541d8344728069984ab3c2bd7b119d23ccd2412e14ab04273b0906277569",
+        "62b58ff98c8da556a9e907c179f0d2dd95fc93bbdda8fde781a23b14ba393e10",
+        "83893daca8ca3bcebf3e34656ac36ac933c254ba2ca97bbbc9fb2e1d5cacc6a9",
+        "e2ef76d0ffa555af07ca8c64789fb2ae08bd0fb1089dff46e2ce47dde482f581",
+        "ae4e18de78adc84e3b8dbedf167932a7b8d0a1e9027545c3f21030d1b35b85cf",
+        "143a8ea24c2858e858f68c233f74d19ffcb541ee3ef41f5ff8ff80b0a38ae2f9",
+        "64d6110760116916af3710465d8469b9070dd65053e2a255507d82758fc02b99",
+        "b74da9e2a79d52eab36de073fb03a76faa1b1cbd2e5e4e528cd29d94deb380b5"
+      ],
+      "scenario_summary": "家長已說是衛生紙塑膠包裝，阿玲再問好事多大包裝及紫色，家長回真的欸太厲害。食物袋初猜未符；氣味成因及營養狀況未確認。",
+      "title": "連衛生紙包裝都聊到了",
+      "keywords": [
+        "你們是好事多的大包裝衛生紙嗎XD",
+        "真的欸"
+      ],
+      "spoken_parts": [
+        "這次溝通的高光，竟然是一包衛生紙。",
+        "家長先說，圓圓會舔衛生紙外面的塑膠包裝。",
+        "我接著問：「好市多的大包裝？紫色的？」",
+        "她回：「真的欸，太厲害了吧！」",
+        "本來在聊貓，突然像在核對購物清單。不過包裝對上，不代表就知道牠為什麼舔。",
+        "你家最意外被注意到的是什麼？"
+      ],
+      "estimated_seconds": 26,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R039-02_連衛生紙包裝都聊到了.docx",
+      "evidence": [
+        {
+          "role": "User",
+          "record": 305,
+          "text": "真的欸"
+        },
+        {
+          "role": "User",
+          "record": 306,
+          "text": "太厲害了吧"
+        },
+        {
+          "role": "User",
+          "record": 301,
+          "text": "也不是誒是衛生紙外面的包裝厚厚的塑膠袋"
+        },
+        {
+          "role": "Account",
+          "record": 303,
+          "text": "你們是好事多的大包裝衛生紙嗎XD"
+        },
+        {
+          "role": "Account",
+          "record": 304,
+          "text": "紫色的(?)"
+        }
+      ]
+    },
+    {
+      "story_id": "R040-02",
+      "chat_id": "chat-b23c76ab382874ff",
+      "source_room_number": 40,
+      "account_name": "XIN BEI",
+      "pet": "有希",
+      "dates": [
+        "2026/06/21"
+      ],
+      "source_csv": "data/raw/20261001/40_20260427_20260707_XIN BEI.csv",
+      "source_records": [
+        140,
+        171
+      ],
+      "source_message_keys": [
+        "905f44777f664e109c9642bb53546d027a2bb93a75a462f46b56d9368ce24383",
+        "c25d66917f3975ea4b0b831534f96a4caa2896fb2c0bdbc46414144631bf97d6",
+        "3a2597fe6dc19d99b892af438c85c0202698da72ca90a615e2218ea9ab7cad74",
+        "2ac9a63a604ee441208206bda4d2092d61b24906868178fe609b513c9659a7af",
+        "ae39739c66b114054ac5e002638dbad874dd69e1df51a05c8e93beaaecb7df9e",
+        "55a29c0432a39c4492e0c58980919041f9ead2e9dc73f086640dae7f60985f74",
+        "52b0488eafcc495f93706df6fe1ed1b4699d14fc8492d0f34448237ffba2b778",
+        "2159c6caa15e4171d2f0809644060ea9900ae456fb32f4de5535fd88fced83e2",
+        "23f19eb0663fef3fab7742758d2d6616a92d4e26c858c6e1219b59a49815c1c2",
+        "af3de35dee14ee49425abc0a2526a4671d80681c812a223e96c4e80a60943b8b",
+        "801f66d65ef6d64324df10095a47bba80ef1a9cde6658220fe2d48053946c4a1",
+        "9dd2429bd1371628bd0ee2c16e67a98d135f8eed1a046f0cdd6f32d41e1d61b9",
+        "4bdacb8140d5bcaf67f9fa77c3f278d7036935aa59641419a4b0dd6e63856738",
+        "abdbd8ed8c279fb4fc4d55c56383040ada2bfc1a99db227393995b7fbab1df44",
+        "eecb15301676d7b2a641dcf68ea8719b20efe7d4ac885630ad64bdd9519bdfa7",
+        "2d09871606612e2257c0b5283bf4e1b9efe6af0a9c9ba8e631f3e7dbfcdde166",
+        "f724f47b3bab0137f1374af163aa16dc9b37b704275726b2ee53562f0fbb9ce3",
+        "dd382257878739c57fa6b3643b929a0abbba7e515f7c15dcc5315c7b792ec4a2",
+        "778977bc72c9524f7923f2a1a5ce1d82fc9013116e12186d3b3a4d24ac54078b",
+        "f8ca0827457b994855e80798be3c9c31ae20b4ab236d9b951c6e6ffa24f3d3ec",
+        "dfc218a563fe78b6938ac207db6a5f529b7c830628b69a54553af5b10fdfa0be",
+        "8ba4b8c560c695b2f485df8fd26e269f8c08009fbb5683a3f28fdcbb06550749",
+        "a7516f9e20d24700246fc51c61c947a119071fac35f41240b7ef1d07dac9c07a",
+        "c51a0bba347e1dbaee66472be77b8e6f9abcf046f705447c3bfa4eabe371ae1c",
+        "0022fe81dc6f5acfdf8f60223b4f8aeec9aa592cba5a9ce75eccad3304789380",
+        "b24ac4338afa437871c8f49dac51abd24ae915da962efe09a818cefb1ba02e85",
+        "5ad244269c6126ed6984674a38f20da88e3cc40a46b8de94363a2d496ab10127",
+        "398743e86777f3af80c3cfa79f503f8f43592a4b2ad6f838fc3eaeb59dbb828b",
+        "f159e67fa6a874a84ed587ae0e9d0eb6c2e74ac4a0f5c5687c99b336bfe8f895",
+        "6ca5601a9c82c4b590711fa511f8e78b0280293bf9776cec373dab7f34224bb4",
+        "cb973cfc22176473d40842a30cd12ff2f4b1273fbccece3614b0d2c7e199cb61",
+        "167f8b50d4aa61211063651acc9151cb81e73863db70d9a82409e2c2bd90001f"
+      ],
+      "scenario_summary": "照片已提供後才談高度；阿玲說以前三四樓，家長確認曾住三樓四樓；現在六七樓以上的推測由家長補充八樓，不写成精準報樓層。",
+      "title": "貓咪的搬家回憶是窗外風景",
+      "keywords": [
+        "有希 : 只是以前還可以看外面(下面行人的感覺) 現在看不太到",
+        "對！一個四樓一個三樓"
+      ],
+      "spoken_parts": [
+        "人類記得搬家，貓咪那次聊的是風景。",
+        "我轉述有希以前會看下面的人走來走去，接著提到三、四樓。",
+        "媽媽說：「對！一個四樓，一個三樓。」",
+        "現在住高一點，家長補充是八樓。",
+        "我聽著像從街景台換成天空台。換個位置，熟悉的日常也會不一樣。",
+        "你家毛孩最愛哪個觀景位？"
+      ],
+      "estimated_seconds": 26,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R040-02_貓咪的搬家回憶是窗外風景.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 160,
+          "text": "有希 : 只是以前還可以看外面(下面行人的感覺)\r\n現在看不太到"
+        },
+        {
+          "role": "Account",
+          "record": 162,
+          "text": "以前感覺是3-4樓那種"
+        },
+        {
+          "role": "User",
+          "record": 165,
+          "text": "對！一個四樓一個三樓"
+        },
+        {
+          "role": "Account",
+          "record": 166,
+          "text": "現在感覺有個6-7樓以上"
+        },
+        {
+          "role": "User",
+          "record": 169,
+          "text": "現在是8樓~"
+        }
+      ]
+    },
+    {
+      "story_id": "R041-02",
+      "chat_id": "chat-fc8d1f75799cd720",
+      "source_room_number": 41,
+      "account_name": "Livia",
+      "pet": "弟弟",
+      "dates": [
+        "2026/07/02"
+      ],
+      "source_csv": "data/raw/20261001/41_20260621_20260706_Livia.csv",
+      "source_records": [
+        269,
+        287
+      ],
+      "source_message_keys": [
+        "171c13552a65667a6f0194013eccca88db57f4ad1c729c5edb9b1dd1ff747f2c",
+        "fa5ba792a55fc1a1d32884e38adb4b1d13446e09263beedf322dc323bdb0e625",
+        "10aa44cd957565307b85c844be5b8016e3ee65c50e3ff751c15280648ddba841",
+        "296decdae45538711c3a37bec27e8123c8d74c05a64270a543ab5dd7ea065dfb",
+        "11aef9d2171a32824fef3f390a2ca83aa7231111b983dcd98217771855bded19",
+        "830d9b6b3356fa0430ecf49e79c09e744d068b84c1fc6eda2dc8f2615006e65c",
+        "224fc966bf073ac0c0c22d6e66f1f27f74b5a604414a97ca8f6f04e80e6ea3a3",
+        "d450d05373b81309e413556329f5d1594844b46a648ce9e6c49d3bed7d0b23dd",
+        "4ecdc239cb5d20e1a685426adad49aacca8b0bd233f0344c1b1fc7b3bfc14aec",
+        "7ee3660d169148d2e23d5dfcbf96f6ec2f5336bd866bac58a6fe8bd975aa6d2d",
+        "983cc01bac64dfa4526d412a7fa1063b4b9f5ad37bd124f6be25490e42f7d4c9",
+        "b99c2d90a5830dd0e289d20ab84d286e606f55603d2748bc2acfe527725df9f4",
+        "c7228331eb32bc543e5a3aa0538e941bfb04186474fbc8267f0b2bf51808c7ea",
+        "db9267a81a6c5192ee6b593d35686ba304dad4cc3369ecd927528a9555247631",
+        "10821fbd5a8ce0627713cd174e61323ea86dfc366df8fbae7d6936956747aad6",
+        "e043c9edbef248680f08b6fa58020ee511b166989cd0b853a6b1ed01a65b43a2",
+        "345f548e667f0db9b58c436a7b5cf9734a9df442643740321884971072c05e21",
+        "518bfa3440803c4a683f8b1ed64bfadaf4e3f1ca5c248f0181e2deff04fcc005",
+        "e02fc439a9d911fa54df778429851f20b5c53d957aa9f3f3df38b6d74218a17f"
+      ],
+      "scenario_summary": "家長先提供兔子照片及童年抱枕資訊；阿玲後述靠抱睡及咬甩，家長回對並傳影片。CSV未包含照片影片，不宣稱已觀看驗證。",
+      "title": "傳承的兔子抱枕白天晚上兩種用法",
+      "keywords": [
+        "他會抱著睡覺齁,或是靠著睡",
+        "這隻兔子 是我小時候的抱枕 現在傳承給它"
+      ],
+      "spoken_parts": [
+        "一隻兔子抱枕，在這個家有兩種工作。",
+        "家長先說，那是她小時候的抱枕，現在傳給狗狗。",
+        "我描述，牠會靠著睡，偶爾又咬起來甩。",
+        "家長說：「對！」還傳了影片，說就是這樣。",
+        "白天當玩具，晚上當枕頭，這份傳承很忙。舊物也能陪出新的回憶。",
+        "你家有傳給毛孩的東西嗎？"
+      ],
+      "estimated_seconds": 26,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R041-02_傳承的兔子抱枕白天晚上兩種用法.docx",
+      "evidence": [
+        {
+          "role": "User",
+          "record": 274,
+          "text": "這隻兔子 是我小時候的抱枕 現在傳承給它"
+        },
+        {
+          "role": "Account",
+          "record": 276,
+          "text": "他會抱著睡覺齁,或是靠著睡"
+        },
+        {
+          "role": "Account",
+          "record": 277,
+          "text": "偶爾會咬起來甩"
+        },
+        {
+          "role": "User",
+          "record": 279,
+          "text": "對！"
+        },
+        {
+          "role": "User",
+          "record": 283,
+          "text": "影片已傳送"
+        },
+        {
+          "role": "User",
+          "record": 284,
+          "text": "就是這樣"
+        }
+      ]
+    },
+    {
+      "story_id": "R047-02",
+      "chat_id": "chat-27d859e62964cd6f",
+      "source_room_number": 47,
+      "account_name": "喬文",
+      "pet": "小麥",
+      "dates": [
+        "2026/06/24"
+      ],
+      "source_csv": "data/raw/20261001/47_20260520_20260624_喬文.csv",
+      "source_records": [
+        64,
+        83
+      ],
+      "source_message_keys": [
+        "ee9cb762d3aaa5ab891e0f8ebc7317b16fd273c23b4706c2154e1cfa60ffc19b",
+        "8e7b61d83cea98ab22ec1a1e194edc725ffc53d753cc51ea5141f93351fe44c2",
+        "01f8cb59f25e7a69d05ce0c4b0a38ac918e6735eb40b8c1581da1a1e80c02278",
+        "e0ae9ca1321ebd56015bf4522474b685ba656fb83f7063aa58f85c79bf0bdac8",
+        "5f7120e98af38ae2d09306bde858ebd911781dfa6a15c540e934fbc92af14a5c",
+        "4e981f8c6d787d4b10178573ddef04a479de6b15d25860fa157c33c0b390137a",
+        "e7f5158be7e7f8bb3931f814070beea0e553f97d69f5ee83c567390567a82c73",
+        "095561a2ef7249bbc08b039bcb8d92db9cc61be529b6ad2b7135b4a5e1ec0853",
+        "2cc54709e9a1f06b999b9f701b87b0c9c1d48c04378c47b1ab168a0062dbd0e4",
+        "f4eb7106c8bdbefa6239c9e6c13cf5e903343d48cd38bc960098333045bf0846",
+        "8fdef4a566d5c53ebbb8688fb5beda5e044c4a360f33f94ca7b9b24d2ec98de9",
+        "6615da1e8b89b77723a1e8e2312c35f7069121387b35e8d72a6b09de147f2ad8",
+        "77a212f32761358d5d33d1d49b435546726523e5c3793d6616f1c35bfc066c82",
+        "9f9cd1d419a5220118f72f2de2b83b17389fb7ee295f3079031beb1e82b7350c",
+        "b55c1be466771ebb3cf6b5443ec6914a82028250e7ad15fb657fcb89babf9b7e",
+        "39ba2ec001b712d28e9d1793eefdf95eabee154d121c96b32e8fd7b7496deadc",
+        "bc69fb3644f53ef9951b506fd76b5c169d4f7a9de77f18f8c3b735b4b9f87b2b",
+        "831facd3478c2ddbd6babc71824fc8d60d2175bb88e2187348dc5fff809a8b7b",
+        "47b243e35c6b307e91f7e03cea241709e7e8ef695827eff99c2538473251ca52",
+        "849b089eda3e80dca5d042f92219ed622cf41a31d4061a09c6c64545e4e5e49b"
+      ],
+      "scenario_summary": "提供人物照片後，轉述女生稱麥寶包有沒有想我，男生只說欸，家長分別確認。這與既有女友來貓變黏為不同具體招呼情境。",
+      "title": "同一隻貓兩種招呼聲",
+      "keywords": [
+        "小麥 : 他會對小麥說\"小麥~~~有沒有想我~~~~\"",
+        "對！"
+      ],
+      "spoken_parts": [
+        "同一隻貓，家裡有兩套打招呼方式。",
+        "我轉述媽媽會說：「麥寶包，有沒有想我呀？」",
+        "家長立刻回：「對！」",
+        "接著我描述他的版本，就一個字：「欸。」他也笑著承認。",
+        "我差點以為，一邊是親子節目，一邊是同事點頭。話多話少，都有各自的熟悉感。",
+        "你叫毛孩，是甜甜派還是極簡派？"
+      ],
+      "estimated_seconds": 26,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R047-02_同一隻貓兩種招呼聲.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 74,
+          "text": "小麥 : 他會對小麥說\"小麥~~~有沒有想我~~~~\""
+        },
+        {
+          "role": "Account",
+          "record": 75,
+          "text": "\"麥寶包~~~有沒有想我呀~~~\""
+        },
+        {
+          "role": "User",
+          "record": 76,
+          "text": "對！"
+        },
+        {
+          "role": "Account",
+          "record": 79,
+          "text": "然後你就 \" 欸 \""
+        },
+        {
+          "role": "User",
+          "record": 81,
+          "text": "哈哈哈對啊"
+        }
+      ]
+    },
+    {
+      "story_id": "R048-02",
+      "chat_id": "chat-c08cbde537c50a71",
+      "source_room_number": 48,
+      "account_name": "Ivy",
+      "pet": "HAKU",
+      "dates": [
+        "2026/06/17"
+      ],
+      "source_csv": "data/raw/20261001/48_20260520_20260622_Ivy.csv",
+      "source_records": [
+        223,
+        240
+      ],
+      "source_message_keys": [
+        "2cfd1c21639e7773f797ec86ca35062999fd1b3e15768a841f54e9205d353316",
+        "8991a7be49bf9219db187388b0793062c95206f22bb370633f1122836cebd642",
+        "326c7bba297cce492468c0c069fe5d20a8b07767819d134139dd7d8734505ea4",
+        "7e16440c5f643ada82296e982ea619c638d2684a606918fa716951fe799fb666",
+        "4d0c473746d950436ccbbc9882cb15f08649fff815a2eb5b16ac2faff4b29bdd",
+        "aa16754cde1920af398593dcd38ca4a9ee2e0320cfdac0b3684c6cfeb8349251",
+        "a181e39dc34b6ae5909a5648b3a40f727c1bc531912f482ad6a5ec95c53a2959",
+        "34e51bdfa6b3840d43a9fb78202848433a0be965741a1b6b2f1b0dfc93c603b4",
+        "299c1f48883b65a0622815dc30b78c363d1c1bbcce5a1b0549c86e3233e29fe1",
+        "91a6cf7d5b46f1832a6a05b360657cbef035b5c903459d2d8800118776e8ffca",
+        "61a2e92b7b6ebcd925e26141706420149497ceab7eaa702ce078f218255749c7",
+        "11f3a21cc12888bb572402b6519b661f65b282a79ebb4b3e0529b81fde8041fa",
+        "735bf86c55455afd6b5794ba74c12141de22e4f0788ae8f27a7afabe3137f396",
+        "f95b74ff03b4b27042ba8d0ab2b56b6d7191680d57173ae8930eee81af740fbd",
+        "014e9427ce40439b7af80d3947ea0c58679bed50e7e95f1398fb26f39dd1f1bd",
+        "ffcd3ad87792696c130f29606c03da4cb7f7a842bcf58dc0ef7fa039f84e203f",
+        "b8431fdc9d894ed41a0b8c53d373bfd965cc7cbcce42f1c3ce6958208789de23",
+        "0868fe9db14ee4a000cedffa51f617b3b73b5146e3a9cc063bbd2dbd4417ef88"
+      ],
+      "scenario_summary": "阿玲轉述媽媽叫BB有沒有想我，兩貓持續躺著，家長確認完全沒有反應。不能將少反應等同不愛家長。",
+      "title": "媽媽熱情開場貓咪繼續躺著",
+      "keywords": [
+        "你跟他們講話 : BB~~有沒有想我呀~~~是不是沒有啊~~~",
+        "對！！！"
+      ],
+      "spoken_parts": [
+        "這個家的招呼，熱情好像集中在媽媽身上。",
+        "我當時描述，她會問：「寶寶，有沒有想我呀？」",
+        "兩隻貓就繼續躺著看她。",
+        "家長回：「對！就完全沒有反應。」",
+        "我忍不住想，媽媽連提問和冷場都自己包辦。但沒演出熱烈歡迎，也不能直接說牠不在乎。",
+        "你回家是被迎接，還是被目送？"
+      ],
+      "estimated_seconds": 26,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R048-02_媽媽熱情開場貓咪繼續躺著.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 234,
+          "text": "你跟他們講話 : BB~~有沒有想我呀~~~是不是沒有啊~~~"
+        },
+        {
+          "role": "Account",
+          "record": 235,
+          "text": "(然後兩位小貓持續躺著看你"
+        },
+        {
+          "role": "User",
+          "record": 236,
+          "text": "對！！！"
+        },
+        {
+          "role": "User",
+          "record": 237,
+          "text": "就完全沒有反應"
+        }
+      ]
+    },
+    {
+      "story_id": "R059-03",
+      "chat_id": "chat-4b72480481099460",
+      "source_room_number": 59,
+      "account_name": "龐宇文 Jennifer",
+      "pet": "嘟嘟",
+      "dates": [
+        "2026/05/01"
+      ],
+      "source_csv": "data/raw/20261001/59_20260421_20260607_龐宇文 Jennifer.csv",
+      "source_records": [
+        200,
+        243
+      ],
+      "source_message_keys": [
+        "1f603982ec903a20d58adf58e99ad61801fb0883d8d1171f123933424b58e6ed",
+        "bff749dcebc304271793e2fa1c46c3ebff9527ba3d2eec9047d2aeeb173c57df",
+        "4adcfc53763c44d6f8c2f78a9eefaa9031752b99883c25acf7ccf46b6788c653",
+        "e46458cbc5bf553d437e1d7177e817e625914d87e4a13d5af9c498000da4986b",
+        "151b4dba7e4000b586ef4e9516faa4efa7d064b67220365574229dee9980cd98",
+        "5b011e767939f379bc602830f6fe956401ac9dc38b91c5592a8aade40056f058",
+        "06b77187555be6ab8075765a7ba3dc65dce1f7acfca086b3aadef9387d8f3da2",
+        "4a74334a4febedb60507aa307a20d0fcd377fba3e80eddf10ff9a7b27d111ce8",
+        "5edf2455b95bca7f0bbe497ab0b1e52b0ccbffb5f6de3fa22ede8c08e8f2b27f",
+        "f337afda538191bd79909c4c3f8aa1167892fb461c126a9f5d80adfe61d1c015",
+        "2434fa08488dd1da9349042408200f7662f96e248f5de1d6b9739a32efd9e646",
+        "efb4384260662defd82fa3a551cef5ce2771bba5e8dfeb69cbe0ac6e2e9df5bb",
+        "d3b6c4169b2d3d8d762f2729521538d429bfb5f419069f8ffdd57fa12c1a1de7",
+        "daad6885a0b9b09ce16a083dd13970638382e3f11f83ac6e406c7578e8b6363f",
+        "cff323c7f43d35116b109582113fef2b6badf32ce31f53efd12bcf98ed7fd0d6",
+        "40b6e27f2c3f4519ffaf47a37a791673a0b189268835918d8531be6902a1ec98",
+        "4f9b41f998d4db9a321f4d832628431f6ee2170d22503c9bbf18044f7148b16f",
+        "b9b4411868489e4d3e65f10069d2fcce1278684e3a1770a9c4950500a3b28bf6",
+        "b450ae146247c77a94a63e452814b0be26093b7bd444aaf40dc6acd6b8ef1766",
+        "87bd617212f56466edc6be3c77bd672a0d751c5a4e24701295f965ad1b1bb3d9",
+        "b4f4bdb83dc14c81683829980f33864e12ac057b42951f38e4dfa6c70a91a773",
+        "3d72d59b03aa9f5dd70e43a77ed96eb2fbde3262d6461786b7b2208fef44ac60",
+        "98138b78953ef9d9d214a7cdc30d50e7a7b6d760052b28cb399f735144b40ebb",
+        "3356e0cdd0e3de9cee84ef7f73d75143fa35b01625e1c137c89cd33d5f314a63",
+        "54115ec2ac30c6aeb3fa086b5529ccc2f1afb3499c492572dfef57ab3667e278",
+        "73b655ef619c68d114e6084632e37e1d7ca89fea0d5ff55e2ad5632c9ea80b8c",
+        "e7f3a8411c18a8c8e7b5582a14079bacfb92403d987787026e91a0d56c09e147",
+        "74bbe25adb8b9da4f5dc8ba118f70bae04c761692a87aca90f275b7e8a178932",
+        "8857b1bda8d5b3892074695af84636280205a30a877e28b61e4f555ea372e678",
+        "e543bbbbd5196c1e7ebcc2a78b7c102502df5690dc1bebdf46502beceb231280",
+        "ccf63e41414f183e835aafc0e29c16a98d920681adfdf39b45a2d09d2ec9b876",
+        "3bfd5f2bb3c9a5242141666c137bf8f53b5e508109c6f648768112c82a6d8307",
+        "a831f3d284a9c3864915081f1a4316d4a873511f3747063975442eb54fd02e40",
+        "1e6b7f1ad395e72c2df5e74e36ac0ca83e85e67c94494a0001202b7a70137442",
+        "d6961198705b92949b7bc420acd04209b27c74539e63a338469bb413ef4e2cc7",
+        "08df70a8dcc8330376130406e5721e7d0461aef95cf2f854887ec7721d1e176f",
+        "cfe057a165981139f4cc811c408c8eeee446e28f6cc9cb5488c51d0ed3f7af30",
+        "0142bfc933f19db5361867fe5a3eb3a1cdb8a9b4606443bcfa9327475212fc89",
+        "139c6040a9620017b9a3da2c2270c99877a226999d51a7b6d70936cbe2fe7906",
+        "eb22393a0664895a6eb2a34d0296135ac1fb3df5768346cb5cf79a23fbdbe3b5",
+        "8e4fbcfefd391d4f491d1807b4a967baf78fc26ce2270a13318b53b0c81cd540",
+        "61b701bd252f3ea35b6c948537b7d18b01391607d347cc8b2e9926c34aae9b9f",
+        "6ad36697032aea27a308cca0fdacb7fea895074ae8b45aeab48daf17486a7a45",
+        "79fd4e606b9dcbb5def460b95d1e02d1be1a66467eaae8aa079d313d8b526b0f"
+      ],
+      "scenario_summary": "最初雞肉被否認，後來家長查原料確認有雞肉，回所以雞肉是對的。保留先否認後查標示，不把品牌口味與原料混為一談。",
+      "title": "海鮮口味裡真的有雞肉",
+      "keywords": [
+        "這個是雞肉？",
+        "有雞肉耶"
+      ],
+      "spoken_parts": [
+        "我說像雞肉，家長說不是，結果還有下一集。",
+        "那次聊嘟嘟的零食，家長記得是海鮮口味。",
+        "我說，一直有白肉的感覺，有沒有雞肉？",
+        "她去看原料後回：「有雞肉耶！」最後還說，雞肉是對的。",
+        "我當下真的想歡呼。原來口味名稱，跟完整原料是兩回事。",
+        "你也看過包裝後才發現意外嗎？"
+      ],
+      "estimated_seconds": 27,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R059-03_海鮮口味裡真的有雞肉.docx",
+      "evidence": [
+        {
+          "role": "User",
+          "record": 225,
+          "text": "有雞肉耶"
+        },
+        {
+          "role": "User",
+          "record": 239,
+          "text": "所以雞肉是對的"
+        },
+        {
+          "role": "Account",
+          "record": 200,
+          "text": "這個是雞肉？"
+        },
+        {
+          "role": "User",
+          "record": 202,
+          "text": "不是～～～～"
+        },
+        {
+          "role": "User",
+          "record": 218,
+          "text": "海鮮的"
+        },
+        {
+          "role": "Account",
+          "record": 221,
+          "text": "沒有雞肉嗎哈哈哈哈哈"
+        },
+        {
+          "role": "User",
+          "record": 224,
+          "text": "有"
+        }
+      ]
+    },
+    {
+      "story_id": "R059-04",
+      "chat_id": "chat-4b72480481099460",
+      "source_room_number": 59,
+      "account_name": "龐宇文 Jennifer",
+      "pet": "皮",
+      "dates": [
+        "2026/06/07"
+      ],
+      "source_csv": "data/raw/20261001/59_20260421_20260607_龐宇文 Jennifer.csv",
+      "source_records": [
+        933,
+        951
+      ],
+      "source_message_keys": [
+        "ea0c363b9bd8d54f89cb79bfd34cec8ba5400e90c1e820fa161cb4d6978cceae",
+        "ffe68e6b38f80877b02b0799ed10be44780e522675416fcacfbc0266e3c646f4",
+        "8cb875cfca55d557b5ed22d097fa47c5c8fadf68575301f38a8964fae405ca41",
+        "6b00e07daf5bab214b6640eecc83b99dbc80adab3df0ba5ce9ea113912e41708",
+        "1c71d056b2138851b52f27226b6fceae6dbe9e497cdc7002fb003bced01210da",
+        "360dc093bec410bafa5ef56970206066017b93194f8b0e576511102ad7bf790a",
+        "e030d1ccc57857205196ffb606c5d643a49e076219b8a7a0bd775808dad01a85",
+        "a711ad5a924020669e304b5c55923a5957bf2c5c224f9818c0650d46ed9c03a3",
+        "26751b0a1584818f8821cfff7bd25ba275dd7119d5f428b84c47746386ec3258",
+        "b743cef3fcb8c496280d5a937fa076ff9ca2a230658ac343506cf09592b8540f",
+        "f9290d6c961b680d7b22cac98e723a453d960bd25f9075165a0d05c3caef4956",
+        "6346d722bd46ce92846a5135a5616ba6396d063adc74e7cb50c82803f5a44e5a",
+        "b475105abe6a0b8967023fef3bb34f2e8b3b73bfbb4d782b44bd0c4dd32c8083",
+        "1aec85f2ed9f9d9070fc8d412db0d2fc7a1819b55e74966780bdc7df5433ed1d",
+        "fda0be929f4d75c83b93493dac0b0c34a16579cc8319152b6bc9e4179d3de987",
+        "44b156706d5d7b3b32357df597c40db0a782d953316ccfb49218137176fc1697",
+        "1e0aa523b51791abfcd845270c1d361c6675d5560993d885a1b8efe95904b3db",
+        "b773f9ba7e63e364e65a920c59a8a1e27dd0c44dab7d1491d4da8596d56f59db",
+        "43942e0abbd6a6f3cd71427391e485e60fe0c2786170172b1563c7d369956673"
+      ],
+      "scenario_summary": "家長問現在飼料口味讓阿玲猜，回答鴨肉後回對及很猛、猜食物很準。略去舊品牌未查證疾病指控。",
+      "title": "家長突然出一道飼料口味題",
+      "keywords": [
+        "現在的是鴨肉嗎(?",
+        "對！！！！！！！"
+      ],
+      "spoken_parts": [
+        "聊到一半，家長突然出考題。",
+        "她問，皮現在吃的飼料，什麼口味？你猜猜。",
+        "我當時回：「鴨肉嗎？」",
+        "她立刻回一長串「對」，還說：「猜食物你都很準欸。」",
+        "我本來是來聊天，突然像參加零食盲測，這題答上真的開心。這是那次被家長確認的小片段。",
+        "換你出題，你家最常吃什麼口味？"
+      ],
+      "estimated_seconds": 26,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R059-04_家長突然出一道飼料口味題.docx",
+      "evidence": [
+        {
+          "role": "User",
+          "record": 944,
+          "text": "對！！！！！！！"
+        },
+        {
+          "role": "User",
+          "record": 948,
+          "text": "猜食物你都很準欸"
+        },
+        {
+          "role": "User",
+          "record": 936,
+          "text": "什麼口味 你猜猜"
+        },
+        {
+          "role": "Account",
+          "record": 942,
+          "text": "現在的是鴨肉嗎(?"
+        },
+        {
+          "role": "User",
+          "record": 946,
+          "text": "很猛"
+        }
+      ]
+    },
+    {
+      "story_id": "R064-02",
+      "chat_id": "chat-d008a60e1b4a5852",
+      "source_room_number": 64,
+      "account_name": "黃至玟",
+      "pet": "寶寶",
+      "dates": [
+        "2026/06/06"
+      ],
+      "source_csv": "data/raw/20261001/64_20260521_20260606_黃至玟.csv",
+      "source_records": [
+        76,
+        88
+      ],
+      "source_message_keys": [
+        "3960d15e79054846d3b74e05e2717153420a7cc8c024882ba5cb04dbbd0ea645",
+        "83b468bbabf98c46a24dce1ca7fc7a77a708534e2ad50e27585a8a91f717d3c7",
+        "39b3ca9d32a5e0577557f67cf76a0f9268d6dff2544b3674ddef7567d8b0dc83",
+        "654672dad30e1f19594b4a721c8a5bce7161fc4f7a003bd057b9923777c0befb",
+        "d5553f1469244ddfbfd04a44807c005dc0d7280b5436b6f7bdc7980c9372716f",
+        "77bb2a9b7210f73c85ef56d4bc0959fdacbe66df0b2791483ccc257af5d8067f",
+        "d8a10b1633f8ae90de9e868a8ae3c5b1cacee94e24b002c16eef358159eb93b9",
+        "7bed4fc4f41119c526d04d560f178a9d9b2fa2a4d4c5bbf039e8730df0f1bf6f",
+        "92f4e67f8556c42b206aed233541e514f6c7adcfa5651fa6354f656b4793249d",
+        "91e5a6e3bf9c4b72d2a67740af3c7372fd812b6bbea13c70e31d12d71f7ee211",
+        "6f7c27033ee690c68600a85724710edf5e1a16f8d044940d570c98045d2530a8",
+        "51e7e37615454980d0abfe2b700e813de99a0b95e38319b305b7513626e55665",
+        "57563d8d820aeee3196dab0d4808e427b1ae1d6953dc1e3e758b2dc86ba85a82"
+      ],
+      "scenario_summary": "轉述爸媽叫寶寶一起睡及猫會過去，家長回沒錯；小貓說是陪爸媽屬轉述，不當作動機已驗證。",
+      "title": "睡前那句呼喚被認出來了",
+      "keywords": [
+        " : 他們都會說 寶寶~~一起來睡覺~~",
+        "沒錯！！！！！🤣"
+      ],
+      "spoken_parts": [
+        "我一講出睡前那句話，家長就認出來了。",
+        "那次轉述寶寶，我說，爸媽會叫：「寶寶，一起來睡覺。」",
+        "牠就會趕快過去。",
+        "媽媽回：「沒錯！」牠那次的說法，還是怕爸媽太想牠，所以去陪一下。",
+        "我笑了，原來睡前還有陪睡值班。小小儀式，也能很親密。",
+        "你家睡前的固定台詞是什麼？"
+      ],
+      "estimated_seconds": 26,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R064-02_睡前那句呼喚被認出來了.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 83,
+          "text": " : 他們都會說\r\n寶寶~~一起來睡覺~~"
+        },
+        {
+          "role": "Account",
+          "record": 84,
+          "text": " : 我都會趕快過去欸"
+        },
+        {
+          "role": "User",
+          "record": 86,
+          "text": "沒錯！！！！！🤣"
+        }
+      ]
+    },
+    {
+      "story_id": "R071-02",
+      "chat_id": "chat-230902687c265116",
+      "source_room_number": 71,
+      "account_name": "ᴬᴺᴺᴬ",
+      "pet": "賓賓",
+      "dates": [
+        "2026/05/03"
+      ],
+      "source_csv": "data/raw/20261001/71_20260427_20260525_ᴬᴺᴺᴬ.csv",
+      "source_records": [
+        236,
+        245
+      ],
+      "source_message_keys": [
+        "c32d858a26bbb56316d86953efe77b5eb2ed1675775777b34593f1ff83812487",
+        "f375dad62d84886fee9ab0adf427207996b6c0b2d2654fbc32dcac92f6a87741",
+        "44d6656775e583b735bd343829b4da4a846a639588210d4c08934b02079ee54b",
+        "79a3e75e7ecc228d886a1792420ccf3981535b3cc997961c73fa42782061c0c9",
+        "732c199ec1f975966e27726e0a6931441050f06291f455a54edd1353ff51be7a",
+        "af9611f4777f19d68f097693342623e31ba93b5e6be09783e64915b7b245a609",
+        "21ed62aef2cb9b59e590710fa7f3570afcc1dd8e9ca984e6f17e2a04810ca0e9",
+        "cf928e3d232f50170a3bb5f40497dde141f11b928fcf7d345dcd7d8b455e484d",
+        "2e649a7ea41a46ffbc5721f2fb390d567edeab6378ff021a5eedfe7d4dd830b6",
+        "9cdf07946812ef4d5ca13e0c0c04ada53009e96148c465e8d38dfc5749236006"
+      ],
+      "scenario_summary": "轉述多條毛毯且有毛毛質感，家長確認並說會鋪好；不延伸其他摸抱衝突。",
+      "title": "家裡的毯子都是媽媽鋪好的",
+      "keywords": [
+        "：他說現在的家有很多毯毯可以趴",
+        "對啊"
+      ],
+      "spoken_parts": [
+        "這隻貓介紹家裡，重點是毯子很多。",
+        "我轉述賓賓說，牠會選不一樣的毯毯躺。",
+        "媽媽回，是她準備的。",
+        "我再提到毛毛的那種，她說：「對。」還補充，每一條都會幫牠鋪好。",
+        "我聽著像有人替小貓開了一整排休息區。用心，有時候就藏在這些小地方。",
+        "你家最受歡迎的是哪條毯子？"
+      ],
+      "estimated_seconds": 27,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R071-02_家裡的毯子都是媽媽鋪好的.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 236,
+          "text": "：他說現在的家有很多毯毯可以趴"
+        },
+        {
+          "role": "User",
+          "record": 238,
+          "text": "對啊"
+        },
+        {
+          "role": "User",
+          "record": 239,
+          "text": "我準備給他的"
+        },
+        {
+          "role": "Account",
+          "record": 240,
+          "text": "：很多毯毯喔，我都會選不一樣的"
+        },
+        {
+          "role": "Account",
+          "record": 241,
+          "text": "他喜歡內，就是有一點毛毛的那種"
+        },
+        {
+          "role": "User",
+          "record": 242,
+          "text": "對"
+        },
+        {
+          "role": "User",
+          "record": 244,
+          "text": "我都會幫她鋪好"
+        }
+      ]
+    },
+    {
+      "story_id": "R079-02",
+      "chat_id": "chat-013e8c71f7605fce",
+      "source_room_number": 79,
+      "account_name": "沛君",
+      "pet": "炸雞",
+      "dates": [
+        "2026/05/10"
+      ],
+      "source_csv": "data/raw/20261001/79_20260427_20260510_沛君.csv",
+      "source_records": [
+        153,
+        177
+      ],
+      "source_message_keys": [
+        "8530f6a34ea2ddbd76b920d7ad0a9aea43f2fee68430ec951b07a773a2e7affe",
+        "1eab926810d12a01e7d2ee6d713e8442565a97fa188195cd18c14bdbf8cba1f0",
+        "71f11368b0109eab77e2e49442a71f598289138a9de8cfbffcf0136cd324c866",
+        "7add533842a5726a28b598b826e63719a73f4357739f95d2f3e42bf81b0b4a2d",
+        "d2f7f2342ac5ee947e726db9b7d16fa1b9b86406fe124e93cb54a37d71e2f996",
+        "18280ab6a547410d85e918b1fff4abd88596b9d731b7842e8bd8fa6e143b47ae",
+        "52c19eac327efa2bbeafa1d1ac153d6821216ffbb2b315925b7491265fc7f71c",
+        "e65e388f683ae3f7fbdb70e25cd89438e48481c912be001b5347b9ee09f63e04",
+        "bf763665a3a0684f268c73437346a2f2c378caa0544b516b555ebc246f963e66",
+        "046990beb481e1a759ec383a3d17f6fe9b046d19a3c0bde6615a4e460f4fb452",
+        "9e2608caa42a6a946c68e270e5bdd6a37f6c220a999e2a80a159227019bf7a97",
+        "46b5b6fcb8052c0a91478d5d0af707e3b295cd3bbd73ef96fe572cddf36775e8",
+        "1b38ea5fc0c341f3157977aeb9bed2c3aa8c96a0c17773d0d48a36eafb69c4d0",
+        "b529ddc241749eeaee3a9efa885485d86c30d8be7e579a9b00048eab327bf03c",
+        "57d718c4d743b1b8dcdc2784cc479995161559db2d4d8014a7a42a65fbbfed71",
+        "f21ec78a2d16a1d31c8b89ed8fca957a06f095e427c8c130d398a996c0a16746",
+        "875786b75d59a2296cc065fd0fc056f29b110e36efba3f88e801103d9fe23463",
+        "2993a40dec89adc39199f0fea611937bd76187669a42afa7239db6203a6a7e86",
+        "2fca9d036fc28896779d294f7e2c6826547c3ef3660b6f53f6d9b64d37fe34ab",
+        "e8534960eea7868addb0f833ef3d77add41ddfa76866ad11a456e149c232d390",
+        "04b5b63362ce96d2d5393b977cb1d4ec2063be6a37815af6757970383f5f6836",
+        "78dc388535ecc2ee88b5e6566dc78203fab146406282bcccf69d7b1e4a793594",
+        "525036a3306850608fe2fa0a9c999a3c9c47d7d72614f054301b9754a4651dc6",
+        "e9bb0112a6068acd4e428a203d54a887797f6123317048bb7ad4d309f691326a",
+        "4c9e80bb0d49802956b75217c4fb81c816be2aaf20a3ae3e5536da114258f46e"
+      ],
+      "scenario_summary": "家長先確認阿公偷餵，再對桌邊乖等和阿公覺得可憐的描述回沒錯；不稱這是未知的偷餵事實被揭露，不鼓勵加餵。",
+      "title": "阿公的手為什麼又伸出去了",
+      "keywords": [
+        " : 我會在桌子旁邊乖乖地等",
+        "乾 沒錯就是這樣"
+      ],
+      "spoken_parts": [
+        "阿公的手為什麼又伸出去了？這次聊到現場。",
+        "媽媽先說，阿公會偷分食物。",
+        "我接著轉述炸雞，乖乖在桌邊等，阿公看牠可愛又可憐，就給了。",
+        "媽媽立刻回：「沒錯，就是這樣！」",
+        "一個很會等，一個很容易心軟。疼牠的方式，也要全家先說好。",
+        "你家誰最容易被那個眼神說服？"
+      ],
+      "estimated_seconds": 26,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R079-02_阿公的手為什麼又伸出去了.docx",
+      "evidence": [
+        {
+          "role": "User",
+          "record": 169,
+          "text": "乾 沒錯就是這樣"
+        },
+        {
+          "role": "User",
+          "record": 173,
+          "text": "她很會裝無辜"
+        },
+        {
+          "role": "User",
+          "record": 165,
+          "text": "阿公都會偷餵"
+        },
+        {
+          "role": "User",
+          "record": 166,
+          "text": "看他們在旁邊就分他們吃一口"
+        },
+        {
+          "role": "Account",
+          "record": 167,
+          "text": " : 我會在桌子旁邊乖乖地等"
+        },
+        {
+          "role": "Account",
+          "record": 168,
+          "text": " : 阿公會看我很可愛又覺得我很可憐"
+        }
+      ]
+    },
+    {
+      "story_id": "R080-02",
+      "chat_id": "chat-236807bdb2a8051a",
+      "source_room_number": 80,
+      "account_name": "薇Wei",
+      "pet": "雪寶",
+      "dates": [
+        "2026/05/10"
+      ],
+      "source_csv": "data/raw/20261001/80_20260428_20260510_薇Wei.csv",
+      "source_records": [
+        266,
+        290
+      ],
+      "source_message_keys": [
+        "89feda51341920f8173f6d8429011d7a097719777ca248639fac213bb9504f29",
+        "4f24b1eb5bb569b5def29b9c76135158db0683f791cfbc51996367e404c026f9",
+        "735f9ddde6c9c8ff0dd9c916db90b74c634e8f35f282e744714a3958bc3a5414",
+        "3f4ef1590b1c99fc61875102f57f560d0cb85b61ea42f9ddec16f10df5e86baf",
+        "0e4b900552381f7301ac71681987dbea2f8cbccb52af8cdb8d33f261300f5bc9",
+        "fe432556e6322239f934967ae88e45e092943d729f840d759329ac5a718abc60",
+        "a310a3e1a63c30b5527093db5c473e8bd63cede6cd706b137570484dd52085eb",
+        "55899cc8be69a30393e6f58df41f50682af781091ceec7566eaaf7c2da754431",
+        "8e6ba82aa6f2db7cc6d3e5e9e8cedb95f898f2d61130fe583560bf20ffad65e8",
+        "170418eb6ddc0e9ea0154667def3797847b53ea6ca342164e3b2e2c8feab39b0",
+        "420a799673b88da72bcfc0be149460a33d3890ac93e819508193cd99153b8b51",
+        "2282d8c9b4f38979238a8ea67d53a161d7c7b67bb5a2cdd3027c0d67a597cc19",
+        "8a9e208b434f6663b63724da2553939ee501d5a633944b35c22d6a6f780f29ae",
+        "7a155d00f669dc2ed3cf7027f6483ecdad8787b29957b4af4e5d5cdc1e6e14ee",
+        "0ddfba84704b8c98495f4495d15ed98293fb3f71a3e1afb7f17a27973ef3a725",
+        "e2e6880cb6e78f896a572c15a4be20a7969756b55da2212e0c27fe708978bb15",
+        "e2d55914f800314a907ce2d1fffd4c28b72d1a77abf41b512460bbf018ac686c",
+        "912951864632a72a1165387b008fba65791d28657f8408f8e40259438fbd1e50",
+        "7c6ba8dd0aef78f4a56a8c94c29f57f2332ef21c9bd4fd7429e484f29b7cf18f",
+        "a1bf7664b061160a0c791838c62c3777b6a586362a4d383472edcb31a2682c8b",
+        "f4a141f52136c64b5be3340126eddd94b92c523d468785213a25bdb20ba51855",
+        "da6f4fcbed9b65f50c6eefdd4daf9e15511cf03abc0efd84d7f891b7a673d6c2",
+        "4ebd43e3bdb48e088d7c212919ca52fb11b24cd3f927f1111dfb2da22cc93615",
+        "5ccf3c6c82d1f7eff6e78f1e7b971c271dfb2592afeb3a50e188e4fe17418861",
+        "56eb2474a76e761e2f7382b1432e0b1f328af9cd96fffebf859d1c28b47fc7e8"
+      ],
+      "scenario_summary": "家長先確認爸爸偷餵；阿玲複述去皮與抖掉油水，家長回真的會。保留為人類辯解，不當作食物安全方法。",
+      "title": "爸爸餵食時的辯解被複述",
+      "keywords": [
+        " : 爸爸都會偷偷分我好吃的",
+        "對 我很生氣😂😂😂😂"
+      ],
+      "spoken_parts": [
+        "家長最驚訝的，是爸爸那句辯解。",
+        "那次聊雪寶，家長先確認，爸爸確實會偷分食物。",
+        "接著我說：「我有去皮！我有抖掉油跟水！」",
+        "她回：「對，真的會。」",
+        "我差點以為自己坐在他們家餐桌旁。不過這是爸爸的說法，不代表就適合給毛孩吃喔。",
+        "你家最常出現的辯解是哪句？"
+      ],
+      "estimated_seconds": 26,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R080-02_爸爸餵食時的辯解被複述.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 266,
+          "text": " : 爸爸都會偷偷分我好吃的"
+        },
+        {
+          "role": "User",
+          "record": 267,
+          "text": "對 我很生氣😂😂😂😂"
+        },
+        {
+          "role": "Account",
+          "record": 284,
+          "text": "爸爸 : 我有去皮!!"
+        },
+        {
+          "role": "Account",
+          "record": 286,
+          "text": "爸爸 : 我有抖掉油跟水"
+        },
+        {
+          "role": "User",
+          "record": 287,
+          "text": "對"
+        },
+        {
+          "role": "User",
+          "record": 288,
+          "text": "真的會"
+        }
+      ]
+    },
+    {
+      "story_id": "R085-02",
+      "chat_id": "chat-e6e461ef55517602",
+      "source_room_number": 85,
+      "account_name": "元喬",
+      "pet": "荳荳",
+      "dates": [
+        "2026/05/09"
+      ],
+      "source_csv": "data/raw/20261001/85_20260427_20260509_元喬.csv",
+      "source_records": [
+        136,
+        151
+      ],
+      "source_message_keys": [
+        "7f190eb29f9b90ea4465f38a15e90a3be1380ecc0534f3ee1665533fbc5766e7",
+        "f4914c45d4f959ec14f345065176fae37ebc68d0b5c10e87288b9a39f19144bc",
+        "b42063e736f2d1a393129b69acb5bd2cd8c6df49df3bf5493fad3990364cc64b",
+        "4cfa3c25337b9c4e55b273a5f625ef1ba1a457d90ce2ac19c67edf0cc41c54bd",
+        "25e2c38929e222d173e06ecb9441e40bc854257e5c7db7cefbf3d3e47fcd6348",
+        "75888f06feab4a49f12451c0116b864d87b33d75ee83ce4ae27f852b1914f435",
+        "1712885ea08ead5ae793beb94969b0fc55cded343e60e209e88dd4fb681c8502",
+        "7e189e59816faf77fd08cd91bd35255a4c0733167d5d6fba199d13619f7ef925",
+        "3229a5742849dea64f0efecbb7d91aad0e2f9f3f2028356db5ec7f674a8f8816",
+        "0cb979b841f1ed420aad42ea8d4210581c5974c477c169a7d642445071a46605",
+        "2bf5167ac949bcf40217d62959cf10b936e052604ec3b337762597d13eec03c0",
+        "dfb4c9ff64be3c27a20253d373c8fd81edce3ef51c6cd2495aa39ddeadb9ed64",
+        "f28fc35a3811d87a206082a643a9f09127c19243c9d60eab1a74e839830564e9",
+        "f7c15931e30eb9c1b375ded84e798044084c96863a6ed039a2ca6584c400a18f",
+        "1a9ee43989d8bbd4aaeb91fae504bd51b3a8f2bb72a0be9fba75c05d296df3bd",
+        "68197a4512185bd4e8a36e48c7d9d7b204cff942dcaae97c2779437cbdd0e263"
+      ],
+      "scenario_summary": "阿玲轉述爸爸玩遊戲耳朵關起來，家長補充戴耳機叫不到。人名阿凱前文被否認，不納入命中宣稱。",
+      "title": "爸爸打電動耳朵就關機",
+      "keywords": [
+        "：阿補擠玩遊戲的時候耳朵會關起來 ",
+        "對啊，戴耳機！！然後叫都聽不到"
+      ],
+      "spoken_parts": [
+        "這次小狗的形容，被家長補上了使用說明。",
+        "我當時轉述荳荳說，爸爸玩遊戲的時候，耳朵會關起來。",
+        "媽媽說：「對啊，戴耳機，叫都聽不到！」",
+        "原來不是家裡沒聲音，是爸爸切到另一個頻道。",
+        "這段讓我笑了，同一件事，兩邊的描述竟然接得起來。",
+        "你家誰一專心，就進入失聯模式？"
+      ],
+      "estimated_seconds": 27,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R085-02_爸爸打電動耳朵就關機.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 148,
+          "text": "：阿補擠玩遊戲的時候耳朵會關起來\r\n"
+        },
+        {
+          "role": "User",
+          "record": 151,
+          "text": "對啊，戴耳機！！然後叫都聽不到"
+        }
+      ]
+    },
+    {
+      "story_id": "R109-02",
+      "chat_id": "chat-025ee7d298aab511",
+      "source_room_number": 109,
+      "account_name": "吉可媽媽",
+      "pet": "吉吉",
+      "dates": [
+        "2026/05/01"
+      ],
+      "source_csv": "data/raw/20261001/109_20260421_20260501_吉可媽媽.csv",
+      "source_records": [
+        331,
+        349
+      ],
+      "source_message_keys": [
+        "d3ed54d78d37f136572d6def6a3e8337c82ea155beab1fa0b1c969d1e4b1c5d3",
+        "9aab17c234989d1e0639cc8f763180fe0d731fff05e77dca6c80f0d88a233d9d",
+        "e57f3a1908a8e13519ae19082123c0b393458dc7cd564f8d986c247d65819520",
+        "30cdd17e4079d065736fcf244df54140243b1216d5d900fdab437de03471f2ee",
+        "384de62a89d741d7296318a69d6c10fc680710d9d86ce97f44a455f53d3c0472",
+        "ee224984bafa2c18f6bc7dbae5510f7e769fbd93a6911de43fb52e3d92d3f436",
+        "b93f489a2e372c16784fb2b9a6eb4ab156a565882beccf26b56829b7b51e88f6",
+        "a50e056a288a5458ea8eb37eea154dcb235b8d9afcdafdc4ef10c7c066022b3d",
+        "dbcf5408081c8d8ae72078f614e7e19e2aac0f9eb71d901b62ba31bb6b609a7d",
+        "6e683d9091cf3e7be89c39f27ad73319160e65246ceaef69dd4e0fb7612b6658",
+        "0d8fcfcfb97cdf096ccb215aa963d6bf57ae3dd4a50f3bdf2e969ed3601474a1",
+        "45f31f3ac40b8a9e66c109a4d247e005520f45ae173a14012659b712a46f9938",
+        "1fe2e58c7077c515452044393da01ef770a751ebf594b33abaf2e2d9f43aa225",
+        "73bcdc95211be457dcd2976c0149a4d9346a576bc9faf934891a040d0627c42a",
+        "f21b801211ac6880265bf43b26c66f8daa19c349570c4d10770e309d10dbefef",
+        "e2768efbbdf716330ef63a1b55ba50e9c650aef0b12b25b0fd7d5df6f3249e65",
+        "229f58cf8f11e7b4e95bf53f4001510afad58c951611380eb8d3da07b4e07f0a",
+        "0506d6a80f24757a6a9179449c11b8e85939d12f279ec394125fc78c5b85169b",
+        "f16b3c86dc6fb05f0e7f727bfaa9aa1ad7618191db525cd3804520ce85cdefaa"
+      ],
+      "scenario_summary": "前段布籠使用者說法被更正；後描述軟沙發家長確認。綠色是在家長傳照片後提及，不作盲猜高光。故事聚焦以前吉吉躺現在可可躺。",
+      "title": "沙發對上了但主人換了",
+      "keywords": [
+        "他說布籠比較常是可可去",
+        "對"
+      ],
+      "spoken_parts": [
+        "這次家具對上了，使用者卻換了。",
+        "我先把布籠的情況弄混，媽媽有更正。",
+        "後來我描述軟軟、像懶人沙發的東西，她說：「對！」",
+        "但補充，以前是吉吉躺，現在是妹妹躺。",
+        "我當下像拿到一張舊座位表。對上的細節和後來的補充，都要一起留下。",
+        "你家最熱門的位子，現在是誰的？"
+      ],
+      "estimated_seconds": 26,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R109-02_沙發對上了但主人換了.docx",
+      "evidence": [
+        {
+          "role": "User",
+          "record": 338,
+          "text": "對"
+        },
+        {
+          "role": "User",
+          "record": 339,
+          "text": "以前都他躺 現在是可可躺"
+        },
+        {
+          "role": "Account",
+          "record": 332,
+          "text": "他說布籠比較常是可可去"
+        },
+        {
+          "role": "User",
+          "record": 333,
+          "text": "沒有"
+        },
+        {
+          "role": "User",
+          "record": 335,
+          "text": "布籠只有他會進去"
+        },
+        {
+          "role": "Account",
+          "record": 336,
+          "text": "那他給我看一個軟軟的很像染人沙發的東西"
+        },
+        {
+          "role": "User",
+          "record": 349,
+          "text": "後來妹妹發現可以上之後 都是妹妹躺了"
+        }
+      ]
+    },
+    {
+      "story_id": "R111-02",
+      "chat_id": "chat-06cf733b134b10ce",
+      "source_room_number": 111,
+      "account_name": "Super ·ꙫ·",
+      "pet": "哭摟",
+      "dates": [
+        "2026/05/01"
+      ],
+      "source_csv": "data/raw/20261001/111_20260421_20260501_Super ·ꙫ·.csv",
+      "source_records": [
+        313,
+        328
+      ],
+      "source_message_keys": [
+        "c86c5ec3aee8d9921c539f63f9db7700243c4cd3e4fd77ef7a7d84d81cced5e8",
+        "2ed8d3e670c0597c27fc7a31d1b3f09792fb0c0ad9bb20a0d0cad68b0b55c3f7",
+        "97d63c55630ce0fe2540e6418dab57b2a4e8f79e81f4ca74a79740bcc7d4caf1",
+        "0fc453936ca33a170a871913652c72aeebed3284c0f8918f1fd94145baca9ecd",
+        "a8ff42eefd8576d3dcf980ac39e0581d5df81d966c2d4ae190ac297f3bd882d4",
+        "9e7c96f53c5021984d0bd6489639e5d59a989cf11d75d177b28f2351d8e8c60b",
+        "94f1f048231b68a74f4d4c784b5e889ffe1f9bcecc241a9acc449d5f13b77da3",
+        "d8408e45b5cae00152141526e906d2ec805b89d0665fbeb1451b7156e237616b",
+        "a3e1d64c713d13647abc9beeceafde3e77a64113d65f39de2f532ccb71b70fc1",
+        "785a9672c0ec9163f9210e7b21a9e00685fa8e84d8dea53b6824875c504f68c8",
+        "ee11a2a93f93a7bc9548ca5834cd23d51f51e0b88cafbcc3f03228e830247ce3",
+        "a9b363955c019be225b5b8ebdbe3048cf33a279047abea9fddcdfe1333d98bf2",
+        "23569fa9289a4d4d6ad57ac57c49b23d94afe908a36382743efebdd312ba1c08",
+        "e01aad19da3060ae2e596c694cc933d21702f034a35cd52a334df2868511d3bc",
+        "ad297a5387ead0460288b23a65b6dc6a25e85503a886f6edf45791729e11a9ea",
+        "1e43906e80b3978b18bc61b85427603a5db1792faf421ef73d469038cd3567cf"
+      ],
+      "scenario_summary": "轉述媽媽忙家事又大聲叫爸爸散步，家長回對用吼的並給原句；不把自家同名狗混入。",
+      "title": "媽媽叫爸爸散步的音量被確認",
+      "keywords": [
+        "：媽媽要煮飯／洗碗／洗衣服，還要去上班",
+        "對 "
+      ],
+      "spoken_parts": [
+        "這次被家長確認的，連音量都有。",
+        "我轉述哭摟說，媽媽忙著家事，會大聲叫爸爸帶牠散步。",
+        "家長回：「對，用吼的。」",
+        "還補上：「你不趕快帶哭摟去散步，你在幹嘛？」",
+        "我腦中立刻有聲音。分工要是早點講好，媽媽或許就不用開廣播。",
+        "你家出門散步前，有固定口令嗎？"
+      ],
+      "estimated_seconds": 25,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R111-02_媽媽叫爸爸散步的音量被確認.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 313,
+          "text": "：媽媽要煮飯／洗碗／洗衣服，還要去上班"
+        },
+        {
+          "role": "Account",
+          "record": 314,
+          "text": "但媽媽就會吼爸爸叫爸爸帶我去散步"
+        },
+        {
+          "role": "User",
+          "record": 316,
+          "text": "對 "
+        },
+        {
+          "role": "User",
+          "record": 317,
+          "text": "用吼的"
+        },
+        {
+          "role": "User",
+          "record": 318,
+          "text": "：你不趕快帶哭摟去散步你在幹嘛"
+        },
+        {
+          "role": "User",
+          "record": 327,
+          "text": "但確實也不小聲"
+        }
+      ]
+    },
+    {
+      "story_id": "R125-02",
+      "chat_id": "chat-22ebbcf39b3cd8b1",
+      "source_room_number": 125,
+      "account_name": "電塔媽媽",
+      "pet": "閃電",
+      "dates": [
+        "2026/04/26"
+      ],
+      "source_csv": "data/raw/20261001/125_20260421_20260426_電塔媽媽.csv",
+      "source_records": [
+        93,
+        103
+      ],
+      "source_message_keys": [
+        "eb189176ef75bea521c6c4a61ea69e8075897205444284a5dc34e87c59dd4966",
+        "98bac17965a785d99d448cb012e6e3d5582a6f81b7b71709af2dc44f36d58367",
+        "5f80176b7f02b42702d387e57348230324082c2ee13981460f80d01eadab2026",
+        "9d7fe06273dcbc55f42d15df31470225b7699ac7b3148d6bc7be0f7b9f489a26",
+        "aaa14f7e209453e75906f168c54d47cbbb467ba34943ff9ea7ba4b3e3d9681da",
+        "8ea001c2f2e7093f43b4189512413f986e7f88c51fb6d2ea8db49090d2c7d45c",
+        "c1ba50419bf42ec32d359f5d8ba0b2ae80fd60adac303f604f053c5b1301741d",
+        "92e9cccf190e841df689f1d7e35a5affe4a6481e2ed1ffa3a578a59971d342ca",
+        "ece2855069dde22e3ac0656bcb61967a20075b734815dc316537a057f19c4057",
+        "2932ffa9fa7a5bb58727a05256a810b27ed8747990596657a552035910672207",
+        "a125e86697395ad6e062c9859e98a468776fcb3f408fa6b3d376bb978c9333b3"
+      ],
+      "scenario_summary": "轉述先吃完再等姊姊剩飯然後拿玩具找媽媽，家長強烈確認並逐步重述。不鼓勵飯後激烈運動。",
+      "title": "晚餐後的流程被一口氣說中",
+      "keywords": [
+        "：我趕快吃完飯，就會等姊姊沒吃完的，然後都吃完就趕快去找玩具叫媽",
+        "對!!!!!!!"
+      ],
+      "spoken_parts": [
+        "這次說中的，是晚餐後那一整套流程。",
+        "我轉述閃電：先吃自己的，再等姐姐有沒有剩，最後拿玩具找媽媽。",
+        "家長直接回：「對！」",
+        "還補充，姐姐吃光沒留給牠，牠就拿玩具來了。",
+        "我聽著像備案都排好了：加餐沒成功，就改找人陪。生活小細節最有畫面。",
+        "你家吃完飯，下一站通常去哪？"
+      ],
+      "estimated_seconds": 27,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R125-02_晚餐後的流程被一口氣說中.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 98,
+          "text": "：我趕快吃完飯，就會等姊姊沒吃完的，然後都吃完就趕快去找玩具叫媽媽陪我啊"
+        },
+        {
+          "role": "Account",
+          "record": 99,
+          "text": "他會吃完就煩你？"
+        },
+        {
+          "role": "User",
+          "record": 100,
+          "text": "對!!!!!!!"
+        },
+        {
+          "role": "User",
+          "record": 101,
+          "text": "吃完看姊姊吃，然後姊姊吃光沒留給他，他就會拿玩具給我"
+        }
+      ]
+    },
+    {
+      "story_id": "R127-02",
+      "chat_id": "chat-31140f0addd255bc",
+      "source_room_number": 127,
+      "account_name": "饅饅媽媽",
+      "pet": "饅饅",
+      "dates": [
+        "2026/04/25"
+      ],
+      "source_csv": "data/raw/20261001/127_20260421_20260425_饅饅媽媽.csv",
+      "source_records": [
+        272,
+        299
+      ],
+      "source_message_keys": [
+        "37e9f0b2c8330d7fb004b38f909db4796ed855dc4e3803d4a70dd57b164576db",
+        "2e2a47f704ea7db9e1308f2f598b07dac78b8c79f003e4de400a2ea55745af46",
+        "327a5b704cb8f6e20e3eb6fe73b27130f9941081f70907cb7c4707e0d80a48cf",
+        "452e1021408cf3f5557bea228624dedda5a6b51d366682861eb11ae9a819294c",
+        "c698eed265ba3b625ac5b006d9f9afeeba4359e61528b03e28d2321da9a26a28",
+        "2ab834e468e6297f168800eec663bd317686d4818693174aafda53fb6fdfdd2a",
+        "454a7a0371d0f64f492f990acab23594a05791b6c2df9682a7ad10b7ec4335a0",
+        "90269695b51734cfae99898364b69a20aa19191587aa44ae46e885c7393ae672",
+        "cc5bc07d070ad3a5911263a81eb9f5fdeec8cf5046aa50f05c9e4c3b2189295d",
+        "a3af8c3f4f822795f9b083c31df96fa9ecca667db3febae6f3cab6a6be336ad8",
+        "5be600ab10c23ae420448e2128dd37d0320b0bd2ce2e3c5c902e6fca9a14882a",
+        "8160af103fc8596c4785db54799b4f7f0d09fa4fe9d2c39cf74e4778b44f8a5a",
+        "b4472959237e66a1f068e6be531e7683e505401683cb1b88b9fd12252e42229b",
+        "aab898ea70c109a7cf9b774f52922de843810b385e25f80e6e70891ce550cabd",
+        "a77905dec4f96d70472afcb4b60c71878af0d8c3b9bf887c9877ce7ea86e73f3",
+        "ce8b2a7c0137cd234a4f6d1aa1b18a68e1e983ce8920b1cdd4a4cf067c0ae77f",
+        "87e5bc59106cb3a946889a72c3972798d8f108063bf3fa5d36dc3d21f0aaa1f2",
+        "9aea34af1286e996d5d00a13f07f74606f7df1103388f6e8ae1223611a19a805",
+        "805e0c2ce890659073b09fe33bf621ce9b8174427d1938938270a41d4dfe502d",
+        "c95131f3efa51e0a63f6ad998afd4433ccef76206dcb5be68a30adc33a9ed8e5",
+        "d3a38924f52cf3c14567e0bb04e2abf72ceac6b68b68cfd368b478d242a9a2de",
+        "21c686efd0987fc03fe74ab1fb839fa75e28c1bcc253aed5a3b58e17210b9c19",
+        "fd60450e724ac31b237654f368d3f711743905f628d3c6e8918f291fb148df9d",
+        "34ee1386215b169f760af94c3b7b097c4c02c9a469e856ffa57a228530c6f3c2",
+        "c68ce675fb2ab77c107f620b5eff42709fe89c7b9b368e139f7331801ee4abc8",
+        "70a097bb780719da2d18f899eedb231e5e99d1727a70d850ba34722ecb61c68d",
+        "c1441ebc94700fa5a07b4a429e3dce7439500967c572a604485b491c2197cfdd",
+        "89f4b337f28b2afcfae0b2e945072778e02c99b4dd147a579b6fd2fadaaa292c"
+      ],
+      "scenario_summary": "肉種初猜雞肉由家長更正里肌；高光為大姐姐做零食及給大片、小姐姐控量獲確認。不宣稱肉種答對、不鼓勵餵多。",
+      "title": "兩位姐姐的零食份量不一樣",
+      "keywords": [
+        "：零食都是大姊姊做的,小姐姐會做嗎?",
+        "對"
+      ],
+      "spoken_parts": [
+        "這隻狗聊零食，連誰給大片都分得清。",
+        "那次我轉述饅饅說，零食是大姐姐做的。",
+        "家長回：「對，好厲害喔！」",
+        "再聊到份量，大姐姐給比較多，小姐姐會一點一點給，她也確認。",
+        "我笑了，原來家裡有兩種發放標準。疼愛不必比份量，全家說好更省心。",
+        "你家誰負責發，誰負責控量？"
+      ],
+      "estimated_seconds": 26,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R127-02_兩位姐姐的零食份量不一樣.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 281,
+          "text": "：零食都是大姊姊做的,小姐姐會做嗎?"
+        },
+        {
+          "role": "User",
+          "record": 282,
+          "text": "對"
+        },
+        {
+          "role": "User",
+          "record": 283,
+          "text": "好厲害喔"
+        },
+        {
+          "role": "Account",
+          "record": 285,
+          "text": "有大姊姊的時候會比較多零食可以吃XD"
+        },
+        {
+          "role": "User",
+          "record": 286,
+          "text": "對"
+        },
+        {
+          "role": "Account",
+          "record": 288,
+          "text": "平常卡媽不在你很控量嗎XD"
+        },
+        {
+          "role": "User",
+          "record": 289,
+          "text": "對"
+        },
+        {
+          "role": "Account",
+          "record": 293,
+          "text": "大姊姊會給一大片!!!"
+        },
+        {
+          "role": "User",
+          "record": 296,
+          "text": "對"
+        }
+      ]
+    },
+    {
+      "story_id": "R033-02",
+      "chat_id": "chat-db555baff6b37155",
+      "source_room_number": 33,
+      "account_name": "顥Haoᰔᩚ",
+      "pet": "熊",
+      "dates": [
+        "2026/07/13"
+      ],
+      "source_csv": "data/raw/20261001/33_20260608_20260713_顥Haoᰔᩚ.csv",
+      "source_records": [
+        309,
+        320
+      ],
+      "source_message_keys": [
+        "5469350f5ff50c5b672e288ec9e690a1f7230271c355ab92f2395b12470f6bb2",
+        "5c4278afc7c736cf0ccec6b7dde297657f1a4244886ea7beca39a7f2ae01d1d0",
+        "e1565a815a244faf081f56b361cbd0e0a19cb4fea77d3e71c4b1dcf06dcb2a5e",
+        "0c18fb92659bb8298b300dafa6a7eb53545b43f3ac6c6df8bed4c9593f5fb41c",
+        "53f5ab997cf09b4581a9c57a87bed7f3d598f481cdb8c197c1b4d950e018d809",
+        "a8bfc9347affdbe1cda7c70b05fd1a8df4f489b7a4fa578495af1dba45d317a0",
+        "525d945349c3445ab44b697ce807f86353d9abe2cc8dc210b0d9857cd03e1b8a",
+        "88ed711697bff30fea66bd761a9ac9f6470cbd040df288e2a590953fdfbe57ab",
+        "49d43cce56b0c4f38476837b3194c2205865c4f06ea7e4cc529b0a6f04537a00",
+        "dce96040366215a66006a62c8fcf25b395390658659e3a20feca22820af1f5e4",
+        "8e1e4c3e144047f445b93888a7bc8d9f02b8029e473a090615e45ea8809ac3f9",
+        "a00120511c81471b2b23b790a282ac35280584208549d67206f11602541ccfe5"
+      ],
+      "scenario_summary": "描述媽媽回家與小狗黏一起獲確認，家長補充爸爸默默清尿布墊；保留爸爸實際照護貢獻不貶低。",
+      "title": "媽媽黏小狗爸爸去清尿墊",
+      "keywords": [
+        "你看起來就是....回大家就跟小狗們黏在一起哈哈哈哈",
+        "😆沒錯"
+      ],
+      "spoken_parts": [
+        "這次聊天，把家裡的分工畫面拼起來了。",
+        "我描述媽媽回家就跟小狗黏著，不是狗在腿上，就是她在狗旁邊。",
+        "家長連說：「沒錯！」",
+        "接著補一句，爸爸就默默去清尿布墊。",
+        "我笑了，鏡頭裡是甜蜜，鏡頭外還有人在收拾。那些安靜的照顧，也值得被看見。",
+        "你家誰最常默默做事？"
+      ],
+      "estimated_seconds": 26,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R033-02_媽媽黏小狗爸爸去清尿墊.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 317,
+          "text": "你看起來就是....回大家就跟小狗們黏在一起哈哈哈哈"
+        },
+        {
+          "role": "User",
+          "record": 318,
+          "text": "😆沒錯"
+        },
+        {
+          "role": "Account",
+          "record": 319,
+          "text": "不是小狗在你腿上,就是你在小狗旁邊"
+        },
+        {
+          "role": "User",
+          "record": 320,
+          "text": "沒錯！爸爸就默默去清尿布墊😆"
+        }
+      ]
+    },
+    {
+      "story_id": "R058-02",
+      "chat_id": "chat-195a4b6010106704",
+      "source_room_number": 58,
+      "account_name": "珮綺",
+      "pet": "庫里",
+      "dates": [
+        "2026/06/07"
+      ],
+      "source_csv": "data/raw/20261001/58_20260427_20260607_珮綺.csv",
+      "source_records": [
+        153,
+        176
+      ],
+      "source_message_keys": [
+        "25249e6f7f0622498bab1c56862a0393fead6f980234b2da8b194a4ed901f03b",
+        "d0c35b72bc10769418e6c8482033552554b1a3b8d14b7ba5b2e9679c7acb079f",
+        "49b1bdcd97ccd70b7a3364cfe05511d8a114b9a8c6cd9a7feb8b032c13b8392c",
+        "83835ad2c0ba79b489424c6c2d9c2b4cb9c5ec1d2f4a3ced32cba8047044b0bc",
+        "b4de8e9bc51b52ee783d2dd76e3e50ba7297590216a31b2f6f85f5ec61f0b02c",
+        "3be07a54b0ccec9d635c5e60dd2aa6ce7e1b67534edbd2c3991705e6e68d08f2",
+        "2c113cb37ace93cc11e5a9e27b2314e382d6be428cde67054f102dc07818f922",
+        "fbe2cd2372a0d89818af34b57e86b5b389d44d3cdb8fb51f67425ecdeacff9f4",
+        "be0abbbb7b8b5c54e1ba06cf71d94b18a6e882585323d69ff8af04788d642d1f",
+        "6b268b476eca89759303ab0758bdb032a0f4c724b99407d7ba28ff3514f820e2",
+        "4180eace246c8f39cdb827b93fa2b44e2ab044a9b204dacde7027b5efc9d6c53",
+        "9de6edbd64e67d07c236c39a91bc4dfae96f3334784c0a63946ebe12aa226f35",
+        "0fa7e88391b7b1698e6814aec55fd7ba508ec70ec20cf0f6db344562ac54cd6d",
+        "ca4aed781a1a33af40c5bf14e4e9be5d7087152f8801e231ab28d63315ba605c",
+        "48a87209a43e2a065826b68b276df459d76fb38d91015bfb28aec9c802566718",
+        "a4d4d8e926e9402d5dcefaccee31f4cf3a2c19ab4b27a988b6c97d48bc29c626",
+        "eda82686a760b4414856dd1b335df4cdc0ca913755cee27b1fc829d2d7a24941",
+        "6e58b0b8bb7d8b216b9a933fdc9ffa0661c76d0d03fff71354fdc8af36f4d721",
+        "07f82298bcdad10a8f9ee91dee1c8e9f89c088f9481350edd90dc3aece645945",
+        "0faffd84541e69b12636332b3f2905cd5e3e064e250d4f98a6652741984dd3a2",
+        "f6bbbc28638f05e63a2613511853261a46dd512ac361099d4dc42d2366c1ad0f",
+        "fa6e87f823dd5ff5443f7ff1bd5ea49b249af39f5d500694c6883b025e981a19",
+        "fe560f3be759e3ee7bda03af90b3f1c603ec4e6653d979f7db4828be1122ca72",
+        "e1767d6681c1eacdb552c3f55ede6548059d728d4868a8dade53ac5c23863e02"
+      ],
+      "scenario_summary": "轉述爺爺開車家長確認，之後奶奶推車爺爺拍照，家長笑稱爺爺功能又多一個；不把已知安排重複當新驗證。",
+      "title": "爺爺的出遊職務越聊越多",
+      "keywords": [
+        " : 爺爺都負責開車!!!",
+        "因為出門就是爺開車"
+      ],
+      "spoken_parts": [
+        "我跟狗狗聊天，爺爺的職務越聊越多。",
+        "那次轉述庫里說，出門是爺爺負責開車。",
+        "奶奶確認：「出門就是爺爺開車。」",
+        "再聊到奶奶推車看風景，爺爺幫忙拍照，她笑說，爺爺的功能又多一個。",
+        "我聽著像家庭旅行的工作表。開心出遊，背後都有照顧的人。",
+        "你家旅行誰最忙？"
+      ],
+      "estimated_seconds": 26,
+      "batch": "20261001_highlights",
+      "selection_reason": "家長具體確認的新情境",
+      "status": "generated",
+      "output": "outputs/20261001_highlights/R058-02_爺爺的出遊職務越聊越多.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 156,
+          "text": " : 爺爺都負責開車!!!"
+        },
+        {
+          "role": "User",
+          "record": 161,
+          "text": "因為出門就是爺開車"
+        },
+        {
+          "role": "Account",
+          "record": 169,
+          "text": " : 然後下車走一走可以坐推車"
+        },
+        {
+          "role": "User",
+          "record": 170,
+          "text": "沒錯，媽媽和舅舅年輕人常有自己活動"
+        },
+        {
+          "role": "Account",
+          "record": 171,
+          "text": " : 奶奶就會推我看風景"
+        },
+        {
+          "role": "Account",
+          "record": 172,
+          "text": " : 爺爺負責幫我們拍照"
+        },
+        {
+          "role": "User",
+          "record": 173,
+          "text": "爺爺的功能又多一個了🤣"
+        }
+      ]
     }
   ]
 }

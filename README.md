@@ -16,6 +16,16 @@ python skills/kuro-reels/scripts/ingest.py 新聊天.zip --project . --commit --
 
 ## 本批成果
 
+追加「家長確認高光」30 篇，累計 107 篇。新增稿在 `outputs/20261001_highlights/`，選題文字在 `data/highlight_specs.tsv`。每份增加家長原文確認，保留已知資訊與更正的先後順序；這些是該次家長的回饋，不是整體準確率統計。原本 77 篇保留不變。新增批次口述估時 25–28 秒。
+
+可重建本批新增 Word（相同來源範圍已存在時略過）：
+
+```text
+python skills/kuro-reels/scripts/build_highlights.py --project . --specs data/highlight_specs.tsv --batch 20261001_highlights
+```
+
+`deliverables/` 同時提供新增 30 篇與累計 107 篇的壓縮檔。
+
 2026 年 10 月 1 日提供的 127 個聊天室，共整理 77 份腳本，來自 71 個聊天室，6 個聊天室各有兩篇。55 個只有行政對話的聊天室略過，1 個缺少家長完整回應的案例暫不改編。這是本批已選情境，不代表所有歷史素材都已用完。
 
 每篇 Word 都有帳號名稱、毛孩名字、原始日期、搜尋關鍵字、來源邏輯列、分段口說及畫面提示。口說長度約 23–28 秒，為文字估算，拍攝時仍應試讀。照片不在 CSV 內，需另選獲准的照片。公開台詞預設不含姓名。
