@@ -1,0 +1,6 @@
+interface:
+  display_name: "KuroListen Reels 故事腳本"
+  short_description: "將 LINE 聊天整理成口說與照片型 Reels，附來源回查並避免重複故事"
+  default_prompt: "使用 $kuro-reels 讀取我上傳的聊天紀錄，略過預約與重複情境，生成三十秒內的口述故事腳本。"
+policy:
+  allow_implicit_invocation: true

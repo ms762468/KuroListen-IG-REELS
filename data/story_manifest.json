@@ -1,0 +1,4511 @@
+{
+  "version": 1,
+  "stories": [
+    {
+      "story_id": "R003-01",
+      "chat_id": "chat-b80b05700a69e222",
+      "source_room_number": 3,
+      "account_name": "10/1 21-22 Kwan",
+      "pet": "Stitch",
+      "dates": [
+        "2026/07/09"
+      ],
+      "source_csv": "data/raw/20261001/3_20260430_20261001_10_1 21-22 Kwan.csv",
+      "source_records": [
+        520,
+        529
+      ],
+      "source_message_keys": [
+        "d4e4a9a503e80cab89e7fac05d72968e31a56c3f35799cc7cee84ff0a6359a85",
+        "bffa772705a101dddba1d176f381abac43e9c3fc203d258c074ac42c24f0dfc6",
+        "49023602f2f77630455d271e652d5790a7fe433920a6c4d1194a13848f076881",
+        "e3654d60f0b0a69e61639ebc4324e7c172677d7a1d1b8fc0daa565c209209037",
+        "a3fea56142a4319be82ca01723b9a0fefa5729be873f58a78049f06d947c597f",
+        "fe567a46afe7a4f601dd4e8fee37feda8a6d0d266c0b4de9d02c974d960e244c",
+        "62ae3defeb01c59191ba56cbd0e6a3d2750c78afdfb24327eebea7dadc534c4f",
+        "7d59742c543d66d310ee6a1745813f51c8c1caa5015fc35932cf2304e779a7e3",
+        "741e5e52d482d108842e5ca930042738da87041acafe11bbf4a695200be55f79",
+        "2f69bebdf0c589fbcf3a588ef8dd643e7fb061366df598579ca00bb91df14733"
+      ],
+      "scenario_summary": "家長提議讓 Stitch 去熟悉的朋友家度假；溝通轉述強調媽媽有空就一起待著，家長也補充朋友會主動邀約。",
+      "title": "貓咪比媽媽還怕麻煩別人",
+      "keywords": [
+        "st : 媽媽,我們不可以麻煩別人",
+        "媽媽可以把你送去住幾天再回家嗎 度假的感覺哈哈哈"
+      ],
+      "spoken_parts": [
+        "這隻貓，居然比媽媽還怕麻煩別人。",
+        "媽媽問，要不要去喜歡的姐姐家度假？",
+        "我當時轉述的是：「媽媽在，就跟媽媽一起啊，不要麻煩別人。」",
+        "媽媽還補充，人家會主動邀牠去！",
+        "我聽著都想說，這位房客也太客氣。喜歡朋友，不一定每次都想住下。",
+        "你家是愛作客，還是愛待家？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R003-01_貓咪比媽媽還怕麻煩別人.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 521,
+          "text": "st : 媽媽,我們不可以麻煩別人"
+        },
+        {
+          "role": "User",
+          "record": 520,
+          "text": "那如果有時間的話 你會希望媽媽可以把你送去住幾天再回家嗎 度假的感覺哈哈哈"
+        }
+      ]
+    },
+    {
+      "story_id": "R007-01",
+      "chat_id": "chat-8439548727fc69fa",
+      "source_room_number": 7,
+      "account_name": "10/17 11-12禪～Marina",
+      "pet": "索妮亞 Sonia",
+      "dates": [
+        "2026/07/05"
+      ],
+      "source_csv": "data/raw/20261001/7_20260427_20260923_10_17 11-12禪～Marina.csv",
+      "source_records": [
+        379,
+        388
+      ],
+      "source_message_keys": [
+        "b3f5a498905b890bc6d0b2fe6b4d5ce7387b8df0a9958fda6a0ce45a64e56256",
+        "e5c8cf29648d53fe02c0deab11abed2b50773272d5adc93fcff01fba7e8e1c92",
+        "883bc17a3568eac55dc80e9cf4bac0b6acf25a3c305d98af34c244db66606e7d",
+        "5b9b4c8d7fe6137d116cfcb1d1d027d2d49d9b54a3806be8521a504120a26218",
+        "13bf947f2f90483d1d50f3e02d65af8909c8028982ba76f2034facf931fb7921",
+        "6e53e16f9d64ace148b15172d21e027231198d19fc2198e294d59861fa319fa1",
+        "9e9df113bc91e5cd12fef0ccc8b2b5e149a181d099b7080ddfef0e0b088c324f",
+        "bff5fdb1540cb83b7f95879ba0274b39cbcd4d00be9955e5338b15ea3e22bc20",
+        "d50e753e042dc78513621f827843e51dadc278ffe6e3b6c6f19bd6247de5708f",
+        "963825a5aa59236a0eba5aa6633e57ce6120c21ef969e351aa32ab6d42184038"
+      ],
+      "scenario_summary": "家長問是否喜歡到客廳探索，提到牠仍往暗處走；轉述偏好窩在媽媽身上，對陌生氣味與光線感到緊張。",
+      "title": "刺蝟的理想行程",
+      "keywords": [
+        "s : 我覺得很開心~~~",
+        "類的，但不知道是不是太亮，他好像還是會往暗的地方"
+      ],
+      "spoken_parts": [
+        "媽媽想帶刺蝟逛客廳，牠的行程卻很簡單。",
+        "那次家長說，放牠出來，牠還是往暗處走。",
+        "我當時轉述的是：「我喜歡暗暗的，窩在媽媽身上就好。」",
+        "人類安排一日遊，牠只想訂媽媽這間房。",
+        "我們想分享世界，也可以先看看牠喜歡的步調。",
+        "你家也有宅宅小朋友嗎？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R007-01_刺蝟的理想行程.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 379,
+          "text": "s : 我覺得很開心~~~"
+        },
+        {
+          "role": "User",
+          "record": 381,
+          "text": "那你喜歡出來家裡嗎？到客廳之類的，但不知道是不是太亮，他好像還是會往暗的地方"
+        }
+      ]
+    },
+    {
+      "story_id": "R008-01",
+      "chat_id": "chat-6ac594971d7e9ea6",
+      "source_room_number": 8,
+      "account_name": "9/7 8:30PM-琬珺",
+      "pet": "花與毛毛",
+      "dates": [
+        "2026/09/07"
+      ],
+      "source_csv": "data/raw/20261001/8_20260824_20260921_9_7 8_30PM-琬珺.csv",
+      "source_records": [
+        256,
+        265
+      ],
+      "source_message_keys": [
+        "ef7fe9e3320bfa5b411cb6086cf2e1e1f1000e4eb708476d24854a1add41da06",
+        "d5f4cd705170999e1fbfb0295720b24f4c0aee6b7008f9917d77a65d55467a93",
+        "18778d3183c124e77dc7c885ff381f87ef54a0af1e33b45c4204505774f17688",
+        "3458bb64e19517b8106a3d97ff63a278af497e20b920c832a727e97ebdb90a27",
+        "7fb2da7ce317dcb4d146f6f17f281b4435c5c755845c87fc622229b56f7a7a11",
+        "bb0d48687cca08b01a0315a56de6f0c3fc371c9bc3e94c8154c80495fa8b1f54",
+        "45fa6dd3fd016fc14cbd3ce2269a4eff839ca24e26cdfc0f87abeab7453d7740",
+        "3751a9864114080b2a4e47a1ba3468bb9b46d9214664c80ab629d07ba4f8f334",
+        "67a6078a69c8e3dd1a9e18d7539c1d99cb7b441db9cadd225c2255b60d41b19b",
+        "01d42ea8e1fa1fad619d7fac57221a9100ce1baf69237892f23100958fc7c9f9"
+      ],
+      "scenario_summary": "轉述花覺得毛毛想當哥哥，家長說實際長幼不清楚；腳本保留不知道年紀，不宣稱誰較大。",
+      "title": "當哥哥會多吃一點嗎",
+      "keywords": [
+        "我問他毛毛 : 他就很煩",
+        "對!!!我們都說毛是哥哥"
+      ],
+      "spoken_parts": [
+        "家裡叫誰哥哥，可能連貓都有意見。",
+        "那次我轉述花覺得毛毛一直要當哥哥。",
+        "家長說，他們平常真的這樣叫，但也不確定誰比較大。",
+        "接著我轉述一句：「當哥哥有什麼好，又不會多吃一點。」",
+        "好，輩分問題突然變待遇問題。稱呼之外，也看看各自的需要。",
+        "你家名字跟個性搭嗎？"
+      ],
+      "estimated_seconds": 27,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R008-01_當哥哥會多吃一點嗎.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 257,
+          "text": "我問他毛毛 : 他就很煩"
+        },
+        {
+          "role": "User",
+          "record": 259,
+          "text": "對!!!我們都說毛是哥哥"
+        }
+      ]
+    },
+    {
+      "story_id": "R008-02",
+      "chat_id": "chat-6ac594971d7e9ea6",
+      "source_room_number": 8,
+      "account_name": "9/7 8:30PM-琬珺",
+      "pet": "毛毛",
+      "dates": [
+        "2026/09/07"
+      ],
+      "source_csv": "data/raw/20261001/8_20260824_20260921_9_7 8_30PM-琬珺.csv",
+      "source_records": [
+        292,
+        305
+      ],
+      "source_message_keys": [
+        "eaf8bc075cb45387d8179695c8e97a268f96e6a74755315650ad786d2a172e14",
+        "79be64b1af6dd57e36bad48857a2d5993556af43e68dafdd6373185c21fe8e8f",
+        "efc6a485bbd7c0c0fef708085bf2fd2d2e4a4d78b7847ac29abbac740327ab1c",
+        "64e14e2b96393b9bdd6162d0aa7fe21367ea71e64dc5aa2f30a6447ba8671fb1",
+        "7262ff24426f27d3d7cad3a41d6bf08d344361e2745b5840b7b1701837d79fca",
+        "422b6e3631b7247841ac672bc8968281688c1621f7a82491a4c5d22fb581d8de",
+        "52a5f64a7a5c8c86fa64a72a64970dfc4cd86eda50c4d747daebb2f2697e116b",
+        "45b20b708abe39fd560bb283ba554e87c5860f5d604f676ab2a2aef99e7c1406",
+        "547721f34a55af6264f8d74c2ed9a06e4ca808cf00f50464c805a5d7027d290d",
+        "2c1feb94ca1c7838ccc36ea4a7889b9c6eb06c8c4118eb813ecd73fd5eed2db4",
+        "afc41306ebf03eaadc3240c908076cf19c4daddf6845c34254899a2ee9204886",
+        "c337a863699514108f1a9b7d1094a5e650e7b1c42ca067c570db7f6c0ed66b97",
+        "1ae86dd2a087f372b3b3136d480ea7d4cbd52894e2ef977529a58f11621d2576",
+        "3fd232907d6edbb55827b9619eedb4363066079e5a8baa4cf98bc579ca409bee"
+      ],
+      "scenario_summary": "對話轉述毛毛不喜歡被反覆搓亂毛，要順著摸；家長以王子和庶民回應，並補充牠不給摸肚子。",
+      "title": "摸貓還要顧髮型",
+      "keywords": [
+        "毛 : 男生沒有一直被說可愛的,要說帥",
+        "毛有時會出手打人"
+      ],
+      "spoken_parts": [
+        "有些貓給你摸，還附髮型管理規定。",
+        "那次聊到摸摸，我轉述牠的意思是：「不要來回搓，我的毛會亂。」",
+        "「這樣又要花時間變帥回去。」",
+        "媽媽直接回，好的王子，庶民收到！",
+        "我彷彿在聽髮廊客訴。親近牠，也記得留意牠喜歡怎麼被碰。",
+        "你家有指定手法嗎？"
+      ],
+      "estimated_seconds": 24,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R008-02_摸貓還要顧髮型.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 293,
+          "text": "毛 : 男生沒有一直被說可愛的,要說帥"
+        },
+        {
+          "role": "User",
+          "record": 292,
+          "text": "毛有時會出手打人"
+        }
+      ]
+    },
+    {
+      "story_id": "R011-01",
+      "chat_id": "chat-362f1fcfe1005c2d",
+      "source_room_number": 11,
+      "account_name": "9/10 9PM-奕如",
+      "pet": "哈魯",
+      "dates": [
+        "2026/09/10"
+      ],
+      "source_csv": "data/raw/20261001/11_20260726_20260913_9_10 9PM-奕如.csv",
+      "source_records": [
+        261,
+        271
+      ],
+      "source_message_keys": [
+        "35d2778f939bc31db7ea9f65760c62f6d175834873e5be9ef05678c653b4af98",
+        "646a7839e8dfb0472107d1812747cd883064a522b463fe75e5d6c1afcd53251a",
+        "5b539b86e4a4834f18e131d940d8355207e90689d61c7af7da6036e72c2b1a1c",
+        "6b84488dcf0d102f349e68cdac855b3d754032bcc2bddd787434355afcc8c9bb",
+        "fe60e47259b18c21c99bc9f64651314ea5c6527e434a4d4b1f7a0c799ed2405e",
+        "99da7c2e58b42144f16bb3dcfe3e1bbee583136165b78268d6507c8d2d3c9665",
+        "616e277081d2f591e0e0818cb8bc9ad2f71f25690108d17cd56991d6e950eaab",
+        "8faaf9f58a3c2d24e31a5ad3a3333cebb0434101308c5f2af21497afd718d5ff",
+        "be07eb595eeaf215d9c60866327fc1f7a6ec32f090749be70cd4b506befd0c6e",
+        "dd048e5a17ca828a779d6c7ec7a02395b3aa281842e353d5e54f6a019accc1f3",
+        "70cdcbe66de1faed8ab37f32b8a9a9c401ef505ede5049be651088e1851e4136"
+      ],
+      "scenario_summary": "家長說有陪玩但哈魯不會累，累的是自己；溝通轉述則表達遇見姐姐很開心。",
+      "title": "玩累的原來是家長",
+      "keywords": [
+        "哈魯 : 姊姊為什麼問廢話",
+        "他跟我住是過得開心的嗎"
+      ],
+      "spoken_parts": [
+        "陪貓玩最累的，可能真的不是貓。",
+        "那次姐姐問，牠跟自己住得開心嗎？",
+        "聊到陪玩，她說：「有跟牠玩，但牠不會累。累的是我。」",
+        "我當時轉述的，卻是牠很開心遇到姐姐。",
+        "一邊擔心陪得不夠，一邊已經快沒電。也給努力的自己一點肯定吧。",
+        "你家誰先喊暫停？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R011-01_玩累的原來是家長.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 265,
+          "text": "哈魯 : 姊姊為什麼問廢話"
+        },
+        {
+          "role": "User",
+          "record": 262,
+          "text": "他跟我住是過得開心的嗎"
+        }
+      ]
+    },
+    {
+      "story_id": "R012-01",
+      "chat_id": "chat-52dc384d909e4a5a",
+      "source_room_number": 12,
+      "account_name": "9/6 8PM-Alison",
+      "pet": "娜娜",
+      "dates": [
+        "2026/09/06"
+      ],
+      "source_csv": "data/raw/20261001/12_20260902_20260908_9_6 8PM-Alison.csv",
+      "source_records": [
+        288,
+        304
+      ],
+      "source_message_keys": [
+        "f5f71b98556cd5ae1d45475e44532ae12a9d9e989637ec87fb81f46fec3194b1",
+        "f4d6a993fa1b7e67b5be757963b2fc21f1de1dce5601fad223b34a93e01ec718",
+        "f40041199f3c3981d5681e21f051c550f703fbd697c995391d7631b8e7f936f6",
+        "36c6a792d6403400f47ad2af58d1b0183bf999eb7f0d63da2f68777266a0d4fa",
+        "520642aa6e172ebca95834ed328e5a451fdacf3fb3dc3c80969551dc8483d65c",
+        "d72b206b03440d1431917d9d6025d5e0d8cfd28b1e433aa591930afd2db73294",
+        "17376743e2949ee87472a46b44c315d5e17d5b8aa65b79c3cdb06fd08f35f53c",
+        "2aff0d12714d9a7264fa3ef3f01742f2e8889e734a9b41fbe5936e2b69991134",
+        "c6dac5660444cdaf8620211a0b8702201bf416acfb9069f41c0071fa5ffa7055",
+        "015cdbf32dfc49dba856557d228a42b33117b99ece18fe59ec13c67ee6161bae",
+        "dd30a867564ac1f5eb62c571746ef6d2003a38f30cdcd30b4cedabb9dbc950a5",
+        "7ce107a48b24f46f722c7fdaf043c791f8df31ad6a1b523aeebebef9910d6f82",
+        "500f65a3fc6c47dce69e3fbc580bbe5fef95e1dbaeb343af4450bfb34707422c",
+        "0531aa7ea638413f49e4f2ba451aa201cdec66971503d29e82d206d528c7a1d4",
+        "6b496cdca386a3af761958dc34669b48cb501dbb2d969f3c69ea2924a0cde859",
+        "66176497a78b44b6c446b6e43b11986cc298d462b0f4c8ddd7977d310abd0989",
+        "2f3fa0f4ee3e038d5642d36bfb267fbc27b2e1112d615f5f56a9b052ac8628ec"
+      ],
+      "scenario_summary": "照護情境的對話中，轉述娜娜注意到房間香味；阿玲確認老公買了鹹酥雞。此篇不使用病況或家長眼淚作笑點。",
+      "title": "感動中突然聞到鹹酥雞",
+      "keywords": [
+        "娜 : 妳看 媽媽又要怪自己了",
+        "等爸爸一下 爸爸剛回家 想要看一下我們剛剛的對話"
+      ],
+      "spoken_parts": [
+        "那次聊天，最突然的插曲是一袋鹹酥雞。",
+        "原本我和家長在聊很牽掛的事情。",
+        "聊著聊著，我轉述娜娜的感受：「你家很香。」",
+        "我一回頭，原來老公買了鹹酥雞。",
+        "再認真的聊天，也會穿插這種生活小事。讓我記住的，不只有擔心，也有牠日常可愛的樣子。",
+        "你最記得毛孩哪個小習慣？"
+      ],
+      "estimated_seconds": 27,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R012-01_感動中突然聞到鹹酥雞.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 288,
+          "text": "娜 : 妳看 媽媽又要怪自己了"
+        },
+        {
+          "role": "User",
+          "record": 289,
+          "text": "娜娜 你等爸爸一下 爸爸剛回家 想要看一下我們剛剛的對話"
+        }
+      ]
+    },
+    {
+      "story_id": "R013-01",
+      "chat_id": "chat-e8bda4632f610afe",
+      "source_room_number": 13,
+      "account_name": "9/4 8PM-林淑錦",
+      "pet": "球球",
+      "dates": [
+        "2026/09/04"
+      ],
+      "source_csv": "data/raw/20261001/13_20260727_20260904_9_4 8PM-林淑錦.csv",
+      "source_records": [
+        122,
+        131
+      ],
+      "source_message_keys": [
+        "5344c4b2d020488d9696f48ee752567367e1606b10469a7e78a94f3d5ec77b44",
+        "3edc0a4c6c93ba6fe96bfab4444f53990f2085bad43f415b3ed72d50dde5c536",
+        "9d8239601732fa3b911643ab50f5f62544f1f72db12c0ed82bb0511809aaeb5b",
+        "3bed32784178acce7c44e44695d35f133400bb33a35315f84d93b6141b0d8728",
+        "f2a3b6a1b6811f37cf15e6eaa433f3fecf6dbbde61a2ac27f74e03467c017136",
+        "71b430da282ef82b211d76cd09364ee542b70cb16a7560b9948547bdb6f94b5d",
+        "085b1445853c64417c5514e7719db280a74633d01d7e8e14f812998ce9b09944",
+        "c8db45044c885542864347ed64bdf03373efa4c07ee5b48a986baa6d8c85f420",
+        "94ee8c54cd2148c12ce4f28c36a182a6551c569780810c58a711a528d2f6ac1b",
+        "d2bee4bef0ecc3cccaf8d6edd7e53caeb57d085ea663329fa9e9d1f2f49ddef6"
+      ],
+      "scenario_summary": "轉述球球最喜歡媽媽，家長提出爸爸下班後牠會窩在爸爸身上；保留這個不完全一致的觀察，不下定論。",
+      "title": "最喜歡誰不能只看一個動作",
+      "keywords": [
+        "？ 球 : 我最喜歡媽媽,我每天都跟媽媽黏在一起",
+        "可是爸爸下班回家它就喜歡窩在爸身上"
+      ],
+      "spoken_parts": [
+        "問毛孩最愛誰，很容易變成家庭辯論。",
+        "那次我轉述球球最喜歡媽媽。",
+        "媽媽卻說：「可是爸爸下班，牠都窩在爸爸身上。」",
+        "欸，這題怎麼突然需要交叉比對？",
+        "不同人的陪伴方式不同，一個動作也不必急著排出名次。",
+        "你家有人偷偷在計分嗎？"
+      ],
+      "estimated_seconds": 24,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R013-01_最喜歡誰不能只看一個動作.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 122,
+          "text": "*你喜歡家裡每一位成員嗎？\r\n球 : 我最喜歡媽媽,我每天都跟媽媽黏在一起"
+        },
+        {
+          "role": "User",
+          "record": 126,
+          "text": "可是爸爸下班回家它就喜歡窩在爸身上"
+        }
+      ]
+    },
+    {
+      "story_id": "R015-01",
+      "chat_id": "chat-216f882468011749",
+      "source_room_number": 15,
+      "account_name": "芮芮",
+      "pet": "尼莫",
+      "dates": [
+        "2026/08/10"
+      ],
+      "source_csv": "data/raw/20261001/15_20260713_20260810_芮芮.csv",
+      "source_records": [
+        509,
+        520
+      ],
+      "source_message_keys": [
+        "b76c568f809d0b7abf674d9646a712790a3ca0155ac742e7e75f458c1be7900c",
+        "2a0e1c6b045cd0cbd953ced0b4743c7222f3f4b288d0608163c5df0af839ede5",
+        "052c06cb7905da44c06153052b1ac967ee55049a53e68bb97ace8711ba5b0e79",
+        "5c194ede6c4faa7a37bb9c01a00d932558c64b1482b00c58744c3110ddbfc378",
+        "a7f3430f85992676399fe01b48271e69b4ffc9ee4296577dfcdddc5bab0fd38d",
+        "8def657d7883db9bab157379b9cbb45c31168f8cc3feda561594e69e80c5be54",
+        "9697fb9619bf5cfa105627f5bafd731f544294fedb60ab4180ba074c7a4a9cbb",
+        "57ab3bf73aedce3ef92d83162aaf760e4a6dce057457ee7c42cc46e43d092af6",
+        "4daf9ac2e123ec808fa28f4713d27b02f8b1a5ad926a1770a63126499aaf0917",
+        "421372728290ffdc6449b4c71c9d5f230c7850ca46e00bc437ef9e070d495002",
+        "5b27d0597f0f422207fff5b497809229ad83c913d148125a31ad5dc96eaa6357",
+        "22df85b7c0b48e568f2779d7616a64f0fb49517b977849b7b7aaee91c415df40"
+      ],
+      "scenario_summary": "家長確認男友對貓溫柔，會幫忙刷毛；對話呈現他摸抱前會先問，並非斷言這是所有貓偏好的方式。",
+      "title": "連摸貓都用問句的人",
+      "keywords": [
+        " : 可以抱一下嗎 : 怎麼那麼可以,摸一好不好",
+        "對呀 因為我男友有養過寵物"
+      ],
+      "spoken_parts": [
+        "有一種人，連摸貓都像在約會。",
+        "那次聊天，我描述男友會輕聲問：「可以摸摸嗎？可以抱一下嗎？」",
+        "家長說，對，他還會幫牠刷毛。",
+        "我聽完只想說，這個服務態度可以給五星。",
+        "想靠近毛孩，先留一點讓牠選擇的空間。",
+        "你家誰最會溫柔講話？"
+      ],
+      "estimated_seconds": 23,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R015-01_連摸貓都用問句的人.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 515,
+          "text": " : 可以摸摸嗎 \r\n : 可以抱一下嗎 \r\n : 怎麼那麼可以,摸一好不好"
+        },
+        {
+          "role": "User",
+          "record": 513,
+          "text": "對呀 因為我男友有養過寵物"
+        }
+      ]
+    },
+    {
+      "story_id": "R016-01",
+      "chat_id": "chat-62e86bb9565b12e8",
+      "source_room_number": 16,
+      "account_name": "Yü。",
+      "pet": "威風",
+      "dates": [
+        "2026/08/02"
+      ],
+      "source_csv": "data/raw/20261001/16_20260427_20260802_Yü。.csv",
+      "source_records": [
+        145,
+        155
+      ],
+      "source_message_keys": [
+        "9f57fb3bba64c9c0b2166a9eaa6f626cd8825a6b13569e5c4b140ee945066187",
+        "7e29f806e1abf349c8379210ad5ec27c2e0ba41f4c309cfa2dfdfc7f81d97b8d",
+        "99f127e90cbc24ca025d80b425ada731f026e28ed9349b8d22862187cf69529b",
+        "5ed30cd922d1616678e030e76fd49dd29937d940bcf1e3e93c60c7304f4fc17c",
+        "61c1d6e741372eef385a0b3a4f724109cf1056d46b77a1350c96dcb63ee0367c",
+        "26b6c0a19f16a0023fc3f138b9a102e52c09471daf455117f1c9b780a5013904",
+        "ad17198502d903fdb16e0a45c63df7c7c3256f7a6dabb27c67c98909d90adac2",
+        "16eafd26070b083075e449f4aa59870aa5b89e1df8bcb560017f1c60211f69bd",
+        "bced2dbafb8e7b9b82f82995e7c28196f9698be956bda00d38d1cf469e20c967",
+        "0417231dd3d546611f17b31d6279b7a6a33410a071202f000a72bb4a47f1af6f",
+        "7c57f7e7c2674a1715204fc2086370fc6f93dee747120aa245e946f6deadbb43"
+      ],
+      "scenario_summary": "威風的轉述說大家喜歡牠，家長追問怎麼知道；轉述回應人類常稱讚帥和可愛，並釐清說的是人不是其他狗。",
+      "title": "大家喜歡我的證據",
+      "keywords": [
+        "威風 : 就跟我躺著睡到翻白眼還是帥一樣",
+        "真的是有帥啦"
+      ],
+      "spoken_parts": [
+        "這隻狗的自信，是家長每天親手養出來的。",
+        "那次我轉述，牠覺得大家都喜歡自己。",
+        "媽媽問：「牠怎麼知道？」",
+        "我轉述的回答是：「大家都說我可愛，還說我帥啊！」",
+        "欸，證據居然都是你們提供的。稱讚每天講，自己都忘了講過多少。",
+        "你最常誇毛孩哪一句？"
+      ],
+      "estimated_seconds": 24,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R016-01_大家喜歡我的證據.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 145,
+          "text": "威風 : 就跟我躺著睡到翻白眼還是帥一樣"
+        },
+        {
+          "role": "User",
+          "record": 148,
+          "text": "真的是有帥啦"
+        }
+      ]
+    },
+    {
+      "story_id": "R018-01",
+      "chat_id": "chat-25c63cbd83f3d211",
+      "source_room_number": 18,
+      "account_name": "Sophie",
+      "pet": "陳豆豆",
+      "dates": [
+        "2026/07/30"
+      ],
+      "source_csv": "data/raw/20261001/18_20260620_20260801_Sophie.csv",
+      "source_records": [
+        359,
+        371
+      ],
+      "source_message_keys": [
+        "3d16e161bd9cce5bc9afe3bc6ef78b1c6fcd8e9bd1202e608c19b5a1f72fad16",
+        "af8a5fe284c1222794158e4e34c0840c8b057996819da70ac55d0171e242a2ee",
+        "06338370a8b8b96416bf993924f691da39914022269aaca3b65a42e555aefd0e",
+        "18a8e5930d34facc852c1415c9c7cf95c6ee7f9c6f6cde318c57d29e439982eb",
+        "8c4c64fb8a9a136100a29f32e3c7b27533c5b97868ff977b63a9c4e5a9121a60",
+        "4030e8d5c50eae590d26a9192fdeb920996c949c0b98a93452206c00ce7c11dd",
+        "f9663977dc3bb574e109c455249c22a17a2de96f616ca427747d0b0488db63f4",
+        "e9f40fd57c94c66bf12b57b124df11e1c5b97783306f2ab1444915e167a8aeac",
+        "03b9a93aeba4aa86e12613c2f9bc824efa6d8e9d9b536a18efb62730fc5f822b",
+        "67570848d390b1098d1c4a182ee9b2704801701e72ac2be43f7e82566e88639a",
+        "dabc96a6499db7c5c35d1f19e4df44b2d6d5d312b14b9a515ea771299469abe4",
+        "650b1c886b2832b3f162d81bfa788f242497759347a162d3e1a4d08ef8bcc4ec",
+        "74c97b1a8e31719d5be1be0e73434a5582a016d6a41dc54cf590ca26ae0341f9"
+      ],
+      "scenario_summary": "兔兔豆豆的轉述問媽媽能否不要那麼愛牠，家長連續回覆沒辦法、做不到、一天比一天更愛；不推論兔子的實際心理。",
+      "title": "媽媽這項要求做不到",
+      "keywords": [
+        "豆 : 我如果說叫媽媽不要那麼愛我,他做得到嗎?",
+        "笑死 言簡意賅欸"
+      ],
+      "spoken_parts": [
+        "這次溝通，有一項要求，媽媽當場說做不到。",
+        "我轉述兔兔豆豆的意思：「叫媽媽不要那麼愛我，她做得到嗎？」",
+        "媽媽秒回：「沒辦法。做不到。一天比一天更愛。」",
+        "好，這題連討論空間都沒有。",
+        "愛可以很多，互動時也看看牠需不需要休息。",
+        "你也會每天愛到滿出來嗎？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R018-01_媽媽這項要求做不到.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 363,
+          "text": "喜歡我們之間的相處模式嗎？我有哪裡可以做得更好嗎？或是我有沒有需要改善的地方？\r\n\r\n豆 : 我如果說叫媽媽不要那麼愛我,他做得到嗎?"
+        },
+        {
+          "role": "User",
+          "record": 359,
+          "text": "笑死 言簡意賅欸"
+        }
+      ]
+    },
+    {
+      "story_id": "R019-01",
+      "chat_id": "chat-3b50178038bc6f92",
+      "source_room_number": 19,
+      "account_name": "黃愉庭 Gai",
+      "pet": "阿橘",
+      "dates": [
+        "2026/07/29"
+      ],
+      "source_csv": "data/raw/20261001/19_20260621_20260730_黃愉庭 Gai.csv",
+      "source_records": [
+        80,
+        89
+      ],
+      "source_message_keys": [
+        "7598739843835d96e7f377bacdd167bc414e1e711f27964abfd35835173097e6",
+        "3de3ccca130a97a5a2696b49d87b08796ba22c20d5e87f9681ff874288107d4e",
+        "d216dd55a0ef8e3b060903c27e10f2c258d70e1fabcb552ecf2441aff52821cf",
+        "7a2dc1f037f92ae0a81b3bc74557b4f2e21a7df154f7368e72bda59ab1a3cdfb",
+        "2e179d981dfa61df6993596b7a9ccd66961a05fcfe6d5f63381b1009c8640f2c",
+        "2c1ca015419d08cb21e9ff771eb16b61962375da17cb45df1e7c271c46b956be",
+        "f8c044f3bfd45005462c9509754bc0221ee2166b30229c86094a17951f032794",
+        "c0ba7ee03594c464c6a1533c26bd5c6b8e0d023a211f77e8b2b493227849365a",
+        "f8e8d41a1caae3be803abd71163786277f713ac11642c783cb2dd894b95a5cc8",
+        "17cc948929f7f09272231aa5b1408aee65e1a49199a587e0412c0bf08eff6d1b"
+      ],
+      "scenario_summary": "轉述阿橘疑惑小媽媽少回家是否出去打獵，家長說因工作住外面，也確實在賺罐罐錢。",
+      "title": "出門上班被理解成打獵",
+      "keywords": [
+        "爾會有肉泥或罐罐,小媽媽回來的時候比較會有好吃的",
+        "實是因為工作住外面 確實也是為了賺你們的罐罐錢🤣"
+      ],
+      "spoken_parts": [
+        "人類叫上班，這次貓咪版本叫打獵。",
+        "那次我轉述阿橘的疑問：「小媽媽怎麼不常回來，是我吃太多，要出去打獵嗎？」",
+        "家長說，自己確實因為工作住外面，也在賺罐罐錢。",
+        "突然覺得我的上班族身分很原始。",
+        "生活有變化，也別忘了安排熟悉的陪伴。",
+        "你每天出門都怎麼跟牠說？"
+      ],
+      "estimated_seconds": 27,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R019-01_出門上班被理解成打獵.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 80,
+          "text": "我 : 啊你現在都吃什麼好吃嗎\r\n橘 : 飼料啊,偶爾會有肉泥或罐罐,小媽媽回來的時候比較會有好吃的"
+        },
+        {
+          "role": "User",
+          "record": 88,
+          "text": "但我確實是因為工作住外面 確實也是為了賺你們的罐罐錢🤣"
+        }
+      ]
+    },
+    {
+      "story_id": "R020-01",
+      "chat_id": "chat-8740e086edc41413",
+      "source_room_number": 20,
+      "account_name": "arri",
+      "pet": "Skippy",
+      "dates": [
+        "2026/05/14"
+      ],
+      "source_csv": "data/raw/20261001/20_20260428_20260729_arri.csv",
+      "source_records": [
+        449,
+        462
+      ],
+      "source_message_keys": [
+        "fc63e74564ccaa6576e2bc27543fa6dd2e0745076e1799fe6d2f87629ec2b4ac",
+        "9c4f47a4a6ac8cdf3a6aa799e1d443e3afb2e62d43436499cdca5647039e9c44",
+        "b16dff38bb97f6a4c17c51a626f1abc127c421d3cfc1f3fc23cd36fc33de7605",
+        "8b76fe903dbb3df98f522e3621af4a1ff9d56c369ff80175ec41aefe436b8f56",
+        "86ea92e4149ec173da4afa6d50524097d55f5637246c176cf693b2d469f64658",
+        "4f72360701a0a4cd29475c6ae4adb268c318b79921de2378138b5d3060eefa47",
+        "f5a4afd91de3a030d672f3cf9fe4ed2ca79a5b2956d3c8d056d56865d8e2fdc7",
+        "123ecc811ccd0d182a4453c261e6d57c6bd92f17c5e8d0bb87ba8cb0a14fcab4",
+        "616a1acdbfac793315eb3fe78bf4ee856dec86917736372fe609feb1e13bb180",
+        "db2f77c53feeb3e8286c7a4679d93572aca98b47497726be16a7034ed8d5c7d7",
+        "94577c6e1adc83ca931f16fcd6285d6df7f2cb930474f42d6cc67a0590ef56e6",
+        "bb4b499d56be31964e8b32e74bfb9b027e96913658adf4cf7e479b6d2a92924d",
+        "7f7be884d1d392f9ce64f7b532316654f3e8645b9ec7d1883d9e55c6a22092b8",
+        "3bb1dbaffa91b8017ccd89ac44d9518382cecc9be543a86775410a24f1a11a95"
+      ],
+      "scenario_summary": "轉述毛孩喜歡與家長一起跑，另一位長髮媽媽會制止；家長補充對方會說像神經病，自己笑說偏要。",
+      "title": "到底是誰陪誰玩",
+      "keywords": [
+        " : 長髮媽媽不會這樣跟我跑~",
+        "哈哈哈哈哈 對"
+      ],
+      "spoken_parts": [
+        "家裡有人陪毛孩玩，也有人負責問你們在幹嘛。",
+        "那次聊到一起跑跑，我轉述牠很開心。",
+        "另一位媽媽卻常叫他們不要這樣。",
+        "家長還笑說，對方覺得他們像瘋子，他們偏要。",
+        "我像在聽同一屋簷下的兩種作息。一起玩，也記得顧到旁邊的人。",
+        "你家誰負責踩煞車？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R020-01_到底是誰陪誰玩.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 455,
+          "text": " : 長髮媽媽不會這樣跟我跑~"
+        },
+        {
+          "role": "User",
+          "record": 449,
+          "text": "哈哈哈哈哈 對"
+        }
+      ]
+    },
+    {
+      "story_id": "R022-01",
+      "chat_id": "chat-439e98aaea1f30b0",
+      "source_room_number": 22,
+      "account_name": "Vivian 🌻",
+      "pet": "大谷",
+      "dates": [
+        "2026/07/11"
+      ],
+      "source_csv": "data/raw/20261001/22_20260620_20260729_Vivian 🌻.csv",
+      "source_records": [
+        272,
+        284
+      ],
+      "source_message_keys": [
+        "b3cd65e45807b747d3a9cc93f89e9c97b63eeb6174f7ac9be192e6b6f3a42449",
+        "b2f0347c2064174a76c5a09d298a9fba8abab4b09b2c139446f9d17e14c9e879",
+        "ff6bd9e02325dc04f4ca3f39d636408394a074d3a8f160f34e0cfd22b643372a",
+        "b3df73f56df1e6d7ca8e56393b183b7dd5bb76aadd515784f7ad99f0dad23fab",
+        "29e49e4f178b3f8e9a25826ea7b827105e463a8d2d08ab0bc7bc2f868069adf3",
+        "e44dafbcf41311c86a05e8ae46c7872566c3824f059909bd8116cba88b7016e3",
+        "30de33a0a5cb85c51e7a9f98d3435a17076763bf7349f5abc2eda9bee83df2f9",
+        "cfa33f77e1bac96383a2852c6e4392e396278b73d6bb1d6e6ede60982608e5e2",
+        "b7a102bef9e52fb8637a96121c769e89273f8170e6f94930cdb2e30fd766f4ec",
+        "5317c14fa853b948f37376743ec1a76404495880bb54bf68a4cc7a37dde7f250",
+        "339a8be0f4c639402477ac713b0da24a5d66f865c08d1c37e1f439ccd3487bc5",
+        "4019aef4dc81b3dcaac89ea92151cb617299a986cd66e60736066ef889ce4673",
+        "104302552283276dfeb367ca45a7ee3552fe00e55f3ac1803573bc33ba848cc4"
+      ],
+      "scenario_summary": "轉述誤以為家長要賣掉牠的玩具；家長吐槽舊玩具都破爛，接著釐清是賣牠喜歡的那類玩具。",
+      "title": "賣玩具這句話要說清楚",
+      "keywords": [
+        "谷 : 喔喔喔賣我喜歡玩的玩具喔,媽媽話要講好欸",
+        "是你玩過好玩的 我會再買新的 賣給別的小狗狗玩"
+      ],
+      "spoken_parts": [
+        "「媽媽要賣玩具」，這句話真的要講清楚。",
+        "那次聊天，我轉述小狗以為自己的玩具要被賣掉。",
+        "家長笑說：「都咬得破破爛爛，要賣給誰？」",
+        "原來是賣牠喜歡的那類玩具。",
+        "我聽著像家庭財產保衛戰。少講幾個字，意思就可能差很多。",
+        "你也有講到對方誤會的時候嗎？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R022-01_賣玩具這句話要說清楚.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 282,
+          "text": "谷 : 喔喔喔賣我喜歡玩的玩具喔,媽媽話要講好欸"
+        },
+        {
+          "role": "User",
+          "record": 272,
+          "text": "是你玩過好玩的 我會再買新的 賣給別的小狗狗玩"
+        }
+      ]
+    },
+    {
+      "story_id": "R025-01",
+      "chat_id": "chat-a68cb7ba07685756",
+      "source_room_number": 25,
+      "account_name": "Su",
+      "pet": "黑糖",
+      "dates": [
+        "2026/07/22"
+      ],
+      "source_csv": "data/raw/20261001/25_20260604_20260722_Su.csv",
+      "source_records": [
+        322,
+        345
+      ],
+      "source_message_keys": [
+        "d87ec14705db613d101d419be2a7bdaddef7e475cc478ac6ab47e2679eb255ca",
+        "8676a4daf49170c91989353972e10a7279b70c1180ba300cfab1fd5a26fc0ffe",
+        "35c0c5fdecddc0f57f7d9a6fde10d1fce218d2b63eb52cf8872db2faf77e1714",
+        "bb425b84918af354a4a31472777cc8ae1027f21f13cbf9974b1c397eef007c1f",
+        "182b682d47ae5943c4e927d70133660860b928d0e738309cb2f616802871d9e9",
+        "64b22b479a1c795113815ff21de6f7a2cd8c2c49d396097186e46dbdc3f01d2d",
+        "e902ee3eeeea12e9d77612959a19924913cb3319f597a9cf8d7df2c38569bf7d",
+        "37a02835797af9189c1f3f649d3de7247bc1521cc21ea97fcba2e0a8accbd64a",
+        "a380ff74de385862afb7d238d1239ff6cd018afe0b3d1ac28f8d56a708bbe185",
+        "eeda9afea84ae8477e4b220dee9bcc3afe478ce5d0828b573cc05eedfb5cf6b6",
+        "2e87fe04127e619f3ef2f17e69c3ecbdbbe00627d6d2bfb89083f586946f68a9",
+        "2c7057a2e27b5409053c5d8a37b44dcc7401d1ee7dbd532e4dd41858af4d430a",
+        "780137c93f5cff3a2613fcaad30005769d982dffbabcb880d48deaf06b1df00b",
+        "ab21745ba99d95c67ddf40f9456015ce7abce3e6e90416f7bb6e0f5777b0b785",
+        "50933860c9ea17930882548982985d304cf889a8668dafd506b0dc340e7dbe7b",
+        "e254b1228a2ffc8c51e7a514c64f6401a026948555bd12e8a5d4861f874b60ac",
+        "7f90ad7b22e9dd4c9732a98351b109f7693a4f97aa76b6b0ceac1b26709e6bd6",
+        "7323d5b24d3f7e46f8c8e5100afd99789d376184e960c99d620a5c5dcf23b227",
+        "008e06627a577c444561433947e1741c344d337f9d9137286f57cc11ed3d8448",
+        "12b66b1fc59b25145dd9a4620efbdc8a4fe64bebd38d029eac930d1801f8a34a",
+        "66454bae607389b1e6a09d825ba9f4b6b2547df20a2d359ed94b5c42be985547",
+        "47b1e27b83ad0f8064de2301bd83f37ceb0c7b3b3397b15b6579162611ba6e1c",
+        "28b01c921749d372d42ca5b7304ff295584c181336f0569e6125328ad1efc1aa",
+        "e601641a539eb1ecf937df8d72142900d29e933065c653d64e9d69175398fa9f"
+      ],
+      "scenario_summary": "原對話黑糖對先前談定的事情強調不要偷偷加任務，家長認同很精明。腳本不帶入未查明的具體條件。",
+      "title": "小狗不接受臨時加任務",
+      "keywords": [
+        "黑糖 : 兄弟要常來欸~",
+        "哈哈哈哈太好笑了"
+      ],
+      "spoken_parts": [
+        "這隻狗，談完事情還會防止你追加工作。",
+        "那次聊天，前面才說好，後面又聊到新的要求。",
+        "我當時轉述的是：「剛剛已經說好了，你們不要偷加任務。」",
+        "媽媽也笑說，還挺精明。",
+        "我怎麼像在主持專案會議？溝通一次，別期待所有願望都要同時完成。",
+        "這句話你也想對誰說？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R025-01_小狗不接受臨時加任務.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 322,
+          "text": "黑糖 : 兄弟要常來欸~"
+        },
+        {
+          "role": "User",
+          "record": 337,
+          "text": "哈哈哈哈太好笑了"
+        }
+      ]
+    },
+    {
+      "story_id": "R026-01",
+      "chat_id": "chat-46f88b3ae3bce9f6",
+      "source_room_number": 26,
+      "account_name": "ANN",
+      "pet": "茶米",
+      "dates": [
+        "2026/07/19"
+      ],
+      "source_csv": "data/raw/20261001/26_20260618_20260722_ANN.csv",
+      "source_records": [
+        638,
+        651
+      ],
+      "source_message_keys": [
+        "cbe2e5578fceffee4339f63b1ef011c88d5e159aec85f722fda1020c316f4698",
+        "81ce99b18ddf8994e491167cbb509c3496f64c8cc41c3e2fa4290b3c7edc4301",
+        "086ce407aa0cbe748f3b3bb5e37277c5f7db45a1998b53ab2b5195cd46c071eb",
+        "e2d0c199251ff82e405f72c707a68126f3a048b15bdff16ac24c5c0e34370157",
+        "f46dcc5e980834459390678978c20bf3f5229ad09905bbb34bd5ff88a77dc105",
+        "8d68109c7056c235ba9a615d1f7bfd0e9cd3df830297a5b02e6d1d4cf3b71c74",
+        "2705aba47ba91489704a3a0688bb3f3707910fe02463de41b11aad702a3cf9bf",
+        "0e21f889009ac76709bb0708a7f7ea77fa18e5b2e053f659a98b5fbf40e8c2b4",
+        "3f7de38ebb8066bdf222a13cff267756fe27fbe740567fb9c3a9d1d5406fe968",
+        "2692e6c8ac6691bce2640113aa695da0acc48f76b39df91ae8db83565f5b1b43",
+        "c35abd45b9613e85ee67463aaf87ee7a09c61a58dde6b5532c008f5b867c397d",
+        "43e3e387dbb3b4512f80bcff69cfede49668a88bb1702621f491ca674877a322",
+        "8fad08852c143ff54a55f62a5b56b4a40fa78358e4b2ad33cae7c30b9c0d240f",
+        "0734933c2449c4317c5d6532ee303c4b2cdf2a7c474aa436f682412dbe3143a0"
+      ],
+      "scenario_summary": "茶米的轉述希望妈妈一起玩而非待陰影，家長確認怕曬並說容易累；不評斷家長的體能或膚色。",
+      "title": "全家出遊有人只想待陰影",
+      "keywords": [
+        ",只是爸爸有時候比我還瘋,我會有點擔心 (???",
+        "他怎麼知道我怕曬黑好奇怪"
+      ],
+      "spoken_parts": [
+        "一起出去玩，有人玩的是尋找陰影。",
+        "那次我轉述茶米希望媽媽一起玩，不要一直待在陰影裡。",
+        "媽媽笑說，自己怕曬，也很容易累。",
+        "我突然懂了，同一趟旅行，兩個人的景點清單不一樣。",
+        "一起出門，也替彼此留休息時間。",
+        "你家出遊，誰最先找到椅子？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R026-01_全家出遊有人只想待陰影.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 638,
+          "text": "茶米 : 最喜歡跟爸爸玩,因為很刺激,只是爸爸有時候比我還瘋,我會有點擔心  (???"
+        },
+        {
+          "role": "User",
+          "record": 644,
+          "text": "他怎麼知道我怕曬黑好奇怪"
+        }
+      ]
+    },
+    {
+      "story_id": "R028-01",
+      "chat_id": "chat-a2667afa750c0c64",
+      "source_room_number": 28,
+      "account_name": "Asher     🌷",
+      "pet": "胖丁",
+      "dates": [
+        "2026/07/21"
+      ],
+      "source_csv": "data/raw/20261001/28_20260619_20260721_Asher     🌷.csv",
+      "source_records": [
+        166,
+        180
+      ],
+      "source_message_keys": [
+        "233fda86860600f8e927d733d949b546249e7132351cdf3ec432f3d94d0059f8",
+        "22f1f96a9b5f4fb4c1a8f25bb6910a1800ce0671dc4f5ee2ce3694237770867d",
+        "78f563f81fdbac99e51da5dbdbafccbd6d1e5e11f53fd9421d271851ad770532",
+        "72c26692b523f2034638a8e13f8635770ba5b23c9b20903a5258a282bff9c2fb",
+        "d03dd4961e7400649fd58e5247209502b589fa1cb80d4f1c7ac735928c92cc91",
+        "503536c3a42121487f713205620e5ec5a3f87de0112fe58109fa755bff97fc2b",
+        "aadddb0c4d94c36ac8cac2a59c4bd53e9419480ac28d9206a7cdc8a369c8423d",
+        "45097874f6d249e76baa4690a571eadbb5a43c9d23b73b82edb84693f4b51fe2",
+        "4771b949d5c7a54b4a4f7ded0e7668e0d2e0daf3220e4c5ec371829b2b2709ac",
+        "45a09ea6be6a2b2377665dae6fc259fa472234261744f0706362f4c0709f19bf",
+        "e28cf22c5ea5a12a20d0d5b4ccc3c51418c616e786828a5d4a3420003e178140",
+        "b6cb6781be6158603b97cbe4facfb3688bcb12aa76ea5be1dc9872b0215718aa",
+        "e47532599bf13aed5f699089390d617166b1767cce52d5e95d8031d9ed5ec77d",
+        "5af41867f993b4e45e00a2a9109961e0f6af92dc33acf352b81f3759c90ee6cc",
+        "6b29dff1b771ec617ab7b98dcc0b7bce9e49d9f44982e16e9866c4a28024e640"
+      ],
+      "scenario_summary": "家長說梳毛是為處理浮毛、變好看；轉述胖丁覺得自己已很好看，建議媽媽梳自己的頭髮。",
+      "title": "媽媽愛梳毛可以梳自己",
+      "keywords": [
+        "梳毛? 胖丁 : 超刺的欸不喜歡,而且媽媽很粗魯",
+        "那輕一點可以嗎"
+      ],
+      "spoken_parts": [
+        "媽媽想幫貓變漂亮，貓咪版本卻完全不同。",
+        "那次聊梳毛，媽媽說是在幫牠變好看。",
+        "我當時轉述的是：「媽媽那麼喜歡梳，可以梳自己的頭髮。」",
+        "還補一句：「我已經超好看了。」",
+        "這位客人對造型師很有意見。照顧的用心，也要搭配牠能接受的方式。",
+        "你家梳毛好商量嗎？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R028-01_媽媽愛梳毛可以梳自己.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 168,
+          "text": "為什麼討厭梳毛?\r\n\r\n胖丁 : 超刺的欸不喜歡,而且媽媽很粗魯"
+        },
+        {
+          "role": "User",
+          "record": 169,
+          "text": "那輕一點可以嗎"
+        }
+      ]
+    },
+    {
+      "story_id": "R029-01",
+      "chat_id": "chat-e52664e7447ca78f",
+      "source_room_number": 29,
+      "account_name": "糖",
+      "pet": "吉吉",
+      "dates": [
+        "2026/07/18"
+      ],
+      "source_csv": "data/raw/20261001/29_20260621_20260718_糖.csv",
+      "source_records": [
+        355,
+        364
+      ],
+      "source_message_keys": [
+        "864424a5a28c27f8c50c4bb0339526eab37993f41b68c9963500e42d48186e9c",
+        "d6152002a183d7fe8b23ac396bba9ebd1d43ae285a12ee36cd72a1d44ae25a95",
+        "32880c946c7c74efb298c416af458903148e76476f168c948c8fbe6030b3d5c6",
+        "5a4dd0c5222c913ed56ade53d0140fee243f369955fd0b95b09d67108d9be6e4",
+        "bdf51f2cedbe3c3b59cedc10f228726116f2ba529d1a8408ab1f90ae1c10edef",
+        "9287b6ec90a9b688ab7f8d9fe24320942060725765dcfa90d1d2a4e6d6d27443",
+        "63d32c72f240e49a35415e4f8cdfbaf64c7bf2c7952e77c79ef6ff4fb221250f",
+        "aac467daac8889383444f1645677730d1d55e7d29d329ffb71f42a19c803df2c",
+        "e4dff64bda211cbefa4bd6f3138b1fc89992a8f635a5be495d7e4c2434c749f4",
+        "18f2f2cd494343c4b5615ae761eae7afd740ec5ece19421e1df80721cd598764"
+      ],
+      "scenario_summary": "吉吉的轉述重視行動，家長回應很帥；涉及同住狗離世的背景不作笑點，聚焦陪伴。",
+      "title": "有一種愛不太會說甜話",
+      "keywords": [
+        "好嗎,不要只看別人說多喜歡你,要看他實際做了什麼",
+        "我要被妳嚇爛"
+      ],
+      "spoken_parts": [
+        "這次聊天，貓咪的戀愛觀比我還務實。",
+        "我當時轉述吉吉的意思：「不要只看別人說多喜歡你，要看他做了什麼。」",
+        "家長聽完說，牠講話好帥。",
+        "我本來在聊天，怎麼像旁聽感情講座？",
+        "少一點甜話，也可能有很多安靜的陪伴。",
+        "你家毛孩都用什麼小動作陪你？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R029-01_有一種愛不太會說甜話.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 359,
+          "text": "吉 : 媽媽要學會看行動好嗎,不要只看別人說多喜歡你,要看他實際做了什麼"
+        },
+        {
+          "role": "User",
+          "record": 357,
+          "text": "我要被妳嚇爛"
+        }
+      ]
+    },
+    {
+      "story_id": "R030-01",
+      "chat_id": "chat-b0404c12aa30c345",
+      "source_room_number": 30,
+      "account_name": "盧卡媽媽",
+      "pet": "盧卡",
+      "dates": [
+        "2026/04/24"
+      ],
+      "source_csv": "data/raw/20261001/30_20260421_20260717_盧卡媽媽.csv",
+      "source_records": [
+        57,
+        65
+      ],
+      "source_message_keys": [
+        "c3a0cf6a20b4cd133762ef549d884a3880efaf68043ae397ad08f8e34d4e977d",
+        "13b06a500cb39b18788e04efda12b4969b1d68c0279db8bc67c272d9dfb4e0c2",
+        "cbc6fd21dcf25c31e4598cf45f075f5cc367e25d1045a77c55be258c10f8c978",
+        "e878448d81f98577e952890918138714639d12f96dacb1509b10de35e3382dfc",
+        "8619998f46271084c5ef8eefbc9742ba0744208e45ea40bbc570d421a69b34fb",
+        "368514bad8e8ac450fc3a90900610188f93f1d086e1d821fa4ce0077f2914a25",
+        "5b76ce2f38e80d4665ee227819331ddfd9d106dc35a537525102015c32fe616e",
+        "4134e8ae9a746b63f87cb713f1d6d3e2a25599dc911dee8dd14a021fe4b5802f",
+        "313f47cbe6e101137fb1b43d773ebd571a7a3b3cc6d5572a764d8713af2afe47"
+      ],
+      "scenario_summary": "阿玲自稱盧卡粉絲並解釋意思，轉述盧卡是媽媽的粉絲、爸爸是牠的粉絲；媽媽笑說地位正確。",
+      "title": "家裡的粉絲關係",
+      "keywords": [
+        "粉絲,我知道你很喜歡小顆的啾啾球喔 ：粉絲是什麼",
+        "他喜歡人，會一直撞"
+      ],
+      "spoken_parts": [
+        "這個家的粉絲關係，分得非常清楚。",
+        "那次我跟盧卡說，我是你的粉絲，就是很喜歡你的人。",
+        "我當時轉述牠的回答：「那我是媽媽的粉絲，爸爸是我的粉絲。」",
+        "媽媽說，地位正確！",
+        "爸爸怎麼突然變應援團？這是可愛的聊天片段，不用真的替愛排名。",
+        "你是誰的頭號粉絲？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R030-01_家裡的粉絲關係.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 59,
+          "text": "我跟他說我是他的粉絲,我知道你很喜歡小顆的啾啾球喔\r\n：粉絲是什麼"
+        },
+        {
+          "role": "User",
+          "record": 57,
+          "text": "他喜歡人，會一直撞"
+        }
+      ]
+    },
+    {
+      "story_id": "R031-01",
+      "chat_id": "chat-fb1f4674dd81f131",
+      "source_room_number": 31,
+      "account_name": "Sheena",
+      "pet": "味噌",
+      "dates": [
+        "2026/07/05"
+      ],
+      "source_csv": "data/raw/20261001/31_20260622_20260716_Sheena.csv",
+      "source_records": [
+        124,
+        138
+      ],
+      "source_message_keys": [
+        "9ecd5f27035bf32350bba40f941b12e8a837e21a2e284adcf55cde1ba06faf9b",
+        "7bfaa72b87ffb7893ef98bd9aec499cd212694671015c508c9b70c549ee964c9",
+        "f863b23e814790c9d7baeded7411dc25ef73b54159f4adb5e4acea0be048f973",
+        "7c0f3a6eaa96af0224cca23fc15b31e08cf89e2b906cd961d14c4bb4c5037d6d",
+        "b7d55e7e7768714aaf10ac5e23351965659df652fdc2c0f0d4c1e16775df27a1",
+        "3d62bcc1e31e8e878966c3fc22dd26c2207236195f7157a3683d30045bc90a14",
+        "3b4e710d323cb5e349f0c40bf4b6dc1266d05e8d4e62555ae28003d5eafb08a3",
+        "9598f1a2eeca56dd0ff6ee0c0edf6e61186cfe0291cbb6c183600d665820a568",
+        "c9d480087fbf16137a77b7ce38d464f4f91543b148c7c7f27ed70595f3b309f3",
+        "33bb1681c57ad660c972e8cd3ed2fd28afd59b3c6d85a498f8f9b99b7f50a679",
+        "487cf560caf72b2a3f9f7d0ab7bce0709ed03057e0538a5feaea869f6ae994cc",
+        "920deb91d34c68e88c60988cea60c0ff871518a8339f0aa83353624aa0c71826",
+        "89a543c3bfe6821716fa8aff2a77c61b0138fc95417d5e96a746c3f6fafbd50f",
+        "9ad3f0a00a61bf6354b45d291b1ed58596e5d66c61f5af6a097c50afd7ae1f23",
+        "e97b3a567207dd0939d6be41255cff7bc026f8c6a3be2b1b07ff92794b499da3"
+      ],
+      "scenario_summary": "媽媽說每天陪玩，轉述味噌覺得玩時規矩多；家長補充自己會提醒不要咬衣服。保留安全界線，不將咬傷當愛的證明。",
+      "title": "陪玩還是上課",
+      "keywords": [
+        "味噌 : 你那麼忙哪有空陪我玩 騙貓喔",
+        "我可以陪你玩"
+      ],
+      "spoken_parts": [
+        "你以為在陪貓玩，牠的版本可能是在上課。",
+        "那次媽媽說，每天都有陪玩。",
+        "我轉述味噌的抱怨：「一下不要這樣，一下不要那樣，是玩還是上課？」",
+        "媽媽想起來，自己會提醒別咬衣服。",
+        "原來遊戲也有班規！好玩跟界線，可以一起存在。",
+        "你陪玩時最常喊哪一句？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R031-01_陪玩還是上課.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 125,
+          "text": "味噌 : 你那麼忙哪有空陪我玩  騙貓喔"
+        },
+        {
+          "role": "User",
+          "record": 124,
+          "text": "我可以陪你玩"
+        }
+      ]
+    },
+    {
+      "story_id": "R033-01",
+      "chat_id": "chat-db555baff6b37155",
+      "source_room_number": 33,
+      "account_name": "顥Haoᰔᩚ",
+      "pet": "熊熊與奧",
+      "dates": [
+        "2026/07/13"
+      ],
+      "source_csv": "data/raw/20261001/33_20260608_20260713_顥Haoᰔᩚ.csv",
+      "source_records": [
+        320,
+        333
+      ],
+      "source_message_keys": [
+        "a00120511c81471b2b23b790a282ac35280584208549d67206f11602541ccfe5",
+        "6925a8394bf08b5713552a3fd840dec1a5ab069fd70ba441e8cacfb7a40ebfa9",
+        "b526b58a87a1efb135bfcba2286f8787a739e62bce7d64068efa0069c6bed0f7",
+        "a1170e8f7a5c4a3a8138f5f56c721000c3a042f06bce9189b1c91a9fc08d5e94",
+        "2bfa311ae77cf91eb81807136e1fc3b85c2e538ed532329604597ea67b34b48c",
+        "a85bc0e8211f081d971418b2bbccb11cf921c391fe1a79069ba16f2cd6f12daa",
+        "0d8e39b94ce830dc9e2f97e31802fb0fe1a2b702a0bfddf849f98e97b9581a36",
+        "facc9a2ad4e1219773dda11bb5bf9740443fd8dcf2bd4e1ec454fd55e22cfed7",
+        "044ebb57c1edb0daf7d5ae78e34ab435c6679175cbf3e22a6e676389b4ec0c8a",
+        "c1658b8205cffdaa26bd53f9d8c32e00a91395d8b08cb63bb7cce3f545667a52",
+        "84b4e8cbb1ebe074f62785be86ce7468116976ac6f6e8876300098fd603d9d4c",
+        "8542fa8e452089f8228120065bba74ecdf6462618040992e99825bc852d4bfb8",
+        "1845d1a6185780e49aec11fd145ffcfa54c36cf3d419abdbb12aff304d5235d4",
+        "18690fb69734ab89e5d1e1412dc5606cf3c4cd7f3673400f0aae7f785c9ebb62"
+      ],
+      "scenario_summary": "转述熊熊讓弟弟當哥哥、自己當妹妹，家長笑說原來可以商量。角色輩分為擬人化轉述，不當動物階級事實。",
+      "title": "哥哥妹妹原來可以協商",
+      "keywords": [
+        ": 弟弟齁,一直想當哥哥,我就跟她說好啦我是妹妹",
+        "沒錯！爸爸就默默去清尿布墊😆"
+      ],
+      "spoken_parts": [
+        "哥哥妹妹，原來還可以自己協商。",
+        "那次我轉述熊熊的意思：「弟弟一直想當哥哥，我就說，好啦，我是妹妹。」",
+        "媽媽聽完說，原來這個可以商量。",
+        "我還以為年紀寫在戶口名簿，牠們直接內部調整。",
+        "可愛的角色稱呼聽聽就好，相處舒服更重要。",
+        "你家誰最愛當老大？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R033-01_哥哥妹妹原來可以協商.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 324,
+          "text": "熊 : 弟弟齁,一直想當哥哥,我就跟她說好啦我是妹妹"
+        },
+        {
+          "role": "User",
+          "record": 320,
+          "text": "沒錯！爸爸就默默去清尿布墊😆"
+        }
+      ]
+    },
+    {
+      "story_id": "R034-01",
+      "chat_id": "chat-7974bfd7c61a0288",
+      "source_room_number": 34,
+      "account_name": "Alice",
+      "pet": "阿蜜",
+      "dates": [
+        "2026/07/12"
+      ],
+      "source_csv": "data/raw/20261001/34_20260427_20260712_Alice.csv",
+      "source_records": [
+        823,
+        853
+      ],
+      "source_message_keys": [
+        "458aa0c7ceae3cd663baf47ddd604097d9459a502000f13c291695aeb202bc2e",
+        "959f48208542e0e1dff6796baa6536bbbadc7fabed2b9d8c16c60aacf05b8cf0",
+        "e4576de2554d2aff608c0e4ef44770b8da3a5de9900e139256777935b584c3b5",
+        "fe0d89d4c9e18f03d1927332a265ba68b3274bb9936d139893deb78906002d88",
+        "fb787b5e5e3475d9eb5ca3f76b3815cad8f837d3b564f6b06f9c0bf11c1478e5",
+        "8c82602dbb64de4ad7ce70d1eaf8efe7f4d4746103363751410756e98906456d",
+        "dc8613cc6a5bc8444aaff3dd03d54ea733eccbaa0275bd16145b2df05e1b7444",
+        "966458fd13d46f073b4a009ed9231e6e31132ace62525b72b7eb9d1bfc107321",
+        "e09aa5a554d41a22f534f964b41e2d05772c49a566b81c0fa7bf864af022fccc",
+        "4d3f14a836964df6d4c8371ac1717d67e26fded52b3dd2fbd854b6e0e033ba8f",
+        "43cacfb109ff21b711b18548b19e76973b8af8c425974472f5a539dd54a4abe7",
+        "6888b86fa10fda33aa0c6eaf7089be64b05c5e84670e5052c5061bb4bd567fa7",
+        "ac7e13a95ef6ef7500b4d7b7d2d0f6f649bccc542bb529f7084c25bcadf96681",
+        "58ebea5acfb329512e990af187a580602620d7beff0eba7db7a5e7a3537a5abf",
+        "05aa9ed4adbb708ccf4e833f4892e6c432ff7bc15dece1b3a04be3056c56e98b",
+        "b64fe99cc8cfaf3ce585b43417ce10f88e5840291d11f23d3c6c4b3b99513855",
+        "5c7a27dd9041d768e93e17498c8c358c0fd4f2f97debde75243085be2f514182",
+        "1a12abc189a73e610d4dd57e22a56621e2c60ad2c4498030dc76d217bf7085da",
+        "c88fc4b9c9e8dc8d7db2a6fc67732766dcb3249aa72d7b6ae468e1738ce3d720",
+        "f8a4a14c4561cc8ecad4eb7299d991887d2f714a7203b9d04987dd725d505cf0",
+        "017e823ba6da52a6391a1624987db90faff32f6c5a19d25ef620d3e65f74a0a9",
+        "ebe5879afe4d98faf587e2165a49f04069c1b87063e6e8db5271475b1b83918f",
+        "2153b83490639f7a4c802df3eb30e7b632a443d82310363d43bc732a49f10d07",
+        "b5abfe910dbe7b7cf93d9c80816cebe1700b03745a38440d0a9f7b43b872d4bb",
+        "e7305ddfd4ce7f865ec5f787aac2be5d65094577e7539120a07d9c834fc35fe8",
+        "a5370672156e78f45604e4b434e2703589def6942c1b1668de363c3e85312437",
+        "7eff1093279f97610598f3c39b69cf4c6575fd4e133cdb9b5872c8951302e377",
+        "421cfd1b9d181b929ad6f42863facb3946985b85d5dd9f26df743d5c1c5cbb3f",
+        "77ea1c79c280b8a0cec40adfdb88d0061491f2758ab2ea7b778ccdb82dcb4460",
+        "7134d7e403d3fb690e767aebc66c319d873ca5665e7897fd33fef10ebd1230a9",
+        "00c089723668cfe9a3a82143e86d70cbcd5feceb24626fb0e64c307f0011ae93"
+      ],
+      "scenario_summary": "阿蜜的轉述極有自信，家長明确表示每隻都稱讚，並非特別偏心；保留家長澄清。",
+      "title": "公平也能被解讀成最愛我",
+      "keywords": [
+        "蜜 : 當初我的顏色可是他們最喜歡的喔",
+        "對 我媽很喜歡"
+      ],
+      "spoken_parts": [
+        "有一種自信，連公平都能理解成最愛我。",
+        "那次我轉述阿蜜的意思：「媽媽最喜歡我，只是不能偏心，才表現公平。」",
+        "媽媽趕快澄清，每隻都有稱讚，是牠自信爆棚。",
+        "這個解讀，我差點要做筆記。",
+        "多寵家庭各有互動，不必把每次親近都變成排名。",
+        "你家誰最有主角氣場？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R034-01_公平也能被解讀成最愛我.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 823,
+          "text": "蜜 : 當初我的顏色可是他們最喜歡的喔"
+        },
+        {
+          "role": "User",
+          "record": 825,
+          "text": "對 我媽很喜歡"
+        }
+      ]
+    },
+    {
+      "story_id": "R035-01",
+      "chat_id": "chat-c80339a5bbca89fb",
+      "source_room_number": 35,
+      "account_name": "筱薇",
+      "pet": "弟弟",
+      "dates": [
+        "2026/07/11"
+      ],
+      "source_csv": "data/raw/20261001/35_20260619_20260711_筱薇.csv",
+      "source_records": [
+        129,
+        137
+      ],
+      "source_message_keys": [
+        "27b8a89752c3c371211490898290c2a09665a97059a7da9e28d600cef3ace2d9",
+        "6fadc9fe07359d754f6591aa97acfacc9ac14fd812493fdaeefc6eb51864383f",
+        "5c75ccd46ed847517543849d3c39da321f290e2055dcb912a00129031e57cee6",
+        "748c3e83ea2b209bb028dc6ed40e67b2d5deb574322ffa13031a4012746c5523",
+        "b864b9f809736b4f0786f530cb0a5d4c82043e52734b24e7dddd3e4419dc36be",
+        "c2c709ca78044e5955f32b3185b9ee8d13dfda29fb9ea76e2c879a4634959bf7",
+        "e9ce77208543c19e5869e406d60de98234b6c1fc302f1ba5dfdfc8717d2bfbf4",
+        "14bc1769d2a5c854a6a1818920dd2ee947a94e264638af47c88c2a15c45ff888",
+        "b368b3358f92fa86c084ad70d75a58bb7ac370c83753f15b2074d8d45bd3a3c4"
+      ],
+      "scenario_summary": "阿玲認為弟弟聊天意願低而收尾，轉述牠生活已很好、聊天可找姐姐；家長笑著回應。聚焦尊重，不嘲諷沉默。",
+      "title": "貓咪把訪談轉給姐姐",
+      "keywords": [
+        "媽媽不用想太多,現在這樣就很好,要聊天可以找姐姐"
+      ],
+      "spoken_parts": [
+        "這隻貓的訪談，差點被轉接給姐姐。",
+        "那次我覺得弟弟不太想聊，就準備收尾。",
+        "我轉述牠最後的意思：「媽媽抱我就很好，要聊天可以找姐姐。」",
+        "好，連接替人選都幫我安排了。",
+        "不想一直互動，也可以被尊重，不用硬把聊天撐滿。",
+        "你家誰最像會議裡想先下線的人？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R035-01_貓咪把訪談轉給姐姐.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 132,
+          "text": "弟弟 : 我喜歡媽媽抱我,我的生活很簡單,媽媽不用想太多,現在這樣就很好,要聊天可以找姐姐"
+        }
+      ]
+    },
+    {
+      "story_id": "R036-01",
+      "chat_id": "chat-047de86938a7260f",
+      "source_room_number": 36,
+      "account_name": "于凱丞",
+      "pet": "奶油",
+      "dates": [
+        "2026/07/11"
+      ],
+      "source_csv": "data/raw/20261001/36_20260620_20260711_于凱丞.csv",
+      "source_records": [
+        265,
+        272
+      ],
+      "source_message_keys": [
+        "4cbb2a55472293ff64633d5c1a51fcc814be72085317b771f0bc961183aa75df",
+        "489cbc7262435fa081f292db3c2c1165b9953166488e06f6ce22c6e24c73bd90",
+        "0aa63ac6585e9ed01c951e0ffd38baeb3d10dfb34c38d1f13349b1a54f6f637e",
+        "ae192c6bcbddc545a80518e139ec475cce6fc508a4553c6ce33ee4b5c6d852a9",
+        "b86f61513b146780089efe71b36922c40816d30dd21b1b5230740d08bbd142f6",
+        "36f5c633a0583d623a6b43ca17365fb7d43abe80ca09255a3b930f1ff4b6e071",
+        "697e5e39d7a7680ed1e801d5877147a854f6bb17f1e61fa7d288d0ff5a88e2dd",
+        "cb5ee07f3f32d70ffa21a22644c254b992d0d4edbbd1709f65e020bb9e1498ff"
+      ],
+      "scenario_summary": "爸爸說摸前會先問，希望奶油別躲；轉述奶油可以選擇走過去或走開，爸爸答應。",
+      "title": "爸爸的摸摸邀請",
+      "keywords": [
+        "奶油：我沒有討厭爸爸啊,爸爸想太多了啦",
+        "後要摸你之前會先問你喔 你不要再躲掉了 我會難過"
+      ],
+      "spoken_parts": [
+        "爸爸想摸毛孩，這次還先送出邀請。",
+        "那次爸爸說，以後摸之前會先問，可不可以不要躲？",
+        "我轉述奶油的意思：「可以的話我會走過去，不要就走掉。」",
+        "爸爸說，好。",
+        "這場協商，比我的行事曆邀請還清楚。靠近與離開，都留一點選擇。",
+        "你家會自己走過來討摸嗎？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R036-01_爸爸的摸摸邀請.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 265,
+          "text": "奶油：我沒有討厭爸爸啊,爸爸想太多了啦"
+        },
+        {
+          "role": "User",
+          "record": 268,
+          "text": "那爸爸以後要摸你之前會先問你喔 你不要再躲掉了 我會難過"
+        }
+      ]
+    },
+    {
+      "story_id": "R037-01",
+      "chat_id": "chat-d8059d909fc5eab5",
+      "source_room_number": 37,
+      "account_name": "Guava",
+      "pet": "蛙生",
+      "dates": [
+        "2026/07/10"
+      ],
+      "source_csv": "data/raw/20261001/37_20260427_20260710_Guava.csv",
+      "source_records": [
+        264,
+        275
+      ],
+      "source_message_keys": [
+        "d48cd5d9ba62fe8a907a578953ca6675283841569cf0d8d2904a2992a11ba64a",
+        "9a644c0dd5e23b0ad38f95db5aab135cd42be0d6e252f6af18a278b081182e28",
+        "2f05baff8236c66cc536ad2d9a7ba348e346299fd3a23ee3c480e3c50003f490",
+        "99a8e67424c5f5967a46965f20376dd2d52c6067424199b5d853f488d300f0a8",
+        "9e8a603ef739f8b96554048d911db87993b0640810394741f93e4e750e4d88dc",
+        "66edff68c2d6b070c08589a6ff47b63aa9015a3cd6cf82c9651089229089b2f3",
+        "7ff5a1ab71cb6a4e6d4849f1138b38cd0af85ca92f58356a9294e54e048a8840",
+        "4608a7a7271760d9de80c9bb4b5ec5809f0d1a4bf94e7275989e8e25ee0024e0",
+        "ff35342d0f5f27ea248efbbdc1dbcff04206d08fce46948a87e0994cd0a9d669",
+        "3d07162d084a04509b058c9ff3dfc24351757730fa063ef3775b060068a4cbb7",
+        "492df357654b9e3271bf3ddf859aa0a6b387ff617aaf3f78826d2eaf8f9c23f6",
+        "ee5ea90e7a7e31c08221c1c09126ad9f0303b32da21835b22e9a825be9a94140"
+      ],
+      "scenario_summary": "家長承認見毛孩靠近時很興奮，對話建議心裡尖叫、外在冷靜，轉述願意窩一起但不一定躺身上。",
+      "title": "內心尖叫外表冷靜",
+      "keywords": [
+        ".可以忍住不要愛那麼多,我可以回去跟媽媽窩在一起",
+        "真的覺得我是哈哈哈哈哈"
+      ],
+      "spoken_parts": [
+        "貓靠近的時候，人類最難的就是不要太激動。",
+        "那次聊到窩在一起，我轉述蛙生希望媽媽別愛得那麼澎湃。",
+        "媽媽說，自己盡量。",
+        "我就說，可以內心尖叫，外表冷靜。",
+        "這根本在訓練家長的表情管理。開心沒問題，也留意牠當下的反應。",
+        "你忍得住不一直摸嗎？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R037-01_內心尖叫外表冷靜.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 270,
+          "text": "蛙生 : 嬤嬤如果...可以忍住不要愛那麼多,我可以回去跟媽媽窩在一起"
+        },
+        {
+          "role": "User",
+          "record": 266,
+          "text": "真的覺得我是哈哈哈哈哈"
+        }
+      ]
+    },
+    {
+      "story_id": "R037-02",
+      "chat_id": "chat-d8059d909fc5eab5",
+      "source_room_number": 37,
+      "account_name": "Guava",
+      "pet": "蛙生",
+      "dates": [
+        "2026/07/10"
+      ],
+      "source_csv": "data/raw/20261001/37_20260427_20260710_Guava.csv",
+      "source_records": [
+        358,
+        367
+      ],
+      "source_message_keys": [
+        "72d12f686c697e209bbecec1ec2377563cd6c15fc8b12ecdf73983212e7ac1b5",
+        "f99d09327c8fb1bd0c8cfe27bf55c788bdfab757e09adda477c9f2228de316b6",
+        "fbaf75995e90a5217add0b320b10df7eb873d7ac19d836ed627748f9254de584",
+        "1ce9f571c4a6f5e3e3f08332adaffb0da853b20b6df171f6ca882a1931b20412",
+        "631c007ddca1b8925f6950976514aaa4d0fc7bf2aa2c3413791d95f7143db5a5",
+        "690e9272c8798a7d6de4360481d33e8cdae68efc62eca1b82fc4e15201cd206e",
+        "f2c70f54ef674dd646c48ff4f9fd563c2d3cfcc8daa8334115a2569b3204cd62",
+        "4beb09f2e7f5360500301d3ba3b098135c56293f2ee057058dcd543a3ba3bab2",
+        "2e23756fccd5b560770d57ae2f8ffdc4312db8bfe9f74957a7f99e0cc8a9fdde",
+        "1caea9eb1bbc465a50167e843cb2cf8419b9995df774f52f6e7cd9fe1f17868e"
+      ],
+      "scenario_summary": "家長認同家中一隻活潑一隻穩重，轉述蛙生覺得妹妹太忙；不以此排除疾病或異常。",
+      "title": "安靜的那隻不一定有心事",
+      "keywords": [
+        "蛙生 : 因為妹妹很吵",
+        "原來蛙生都有在觀察妹妹"
+      ],
+      "spoken_parts": [
+        "家裡一隻忙不停，另一隻就顯得特別安靜。",
+        "那次我轉述蛙生的意思：「是妹妹太愛瞎忙，我才沒有一直動。」",
+        "家長笑說，一個太活潑，一個很穩重。",
+        "同個客廳，像同時開著運動台跟休息畫面。",
+        "先認識各自平常的樣子，也留意跟平常不同的變化。",
+        "你家誰最忙？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R037-02_安靜的那隻不一定有心事.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 360,
+          "text": "蛙生 : 因為妹妹很吵"
+        },
+        {
+          "role": "User",
+          "record": 359,
+          "text": "原來蛙生都有在觀察妹妹"
+        }
+      ]
+    },
+    {
+      "story_id": "R038-01",
+      "chat_id": "chat-ab83651f2bb521fa",
+      "source_room_number": 38,
+      "account_name": "星言 Chloe Lai",
+      "pet": "花媽",
+      "dates": [
+        "2026/05/05",
+        "2026/05/13"
+      ],
+      "source_csv": "data/raw/20261001/38_20260427_20260709_星言 Chloe Lai.csv",
+      "source_records": [
+        16,
+        26
+      ],
+      "source_message_keys": [
+        "99e749800055cdaf61d4d5827b6221edc8b841bee911f6ac6720f4c40db094bc",
+        "e5149eecb82b38face0d517015b00fd2cf152a5b560b59175ef26bb824c1764e",
+        "5d11176cac9f75a05bb73eb9536364750363e3ec58f5159e59d94c66df8c5a69",
+        "ba243c274ffe5788559b546e831dc8ca4349b34500454aa49192fc39389720f4",
+        "1582b1f6926d5276a2ac6f3c80dfc1c233b024a2598c449ef3f6c4230fe87873",
+        "52bdd6ab01cc76893835216ce14f8f78706df0d7604b863f7cd10014353de503",
+        "3cf51defcc5c7cfa413e635cb6967066348ca23afe8771bbbfad2cf1a4f9b575",
+        "2031851be2d55509d4b90515c66840ededb4432c382d2867e7d5e8422b484891",
+        "18021514dfaf7c24139b586847bdb79b6a33c5ae36d58cec4973f558f6b8370c",
+        "56d0a8264fcf83ce3427122121b44ece3e70a7d437f149cb935fbbf1e1004a79",
+        "bfec3d9fbe627024ec594c296dd410bc8a53757ae94fcb06c0aae4eb4223e3e2"
+      ],
+      "scenario_summary": "中途家長照顧怕生花媽數月，猶豫送養方向，明確想尊重牠；本篇只敘述家長已表達的想法，不靠轉述決定安置。",
+      "title": "想替貓安排也想先理解牠",
+      "keywords": [
+        "個收養人，但又在猶豫說會不會他比較喜歡原來的生活"
+      ],
+      "spoken_parts": [
+        "有次家長問我一題，我覺得很值得留下來。",
+        "她照顧一隻怕生的中途貓好幾個月，看到牠慢慢有變化。",
+        "想幫牠找家，又怕自己的安排不合適。",
+        "她說，想尊重牠的想法。",
+        "那份想靠近又怕太急的心情，很像第一次交朋友。實際安排還是要看持續的照護觀察。",
+        "你也陪過慢熟的小朋友嗎？"
+      ],
+      "estimated_seconds": 28,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R038-01_想替貓安排也想先理解牠.docx",
+      "evidence": [
+        {
+          "role": "User",
+          "record": 16,
+          "text": "是在照顧他的時候有點拿不準，他是想要回到野外還是比較想要當家貓，因為貓貓是比較怕人的個性，但最近逐漸有好轉一點，讓我開始會想說要不要幫她找個收養人，但又在猶豫說會不會他比較喜歡原來的生活"
+        }
+      ]
+    },
+    {
+      "story_id": "R039-01",
+      "chat_id": "chat-40c8953023be67c0",
+      "source_room_number": 39,
+      "account_name": "Wendy",
+      "pet": "圓圓",
+      "dates": [
+        "2026/07/06"
+      ],
+      "source_csv": "data/raw/20261001/39_20260619_20260707_Wendy.csv",
+      "source_records": [
+        59,
+        74
+      ],
+      "source_message_keys": [
+        "404edfd3548c5a016838950b161ccf4b33b2954fde01f2b436116e9bf9110ed5",
+        "4208e143f41e201f15a0bbb12ae014e39e035abd91b63e989d0e281304b8c6b7",
+        "e9e1b4050a78556badf7a3411d8832d88eed1ca133c89afbc10c95de16cee116",
+        "84b4af21a8fdd10f48a881a2c9792c4900b65936210bc90fb775bb73812c5326",
+        "72ea6cf8009f98330d96ca74af71b1ec2de6f25e01989bb16cf33b3da865f464",
+        "af4469f90b10e47985d0926aa900a57c547829a7b36a32490e37c26fe3a221d3",
+        "8318eec0a2fbca2009bfa82242b80211360fae6dd65d0de2851cb7473afc1263",
+        "2efc7a1532d5869fcaddf3a2ae8083e0278fe6e604534ae71b841acc341eda93",
+        "fd8f8a1ea3803920addd1ecc844e80ac3cd9a87dfe035f3c5d29e798bac3fa53",
+        "d42a3631fe1cfee65157ea30f5d117d6277f519939e303c5fb3781d2a41e15b1",
+        "ae091d383a863f9a0b8dee70413a5afbb250d45f72b38a8e170c674fb38f081e",
+        "575036f0b3e562455857ab89f3f9e9e702eb0b09251079ec26ce224d986cd99c",
+        "19dbb075207e5332028c3e9c03aebb55604114b58ffd8b6f91f288e687202fc6",
+        "346721c9b0da3b0fdb3ff696b7e3a3acf27aa843a57990011a2a5f3371c7b007",
+        "04ee40535a4d4de74861e0a7a63f7fdd0c587365d7828ab51eb47c5fc633531d",
+        "9f28807d6c0f8a6fa62cad74da7f021c007e171bbb038cbd5c52caa8104633a3"
+      ],
+      "scenario_summary": "原對話圓圓轉述媽媽常稱讚可愛又帥，牠以此描述自己；選此段而非塑膠舔咬或醫療問題。",
+      "title": "自信的證據都是媽媽給的",
+      "keywords": [
+        "圓 : 我很帥,我媽都說我很帥",
+        "真的欸我真的會捧著他"
+      ],
+      "spoken_parts": [
+        "這隻貓的自我介紹，像媽媽親手寫的履歷。",
+        "那次我轉述圓圓說，自己又帥又酷，媽媽都說牠很帥。",
+        "你想想，每天有人在旁邊說：「怎麼那麼可愛，又那麼帥！」",
+        "換成我，走路也會有風吧。",
+        "我們日常說的話，也是陪伴的一部分。",
+        "你每天會不會重複同一句誇獎？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R039-01_自信的證據都是媽媽給的.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 61,
+          "text": "圓 : 我很帥,我媽都說我很帥"
+        },
+        {
+          "role": "User",
+          "record": 69,
+          "text": "真的欸我真的會捧著他"
+        }
+      ]
+    },
+    {
+      "story_id": "R040-01",
+      "chat_id": "chat-b23c76ab382874ff",
+      "source_room_number": 40,
+      "account_name": "XIN BEI",
+      "pet": "大和",
+      "dates": [
+        "2026/06/21"
+      ],
+      "source_csv": "data/raw/20261001/40_20260427_20260707_XIN BEI.csv",
+      "source_records": [
+        415,
+        429
+      ],
+      "source_message_keys": [
+        "30433f74b7dad14b579a27dd419ffe0cc7ea12ca5f16da74db5152163300e872",
+        "9d42460fb80fb262747a7bfa769be49689e9105afedcfc9eadecc120316f9ec8",
+        "641e73413a9ae343392c42eaa911d5c62bde051e67a58b59c5b6ed87fcaee97f",
+        "386a153e07a7abb46450166fc5fa5435662ea2e5db758f50be6c23969e441042",
+        "65632ddc98333a7903c064b0a056fe13d238c9f4e09a1f05f0ab57d065558b88",
+        "1cd43babe45099da5bc14c6176bf3a2fa55799c6718fc8044ab82c5b92452376",
+        "d11f6164f34c803bc4c892dad3f92b7b0b0647c284efb67e15c8b1c5980bdec7",
+        "cf96dad83b00451789b043397f5e278ddbb873b8bb1830691b544d4031490fd9",
+        "59f9a17092f738778bc812aeddc56bf2a54bc49a5e12d5cab2db4c0206080d73",
+        "d98ceac0b0cc77743f32df8aaad39ad7d5082d9e0ce93029a85ce782e067a7e7",
+        "116ab3285ccac476745c2090864800b222e370468d356c4f4dd2b8babc41f1a4",
+        "afb104ef6ad057ccb7878f0f9e727288b593e79a8a7046a19251bd9aa306dcef",
+        "ba456f100af73511350644da7ce775a63c3e5eda18d71a44e0fc8bbbd11446a9",
+        "7f1147fe9c618c164adc8ed2f4c8365c2c11b810fe7b2ecc5b589de753ee2f42",
+        "bb709e44567cf6f08247121d4e688362e51979711447ab9d3e948c03364f02d0"
+      ],
+      "scenario_summary": "家長認同大和把遊戲解讀成陪媽媽玩，並笑說不知道該開心還是難過；不補造玩具內容。",
+      "title": "你以為在陪牠玩",
+      "keywords": [
+        "大和 : 媽媽很會演戲 (??",
+        "因為玩完逗貓棒我們會在各處放飼料讓他們找找"
+      ],
+      "spoken_parts": [
+        "你以為在陪毛孩玩，牠可能覺得自己在陪你。",
+        "那次聊天，我轉述大和的意思：「媽媽要有耐心，我已經有陪她玩了。」",
+        "家長笑說，不知道該開心還是難過。",
+        "原來這場親子活動，雙方都覺得自己在付出。",
+        "與其算誰陪誰，不如看看有沒有一起開心。",
+        "你家誰比較捨不得結束？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R040-01_你以為在陪牠玩.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 415,
+          "text": "大和 : 媽媽很會演戲 (??"
+        },
+        {
+          "role": "User",
+          "record": 417,
+          "text": "因為玩完逗貓棒我們會在各處放飼料讓他們找找"
+        }
+      ]
+    },
+    {
+      "story_id": "R041-01",
+      "chat_id": "chat-fc8d1f75799cd720",
+      "source_room_number": 41,
+      "account_name": "Livia",
+      "pet": "弟弟",
+      "dates": [
+        "2026/07/02"
+      ],
+      "source_csv": "data/raw/20261001/41_20260621_20260706_Livia.csv",
+      "source_records": [
+        129,
+        219
+      ],
+      "source_message_keys": [
+        "efd2967302b5813bb5b6d570a4090e0b8ccb8e1a6204f2870485ae0fcf164582",
+        "99e1309b54588d03dc540abd3df7f78dccf77a6349808cb79ae6421efc516b1d",
+        "fed68c9d48a30bab7b859b54ceecd682fcffcee764937dd79fdccb1117e835e5",
+        "39107d86df87b7dc5693e0b8879663b5400523d4e41936728ca7a23912604599",
+        "391b913efffe580b538234fe6eb1042dd67e6c7b8d654af258548e86992ff4a6",
+        "52a1581094268e3bd6705f1ea06775f20217aad7c17f6850251f9de686ee9eac",
+        "fd6f3d018c20d402ce5a1817fb1e5aa46b3fd5d6cfafceaaae3a057d87d6def0",
+        "215596f0b84baae5d49cbd3616ce144106961159d53eb056afcef95c64f1d18a",
+        "c99db7606671a055b03d07a6c97347773e25832b64f096b062a8a34db0213456",
+        "14e6dff21eab2d52e302b198102415fcc61dd75b43cce104353181f515ab4ab4",
+        "e0d3e6f92343b430ee83886b222fe87736b10ad15c795e684bb90327e7aa9c5e",
+        "a0cc791f97487b97df7e72002a4494daf0d3616d1242879b638b6753cd668651",
+        "577236eb8381d99756841616f4ce741cd89a2167d5974b66ba4f45bca4307605",
+        "23f02432ea72e189b87a8ffa2b514016c8d17c61d02f8c500b6cdf0931b95361",
+        "a3c6e41f3278c0954569f0e14e745d56470caeff51947c44790d0677200451e2",
+        "98939c1c365961b4ef8b3dac2d6f6d786b8972eae9274f74fcad44875aa65d48",
+        "7b03a130f3c86b4723a535d43065e369feaa7b1c9ac75632df9771e279c51629",
+        "4f8351342b758ed54e2370cca6c09f730cf13254fad6a181e14bab2c1f9b26fe",
+        "df1c3da88543c1f1837b9ac2fe17a77a5a1ebe2b29fea20a713af6eac492b60c",
+        "c444369bf3196ac3f05a0348c43606308bc8c499d30bb1e9beba103001c6c766",
+        "98e18bedfadfd24cee3b9a6012858f7e261180c88c31eb1cbea171bcdb2b60cf",
+        "0ee8eea1e2cac5d9093779a7fdabf188b2597f699fc38de398a12641a0bdfc28",
+        "1c006594c93fd07075284249dc0f900d84398b00f4f957556bfb5a5b48ff8e38",
+        "e17faa6b7ff79a8025297a66f465a3e05d15a6448e41fb729d22c5931f61e2f3",
+        "22dfe2673bdfd1c85273682407542abe38b1ab1b73fd2d1a587d010894d0bcbd",
+        "abb2582d5f1cfd114a8ebf112e9da7ce2da977d1602ee4898988a355ee704eab",
+        "c6d440050c8722f1e9c7494bc93957b3223266227486a89c74f833b4ed8ea7f5",
+        "be247dcb778f3fc070ee9e04629580eda63e26a05a3d9cc8e80b308b1bcdaa01",
+        "9c6742ee5433082b1e06fca291ae8a7ff5ec67ab92f782f36abef26bb163bb64",
+        "e9cc7496698905a48dda4241fbbac8297aa557d7cfad1466c17a3bf872022cd4",
+        "7213cf9c2f0da235e3d0468721f29f7c8b07a75663d3a66064d82763961be921",
+        "aab78c66ca456fddf8d1d353cdef1d1daef59393407da5a8e6605b743562cea0",
+        "cf2b2a2d8d0169fc3494667cedb40ef2a1b67567b6d06e29731a350a624f51e3",
+        "786b7a639758b682731543212788a097233167d73aad6dca555598d1eee7a9e7",
+        "3cdffdd1264640a0eb565aca2ed687b7049aab0138991ba69d10c70198e4f8d8",
+        "e5a7bc319d246f081d9ff53753349155b8ddd7f19f89c7b65954383661f64a36",
+        "e6a9b2b639cd34f6c5213c1b64bc4acabda998c15e267fd4d66c3952defa05c0",
+        "9140b925c1c5793918b4c976a4ddc93b00de8b03d4ef9e263f592397c385a79e",
+        "40509cda2415539ec7a19ae68b8afdff369f68d3eac77ad1e25a6a57dc0df754",
+        "3d747f4dd862904d7501c304d1f66804de2f6c9dd49f30279d7bab3f1e95f5ef",
+        "636c078ab47bf7a006e117c87d49f5de18d896cdf190222cd7e73f4bd096b60f",
+        "741f43e01ac07ac1c5707c297b25fcfa0c4535e0578c86f0a4f150c2774ed85f",
+        "71446207c7892d3c250ab498e4e320765d3f44e49b1fcc0d62aa7e396c3f12e3",
+        "652d87c923c19fb011c1f0c4575bf3cd4dc715f0bf00522e0cd99e1f9c35fe11",
+        "fa4ae53adba253d66479127ea5067b65257a35d00f17492ae68d436a305c6346",
+        "7e52981612ab36181fa57b05b766c8291f64723630257751ac38f003e7a5409f",
+        "3f1a40a893c275e9604d98b11182b23d418726f74ee96d88d36a240d9023d600",
+        "eec3fc460b59223960b877bb0614105039fcd9ac600dd61918ec38699aad417d",
+        "d2abc093bf6f31bb2c2a41a07989932f0f0e1ab530085971375a3e1ef7f55063",
+        "caba5c29979c3d0462016aa44bcafdc59983b6f7fe7dc80c5276cee3b55e76cd",
+        "4d435f4317d593adb85733e09dcfdd25ef281e16699fe89ddf206c2819da4ff8",
+        "bdd06271aff917d41ff8735bfdcd0271aaa5e249c6c66fc0923a2546f7a0bc89",
+        "2113813073f9d7ed9d9ffbec4f425b206b24299f2a7ac13c16777257d845ffb6",
+        "720091e1ac47b77c4b0d4261dffa7a8b0a9b3a8995060637652e6a6d155ed0e4",
+        "2ece5d88ee7eb4be468c841648347c4fe958b45efac67e3ea21ca3a7daf15ca6",
+        "360922d2a5a3315f2d81a1f86a215ff44a9209d3895c95fd3b693ce035aba818",
+        "dbc0c50a17ca44db808d7daec6f71342e6835a57b647a4da25e52a36435cd171",
+        "3418a00dd5febb70d9e28610a1627179211fc9f75659d33c121ef3701f846c55",
+        "5e4aab10c2d81be42f32ba7554f08fc8a502ff3c14abca3d83c2d8e39f3727aa",
+        "ce6df02d26398bb75a68dd7ae5483b2cf6d846a0c7969f5ffc2b50c3bc8410e2",
+        "9b4dd0c78980b89a41dc1ba98e8ce3f84c26a2c6acb71972db14ef51859b43cf",
+        "966e008d509152aa27e74d5e48881d8b58a5e8d16f76bb0b7f5c0a0c72a2a67a",
+        "09b25549e1e6486f9b475617cb3627e1522e25769987f1840ff85e604764a516",
+        "8b4750bb919c0ac0ac0d020a225fef58190c122b7901a0b421c31a49bd958488",
+        "926c7a6f023f5404adaff4f2e416bafe168d87bac8a5e17cfa2378d088007ee0",
+        "c0f242221efa5cc69c897abc9cd552afdb243ea51f88d05a126a3c031edd3ba0",
+        "69b3b80943af6e2a9786a9f2ee26ba1e4164d5aae06eaa4301e2e51719bc499e",
+        "5220414f0c3ee70d2c7b9b0e24b23fd518cfc97cf8ae4204c18b9f59fe72fb78",
+        "11881cb1f64647bbbfed53c26d175bcb916de2e48a5514e1b4d0c8416345de77",
+        "6ca3889a311ada4fafbc427207feb6f0447eb788072608f8e9823f9e783a4d33",
+        "1395747920295af1c1c027766e561b28a5c0d9d3ec28b1689dd78b98bb797227",
+        "2da6552ff9097fe6c254eee99f51a8b5033125a5635d9748d2d9781630a09e44",
+        "0b93ce5aa7cdb32fe8f29df27e21c239d91bce1e19f5f896dafb0041106210ef",
+        "fb34866d1eee86fef3131b43648870ac4d259053297e40e5aafabe71925060ac",
+        "8bff42415f4b110ae4c47d0aa91edb467327786c06156f385b6cf3670033c95d",
+        "e6bf3e77fdc4a9ae7e3956f375f0530350639efc8638a25e2d3f07eec8646ab4",
+        "546410c7aa68e4537a1f56517938042dbbc280d23363d479d609c27cbf83b533",
+        "71b0747962c70cf71d906108af846f29381b9808167a89e4b66b6f6434d00ff5",
+        "b499b4395f30dcd71284874697a00be9a19ef8f43b4cfa0ca5318fc20aebdfe2",
+        "be1604c702be19d9db386b6a72dffd389f28ed73d8253cf6140fd32693ebe28d",
+        "fb3a5ea778ea5c0a47cd8538d79e43362e0d859275b189bed93421a5b83ffef7",
+        "f6b0a3c85c8a9fa64e254ad36b1a6ef2ff32294c1a1e05e94a138a70ba115710",
+        "2ad6780ff40c27f8d451b304a08277659961f2a73a385ee3c279ab31ceedec5a",
+        "79f06212818e773af69f29a163815c7881d799d6dfaaa658d7fff062b29d8145",
+        "b718c83affcecf0719d526c5168515e662e2039cff3561b442f840f7ee8184f7",
+        "6c689a18799a94dda01cac71c022ee8ab2beaf479eff5ba816c8ba5fa0fdf936",
+        "45ad1bbd286b6e39482b03eeaf1fc7ba24c33a554ecfc48ea311f9a54f9a7a71",
+        "fb31e933477dc76924c365d919d917cbf55d46d25e0b60d434d619c4e6185a4b",
+        "1cb5a0d0ec36f22ca85b85f14994d7035e3ba3e3bfbf4c2a17c23a2247a32ec2",
+        "a50839d835021dcb29fc7bda3d3f6b432b0dd2ea81a0111377e93b29986d5db6",
+        "13fb3a7d150d4f11694f77708f1f5985102984ac31e4bb0c9692de67e32b89dc"
+      ],
+      "scenario_summary": "同次對話先轉述最喜歡媽媽，後來因媽媽限制多而改選姐姐，家長笑。強調不把聊天排名当固定事實。",
+      "title": "最喜歡誰還可以改答案",
+      "keywords": [
+        "弟弟 : 我姊比我還笨(???",
+        "它最喜歡媽媽！？"
+      ],
+      "spoken_parts": [
+        "問最喜歡誰，答案居然還能中途修改。",
+        "那次我先轉述，弟弟最喜歡媽媽。",
+        "後面聊到媽媽常說不可以，牠的版本變成：「我選姐姐好了，她什麼都可以。」",
+        "家長直接笑出來。",
+        "這個排行榜也太即時。聊天裡的一句偏好，不用當成永久的愛的分數。",
+        "你家誰最好商量？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R041-01_最喜歡誰還可以改答案.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 129,
+          "text": "弟弟 : 我姊比我還笨(???"
+        },
+        {
+          "role": "User",
+          "record": 137,
+          "text": "它最喜歡媽媽！？"
+        }
+      ]
+    },
+    {
+      "story_id": "R042-01",
+      "chat_id": "chat-fe99a5e73508c37c",
+      "source_room_number": 42,
+      "account_name": "Verna",
+      "pet": "哩嚕",
+      "dates": [
+        "2026/07/05"
+      ],
+      "source_csv": "data/raw/20261001/42_20260427_20260705_Verna.csv",
+      "source_records": [
+        305,
+        315
+      ],
+      "source_message_keys": [
+        "0af35bdc33831054d64439f3844961739954e922e07c92b36996ca398f78fd70",
+        "370e311a9dc94ccea4aa963a3ad151176da71b7e4fc5a30c28b4c2263461d5de",
+        "13230b92efcca68b2cd86715501f309a373e158e4ad64d7c9eaeeab23ddd4d01",
+        "97bdeb0b2d6ae49f7d691387d39d593534a91b96c5ddcc9b9a02e635cf9a2cbe",
+        "564835cde4d9a73773b0361defcc42c454b6732d71f51559d7d106fb01332f9c",
+        "9b4e10f1f55b55d7f4db6475cf28c624c4fd31cedd4880583ee9e775c0a03762",
+        "0739e338be90af3aa74f2ae24a86739d70cd5839ef829c6286e4819731a73618",
+        "8209393e67fc8145d3f45a1fa455ab613ff23a5abc351565fbfa2c5338328a51",
+        "77a2dbdbca7a8681d9f63cdbc29d03e1ae3269556a1c3fbbd6126bcda2df1e56",
+        "5bc95856d61b15afc802f5b4a62c1f6c8e25300b7060faaeb00c89a11db9e710",
+        "ec96cf6eb6aa8cccbc51c24df672bf367a0bece26fc91127191e1ffba93ff101"
+      ],
+      "scenario_summary": "家長确认上班前會說想當貓、要貓幫忙上班；轉述哩嚕拒絕，覺得看起來很累。",
+      "title": "想請貓幫忙上班",
+      "keywords": [
+        ": 媽媽不用想太多啦,我已經過得很爽了(媽媽說的",
+        "只希望哩嚕開心快樂就好"
+      ],
+      "spoken_parts": [
+        "媽媽想跟貓交換人生，貓咪版本先拒絕。",
+        "那次我轉述，哩嚕知道媽媽常說想當牠，還叫牠幫忙上班。",
+        "媽媽說，對，尤其上班前。",
+        "我轉述的回答是：「我才不要，看起來就很累。」",
+        "好，代理人申請失敗。忙完也留一點真正相處的時間給彼此。",
+        "你也問過牠能不能養你嗎？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R042-01_想請貓幫忙上班.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 305,
+          "text": "哩嚕 : 媽媽不用想太多啦,我已經過得很爽了(媽媽說的"
+        },
+        {
+          "role": "User",
+          "record": 306,
+          "text": "只希望哩嚕開心快樂就好"
+        }
+      ]
+    },
+    {
+      "story_id": "R043-01",
+      "chat_id": "chat-26dbf517f15c1602",
+      "source_room_number": 43,
+      "account_name": "Cathy宥宥",
+      "pet": "甘蔗",
+      "dates": [
+        "2026/06/30"
+      ],
+      "source_csv": "data/raw/20261001/43_20260520_20260705_Cathy宥宥.csv",
+      "source_records": [
+        59,
+        67
+      ],
+      "source_message_keys": [
+        "cfface25321f04beec00abb9f869f621d83488b043814b11092b2394fce58d58",
+        "68edad286603deed43c1958e4f627d81db7f865f93b69870e8c5f3d36a36d68b",
+        "e826ad2e487065625991a395aa617cd6e3848bda317148109bffd28a4fa0dc45",
+        "1c48f34b8f8161a6636a7fb0064e5cc740223ed08b31b3622ab40a2755088e20",
+        "d93a41d81dc11a7e3dcc9d2fdc1016dd2e374252a5d53aa97203d8504fe2201a",
+        "16708a740b17acb9ab94b83ac2846c6fac3529115605b8a7b08b3e70446fe8fb",
+        "dd16693acdb336cdf0ee64d5b25ca3c95b87d29ab013ea8887a79a4ce2c5cf2c",
+        "e2c72bee88bd62e6c7ccba1c85f404148980bb734407a469c4a1b26c7b7e6087",
+        "58b6723a6981720d573e4c8da59c5ad09f2b205e734e1db03e8abb58030fa1be"
+      ],
+      "scenario_summary": "阿玲推測有人給香的食物，家長更正沒有，但牠會聞到並偷翻垃圾桶；腳本保留更正，不說同事餵食。",
+      "title": "去公司最期待什麼",
+      "keywords": [
+        "方(看起來是一個坪數滿大的工廠),會有更多好吃的",
+        "那到沒有，但是他會聞到"
+      ],
+      "spoken_parts": [
+        "聊狗狗去公司，結果聊到便當的香味。",
+        "那次我猜，是不是有人給牠好吃的？",
+        "家長說沒有，但牠會趁午休翻垃圾桶。",
+        "欸，原來福利不是公司發的，是牠自己找的。",
+        "這句是我的吐槽。也提醒我，猜到一半要聽家長補充，別自己把故事補完。",
+        "你家也會追著香味走嗎？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R043-01_去公司最期待什麼.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 59,
+          "text": "甘蔗 : 我在上班的地方(看起來是一個坪數滿大的工廠),會有更多好吃的"
+        },
+        {
+          "role": "User",
+          "record": 61,
+          "text": "那到沒有，但是他會聞到"
+        }
+      ]
+    },
+    {
+      "story_id": "R044-01",
+      "chat_id": "chat-986b9b87b286f9ab",
+      "source_room_number": 44,
+      "account_name": "Hsin",
+      "pet": "喵喵",
+      "dates": [
+        "2026/05/28"
+      ],
+      "source_csv": "data/raw/20261001/44_20260427_20260630_Hsin.csv",
+      "source_records": [
+        150,
+        155
+      ],
+      "source_message_keys": [
+        "5486b4056cab8e53782d6f2fadea53ea64a16f2c1d0390113a1467cb430d1650",
+        "5063d49b6e8936de2ff2a2db37d61434b046ec65e25f0b8974ffe3c8910e5bff",
+        "baef557f3e07097a342db0e644a1875343e03bb8a37167c412e52e708b40b796",
+        "9805924ce3010e7b588427fffcfd55e928e2004059f547621abb04dbb82dc4d9",
+        "d9dfe4e159b1680411f4c734f21b2eea5bb397d9db5f5092ee0d3da801f11b5f",
+        "62c83dee7fd429aac542208a339bf0cc81da840a6788c39c86fc5dacb655f152"
+      ],
+      "scenario_summary": "轉述喵喵說玩具是小孩子的東西，家長立刻指出其實很愛逗貓棒；不把轉述當確定人格。",
+      "title": "嘴上說玩具是小孩玩的",
+      "keywords": [
+        "什麼喜歡的玩具嗎? : 我看起來像是需要玩具嗎?",
+        "我試試看有什麼辦法可以把聲音隔音好點"
+      ],
+      "spoken_parts": [
+        "有一種貓咪形象管理，遇到逗貓棒就破功。",
+        "那次我轉述喵喵的意思：「玩具？那是小孩子的東西。」",
+        "家長立刻說，牠明明很愛玩逗貓棒，只是在顧偶包。",
+        "我聽著都想替牠關麥克風。",
+        "一個形容未必說完牠，還是要看平常實際的互動。",
+        "你家也有這種反差嗎？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R044-01_嘴上說玩具是小孩玩的.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 150,
+          "text": "我剛問他你有什麼喜歡的玩具嗎? \r\n : 我看起來像是需要玩具嗎?"
+        },
+        {
+          "role": "User",
+          "record": 152,
+          "text": "我試試看有什麼辦法可以把聲音隔音好點"
+        }
+      ]
+    },
+    {
+      "story_id": "R044-02",
+      "chat_id": "chat-986b9b87b286f9ab",
+      "source_room_number": 44,
+      "account_name": "Hsin",
+      "pet": "喵喵",
+      "dates": [
+        "2026/05/28"
+      ],
+      "source_csv": "data/raw/20261001/44_20260427_20260630_Hsin.csv",
+      "source_records": [
+        302,
+        311
+      ],
+      "source_message_keys": [
+        "a7c369462ed116f7b9f4f51ae61c035019a0c2521b3e01936abbd74dab38efbc",
+        "4410a64ed9af4c75c088ae7e0c4c7056741a16333ba7257dd1d531ce6b385d63",
+        "1d27c2833d29a88fda826e6a2683c4c61b9c6cf121169bf0ae0f70353693bfa0",
+        "494e8a54948e27be95b86693cddd8fb8707be9b60e47fb536247b1bacde6440f",
+        "de369edd18e224de5a8960eab8365e955a3ca63ca532b72bc17e526daccd223b",
+        "ff3f8265cb469a20ff30c4cdf5544786c36b624386654eff103288552ab41744",
+        "5ebbb04c3ead89b2326defdb0099324a26bbdd3e13c6154a14fd0f804e332346",
+        "1bfa14766ba848c58a9f598279b7f741f5a2d197fa60f38ed80275531e0d6929",
+        "96b86357944c0bd0946aee3480316358904fcdf0363658349699c0e6b66ce4d5",
+        "804fe492fbf2c83290a8a69e37942d7ebb03e934bd56b34b14412b02c74a9c10"
+      ],
+      "scenario_summary": "轉述喵喵信任家長但催洗澡，家長笑說仍在樓下吃飯，沒臭到牠；以不同立場呈現。",
+      "title": "貓室友催媽媽洗澡",
+      "keywords": [
+        "澡的 : 真的很愛拖 : 現在也還沒洗 (???",
+        "望他可以多信任我一點 我不會像前主人一樣把它丟掉"
+      ],
+      "spoken_parts": [
+        "那次聊到最後，貓室友還有一項生活提醒。",
+        "我轉述喵喵的意思，謝謝媽媽帶牠回家，但媽媽要趕快洗澡，不要一直拖。",
+        "家長回：「我還在樓下吃飯，沒有臭到牠！」",
+        "原本的感謝時間，突然變生活督導。",
+        "同住的親密，也藏在這些日常小摩擦。",
+        "你家誰最會催人？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R044-02_貓室友催媽媽洗澡.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 306,
+          "text": " : 我很信任你啊,只是不喜歡的東西就是不喜歡\r\n : 謝謝帶我回家給我一個屬於自己的空間 \r\n : 我會繼續教你趕快去洗澡的 \r\n : 真的很愛拖\r\n : 現在也還沒洗 (???"
+        },
+        {
+          "role": "User",
+          "record": 303,
+          "text": "也謝謝他\r\n忍受我這麼多 \r\n一路走來我們都不容易 \r\n謝謝他包容我\r\n繼續相愛相殺 😍 \r\n也希望他可以多信任我一點\r\n我不會像前主人一樣把它丟掉"
+        }
+      ]
+    },
+    {
+      "story_id": "R046-01",
+      "chat_id": "chat-26bc68a90c515a0b",
+      "source_room_number": 46,
+      "account_name": "J",
+      "pet": "球球",
+      "dates": [
+        "2026/06/25"
+      ],
+      "source_csv": "data/raw/20261001/46_20260521_20260625_J.csv",
+      "source_records": [
+        101,
+        107
+      ],
+      "source_message_keys": [
+        "1fbe6a8194e1dae91b76d60de41dbe79fa3cb968de5fbc7bb259933433459402",
+        "6c048ef1dc43d763f89544c666ba74dd6a986844766f26f7cd8c2443ea888277",
+        "83db72af0e1405cdffe2159fe0b2a40a42a81222e74e84717a233c57f42e345b",
+        "e49f36da961f3a193a47530468bc4cc5ba6ba5ec7b2228c6423ed319b7a41b15",
+        "4c886b0e9bef8e2149e713eb5b84f2450b9f962c38230b3c95bea451189e502d",
+        "84e40606fb701444695f77d1d01a60b8773be10b2345a132f49f4fdcaac54def",
+        "5e9d55d0e3ec94d06f9f1ba3e0832ff58e34ce5a958e294797dcc17966f9f6b2"
+      ],
+      "scenario_summary": "家長確認球球愛拔河與搶玩具，對話描述人放手後牠還會把玩具推來。",
+      "title": "玩具給你是叫你繼續玩",
+      "keywords": [
+        " 球球喜歡什麼玩具? 球球 : 我喜歡跟媽媽拔河",
+        "對 他喜歡我跟他搶"
+      ],
+      "spoken_parts": [
+        "有些狗把玩具交給你，完全沒有要下班的意思。",
+        "那次聊球球，家長說，牠很愛拔河，也愛你跟牠搶。",
+        "聊到你一放手，牠又把玩具推回來。",
+        "我聽著像在說：「你的休息時間結束了。」",
+        "玩具之外，牠也在參與跟你的互動。",
+        "你家會主動把玩具送到手邊嗎？"
+      ],
+      "estimated_seconds": 24,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R046-01_玩具給你是叫你繼續玩.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 101,
+          "text": "我 : 球球喜歡什麼玩具?\r\n球球 : 我喜歡跟媽媽拔河"
+        },
+        {
+          "role": "User",
+          "record": 103,
+          "text": "對 他喜歡我跟他搶"
+        }
+      ]
+    },
+    {
+      "story_id": "R047-01",
+      "chat_id": "chat-27d859e62964cd6f",
+      "source_room_number": 47,
+      "account_name": "喬文",
+      "pet": "小麥",
+      "dates": [
+        "2026/06/24"
+      ],
+      "source_csv": "data/raw/20261001/47_20260520_20260624_喬文.csv",
+      "source_records": [
+        273,
+        281
+      ],
+      "source_message_keys": [
+        "41bbd6337d872e93a7a8e21a92e0ae6183853cfacd579e8c70341056aa7d652c",
+        "4aa36abdccec1033e75d3eba23305e1842a7133c70339a3f5c2d843f08c4447d",
+        "bfc9b3992709dfb9e2f5c51b9729b58e368358d6d118f1ed05dff6ed47b73204",
+        "0af63de146fbda6f4575696c4c90cf476a5c5d5b93ab7584bf44ebf30e527a61",
+        "6897b064581124f85f13dc245945ebda2fc4a369552a825eb2c01914b4daa21f",
+        "cd9d15292db81960d237af8e9e53f37a12384ba1efc2d2c28ebf0d05fb85003d",
+        "c55ec61a9c38f518465c82346b968c13740f6180fb40b9379ddd3f1b6b2e9c87",
+        "824ff51b8a07a4e817d566abc98466a44698ae087594620cc177f76043a84603",
+        "fb343ef1eb3ff7a2bf74b01c4b529d6374e44c74ec06c46f847e769b007af110"
+      ],
+      "scenario_summary": "那次轉述小麥偏愛媽媽，家長確認媽媽來就黏在身上；不貶低其他照顧者。",
+      "title": "誰來家裡貓就變黏",
+      "keywords": [
+        "小麥 : 我很喜歡媽媽啊,阿文看不出來嗎???",
+        "那他是很喜歡媽媽"
+      ],
+      "spoken_parts": [
+        "同一隻貓，換個人出現，黏度直接不同。",
+        "那次我轉述小麥很喜歡媽媽，還問阿文看不出來嗎。",
+        "家長說，看得出來啊，媽媽每次來，牠就黏在身上。",
+        "原來大家都知道，只有這場訪談還在確認。",
+        "每段關係有自己的相處方式，不用硬比。",
+        "你家誰一出現就自帶吸引力？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R047-01_誰來家裡貓就變黏.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 275,
+          "text": "小麥 : 我很喜歡媽媽啊,阿文看不出來嗎???"
+        },
+        {
+          "role": "User",
+          "record": 273,
+          "text": "那他是很喜歡媽媽"
+        }
+      ]
+    },
+    {
+      "story_id": "R048-01",
+      "chat_id": "chat-c08cbde537c50a71",
+      "source_room_number": 48,
+      "account_name": "Ivy",
+      "pet": "HAKU",
+      "dates": [
+        "2026/06/17"
+      ],
+      "source_csv": "data/raw/20261001/48_20260520_20260622_Ivy.csv",
+      "source_records": [
+        168,
+        176
+      ],
+      "source_message_keys": [
+        "f3c59bc7d7438f6f27624973040b9cdee1626910834e6265842e4affae47fe0f",
+        "784c3846c33d8fe2cd7479113659c2ae52f5ac185e99a125fb9f9818c8ba09fa",
+        "7c0776b3ba75231002b913ef3d48b8f6b7da80e33d68267f8bb7fe8f72baa167",
+        "048f6ffccfc661fe0be26e2252ce5bc7072bd121683729924e88cb1b07d291df",
+        "13466f99e5a2ba593648148bf91b961d2582348ad163ecbcf3de3ccc561ef0c1",
+        "8db34f27b402f5c6c255b4a48774545cb376bde1b4b92d5e832ffab9f3e9eea6",
+        "44632d8f0e01bbb995cad3733af1055ce366d7bb419ed992f443746495a17254",
+        "5526f8d7d503668bc18e7f818cbe6676b8668ac4579f7fac6a9d382f124a59c3",
+        "4ec8a93bd3decb308c465bf932c09a6be9a9683bc90bcc8748725d022095506f"
+      ],
+      "scenario_summary": "媽媽提及可能添一隻緬因貓，轉述 HAKU 問養幾隻與賺錢負擔；媽媽回應總共三隻。",
+      "title": "再養一隻先問預算",
+      "keywords": [
+        "弟會是一隻緬因貓） H : 媽媽是想要養幾隻貓?",
+        "就剛好有朋友的貓咪生了"
+      ],
+      "spoken_parts": [
+        "媽媽想再養一隻，聊天卻突然進入預算審查。",
+        "那次我轉述 HAKU 的意思：「媽媽想養幾隻？不是說要努力賺錢嗎？」",
+        "媽媽說，也就三隻啊。",
+        "這段我聽起來，像毛孩在當家裡的會計。",
+        "多一位家人，多一份時間與照顧，值得先想清楚。",
+        "你家誰負責踩煞車？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R048-01_再養一隻先問預算.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 170,
+          "text": "如果下個月有個弟弟會來，你覺得怎麼樣？（弟弟會是一隻緬因貓）\r\nH : 媽媽是想要養幾隻貓?"
+        },
+        {
+          "role": "User",
+          "record": 172,
+          "text": "就剛好有朋友的貓咪生了"
+        }
+      ]
+    },
+    {
+      "story_id": "R049-01",
+      "chat_id": "chat-aead6dc2b4b13186",
+      "source_room_number": 49,
+      "account_name": "薇雅",
+      "pet": "錢錢",
+      "dates": [
+        "2026/06/21"
+      ],
+      "source_csv": "data/raw/20261001/49_20260427_20260621_薇雅.csv",
+      "source_records": [
+        147,
+        158
+      ],
+      "source_message_keys": [
+        "1fa420070504d4b9da7d98906a1e338faa221305c3e9570e2aab729376987f95",
+        "7dbc15dabb82b621da24053de26c797608cee3caa7c033dd39c1bb34896424c1",
+        "3822b98bc678fd544229df64cce882504e683d8a78b083512a687e533e0a3abb",
+        "e33ae93fa179f7b7ed5751c2b3a8d468ff2bb39cba3ffe41acc1129f06fe56f5",
+        "5a161de9fd1d5bd4206ea8b270ec22dd51e273324a51f1df80cd22a623f11afe",
+        "91fe79903dd7181017b617fce5a516e6223b0c91964cf01a5e113b53d9a911dc",
+        "4ca7429b593258fbf29b16ddf59f8a1f8c6e696e9db251a62d4de7bab1595b91",
+        "5a44aa7f45b451eeb7e101208318907f300589556cc31b700de5a9bb3d888818",
+        "b039a2941193586b203c4c08f5e190cd479d6dc95362fbe0db2dc3d60985ff53",
+        "6f05b30163d683b27977b4d8e28dad3b958e6693df9bb7a18de51fe32b02a1d6",
+        "0c59edd507147ffbd6adc55413d97ee138ec913944354d59aba31818ff636b77",
+        "5d5777498c07eaf98d05fd2c870e0896ef35ba6cab45ed7de3f588edd6b308ad"
+      ],
+      "scenario_summary": "家長描述初遇錢錢時緊張怕人又想靠近，家人後來同意照顧；不重述未證實的棄養原因或詛咒。",
+      "title": "帶回家前的擔心",
+      "keywords": [
+        "候就醫直在想怎麼辦怎麼辦,如果是棄養的人就下地獄",
+        "他當時看起來很緊張 也有點怕人"
+      ],
+      "spoken_parts": [
+        "有些相遇，人跟狗都在心裡問怎麼辦。",
+        "那次聊錢錢剛來時，家長說，牠很緊張，想靠近又有點怕。",
+        "自己也一直想，接下來怎麼辦。",
+        "我聽著像兩邊都在準備新生活，誰也不是一開始就很熟練。",
+        "願意慢慢了解，本身就很重要。",
+        "你還記得第一次見到毛孩的樣子嗎？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R049-01_帶回家前的擔心.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 151,
+          "text": "錢 : 大姊姊那時候就醫直在想怎麼辦怎麼辦,如果是棄養的人就下地獄"
+        },
+        {
+          "role": "User",
+          "record": 147,
+          "text": "他當時看起來很緊張 也有點怕人"
+        }
+      ]
+    },
+    {
+      "story_id": "R050-01",
+      "chat_id": "chat-dc15426fd9d22f6d",
+      "source_room_number": 50,
+      "account_name": "蘇蘇",
+      "pet": "水與同住毛孩",
+      "dates": [
+        "2026/06/20"
+      ],
+      "source_csv": "data/raw/20261001/50_20260521_20260620_蘇蘇.csv",
+      "source_records": [
+        489,
+        499
+      ],
+      "source_message_keys": [
+        "cbf6cf0bbe93765c2bf139de65dab07cb9a0bbcbd4d38d072cfdfdc02376aa31",
+        "9ab959fa820878e5cdd87afa38298a48aea433260462104bee8020126a9853c3",
+        "b825b39ad7f964812229f992bda82c994dbc5fc2c7a2a030bcedd8c62ec16516",
+        "14274e61c93cca7c51746650418ae0cb243788e06da98ec192be78e4f3d76cb8",
+        "06b7b58d43a418845ebdeb66841bbf68aa84363920eba05940f5abf479913600",
+        "2bb042907e3998c292d50449af015c9dea6376351dbfc9ca1a27ddfada341e29",
+        "280a4d9961883caa2c9df9b3cf9ddcce6626c41aa80a94cc0927f5682267289e",
+        "87edc5b4c79e64253547bf0ac3c43ac644baeb2887acf94d827158b5af3e323c",
+        "24e10af52fc6f68cf9e815d31d525aeea8b31a8c017f0b2df84a6b0e60ad2e7d",
+        "fbb45ed19a135525c25e433d2eec156d6f3f52a2d84e51db8626fb6597bb39d5",
+        "fc7577c105ef051007e60debcb9860631da964422c7e7bf272d8e91ec99885ec"
+      ],
+      "scenario_summary": "家長說另一隻會挑會吐出食物，水則很快吃完；轉述水覺得魚很香，不泛化偏好。",
+      "title": "同一份食物評價差很多",
+      "keywords": [
+        "水 : 那個時間我早吃完了",
+        "才心不甘情不願吃一點"
+      ],
+      "spoken_parts": [
+        "同一份菜單，在多寵家庭可能拿到兩種評價。",
+        "那次家長說，一隻吃得慢，還會挑；另一隻稀哩呼嚕就吃光。",
+        "我轉述水的意思：「魚哪有臭，明明很香。」",
+        "這像同桌吃飯，一位美食評論員，一位清盤代表。",
+        "喜好可以不同，不必拿彼此當標準。",
+        "你家是哪一派？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R050-01_同一份食物評價差很多.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 490,
+          "text": "水 : 那個時間我早吃完了"
+        },
+        {
+          "role": "User",
+          "record": 491,
+          "text": "才心不甘情不願吃一點"
+        }
+      ]
+    },
+    {
+      "story_id": "R051-01",
+      "chat_id": "chat-5e7899ced19fd121",
+      "source_room_number": 51,
+      "account_name": "邱珮甯",
+      "pet": "米菲",
+      "dates": [
+        "2026/06/20"
+      ],
+      "source_csv": "data/raw/20261001/51_20260520_20260620_邱珮甯.csv",
+      "source_records": [
+        98,
+        107
+      ],
+      "source_message_keys": [
+        "4acd02b654a65cc165c285370cee09b7af059df04a78feb6f6e90de3a24ef4ef",
+        "c211a9012360da8e3828f020c9552dd19c3bab59624ebfed924742fe3fbd4e11",
+        "382e0d7d7b21c5ce63ad950c1b3185ffee779e091b991260eb7df81430364b95",
+        "d8f844b27c7d8bd697262b54c88b99be36150983f9c71ed207db7f0633978e6b",
+        "d10636e9fb7f2f0c1e422f138191a99c17a4bfd48c755544a8c8f98b19e56365",
+        "b676e6bec305f2f01034e1bbecb7b777fd0ecd403744c8930c151e84967f9329",
+        "94bb00f65ab60f846cc8fb922adb9f3b701e1f8737649a266a4ba41c7125e42d",
+        "56dd7c7cbab966bc11de9632abd9b6c63dd2a10804ae9fa9e3fa598c3e787e19",
+        "beaef3241b00eee560af681a9bd020b1a5bdef3249e0e031c7451db4ba251839",
+        "a65e716cf72773f5573401a78d29be84fe135702e86ba33920741eb6183e6b82"
+      ],
+      "scenario_summary": "轉述米菲喜歡較安靜的小姐姐與爸爸，家長笑問是否覺得自己吵；不把偏好寫成永久排名。",
+      "title": "安靜也是一種吸引力",
+      "keywords": [
+        "米菲 : 我最喜歡小姐姐,因為他最安靜(???",
+        "他是不是覺得我很吵⋯⋯哈哈哈哈"
+      ],
+      "spoken_parts": [
+        "想被毛孩喜歡，有時候不用努力炒熱氣氛。",
+        "那次我轉述米菲喜歡小姐姐，理由是她最安靜。",
+        "家長笑著問：「是不是覺得我很吵？」",
+        "我差點以為在選圖書館最佳室友。",
+        "有人喜歡熱鬧，也有相處需要安靜；少做一點，未必少愛一點。",
+        "你家是熱情派還是安靜派？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R051-01_安靜也是一種吸引力.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 102,
+          "text": "米菲 : 我最喜歡小姐姐,因為他最安靜(???"
+        },
+        {
+          "role": "User",
+          "record": 105,
+          "text": "他是不是覺得我很吵⋯⋯哈哈哈哈"
+        }
+      ]
+    },
+    {
+      "story_id": "R052-01",
+      "chat_id": "chat-2b583ccd3d1c9978",
+      "source_room_number": 52,
+      "account_name": "15順",
+      "pet": "15",
+      "dates": [
+        "2026/05/29"
+      ],
+      "source_csv": "data/raw/20261001/52_20260427_20260620_15順.csv",
+      "source_records": [
+        189,
+        202
+      ],
+      "source_message_keys": [
+        "0f6d68ea12cbe2e47728ef03015a3da84509162fef89eb5d1d31e814304b9679",
+        "b5483a61ff804058f79720f8babf53badb6bea4494c1c51aea74a3ae85d005db",
+        "9db45c8cff562d6ddbc7629596074ebe01a2b3c891c63bdd793e9a790d77bd0b",
+        "db87b021ebd792f4ce0ffcc39e7c12b833a37d464dfdc3605ea75e66f35d9547",
+        "6996876cc48acb2243620d0c377f89e4d37948ad9a885b4d950adf580eae0d38",
+        "55e24546d10e2fda7646c4d34f14269890113c31734df4ed55c1ce859cc6a1bd",
+        "4a92491978aeb91aa77875618690ed51f69a16076adf8dd8e1cfc5649757b566",
+        "30577c933cfaee39d1f5aafb0dc372c73ccff03feb1b0b78087f925eb7b866e9",
+        "50d01ca82bf13f5e2f6f912e2b18ed57f3d88fe4e4ae512b49c1e17a0072d79d",
+        "cdf97386ecae9749dc81377cea3cf3fa850d0fe84201b4ed686cf38a771de0a7",
+        "9fb47e398da9ca4cc0a1ec40b747c80e945274f51eb36767ea85fab32c73a0a3",
+        "fc44de86d7f20919592ed4385e29d7a7b659a9643ea7a083a0978adccc91d3f4",
+        "75a9b9d744f60b7cd09156871e9f53db2f2c4dc6f504810ed56d90aaf349003e",
+        "fc278040f4377747190e28d01f30dec9aced1b106f8bc1b5848f02c73a9c7edf"
+      ],
+      "scenario_summary": "對話轉述 15 希望阿順對媽媽好，不要讓媽媽跑了，家長回應知道且請牠不用擔心。",
+      "title": "小狗也加入感情協商",
+      "keywords": [
+        "15 : 媽媽好辛苦喔,要照顧我們三個欸",
+        "人！很多事都是我做的好不好 明明是我照顧他們三個"
+      ],
+      "spoken_parts": [
+        "那次寵物溝通，突然多了一位感情顧問。",
+        "我轉述小狗的意思：「要對媽媽好一點，不要讓媽媽跑了。」",
+        "家長說，知道了，請牠不用擔心。",
+        "我原本以為只是聊天，結果像在旁聽家庭提醒。",
+        "可愛的轉述之外，照顧關係還是人類自己的功課。",
+        "你家誰最像愛操心的那位？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R052-01_小狗也加入感情協商.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 189,
+          "text": "15 : 媽媽好辛苦喔,要照顧我們三個欸"
+        },
+        {
+          "role": "User",
+          "record": 190,
+          "text": "騙人！很多事都是我做的好不好 明明是我照顧他們三個"
+        }
+      ]
+    },
+    {
+      "story_id": "R053-01",
+      "chat_id": "chat-a28955fb2c8df3ec",
+      "source_room_number": 53,
+      "account_name": "呀呀晃/芝芝",
+      "pet": "誒哩 Allie 與嚕卡 Luka",
+      "dates": [
+        "2026/06/18"
+      ],
+      "source_csv": "data/raw/20261001/53_20260521_20260618_呀呀晃_芝芝.csv",
+      "source_records": [
+        340,
+        347
+      ],
+      "source_message_keys": [
+        "232d78e1fa1e155bb9cb3fd101bff2637af5a8b5e44e5e4879c08481e56b43a5",
+        "82e433a58e13308fd4682a05e7c6fe77f196e752ade992f40ed407e0795eaac4",
+        "0828f99bf28fd068e25db9b94fb74d5b2bb0de82f566d79cf2cd9de22177aeae",
+        "70165280ae0de734c33254caf277305d018b2f5c99eee32bd66bea2199826a9e",
+        "94a7eaca9fe19f37db4822b76e077aad1d86efca2f9fd30299af4bd0ba102aef",
+        "b856b850d0b02c069b86c105d350664496536efefd64e750daa774d70fdc324a",
+        "695c8056c73b587319e8cc14ae7ae90f4491ca2874ac2132141cace9453e157e",
+        "82a014b510d47f21d888a0ceadbd33d1c6941179bccb2425670cd2938f7753ce"
+      ],
+      "scenario_summary": "轉述誒哩認為同住兔只會吃，家長回應對方有才藝；轉述自己會跳，保留為幽默互動，不使用丟棄建議。",
+      "title": "兔兔的才藝比較",
+      "keywords": [
+        " : 媽媽我喜歡你,可以把嚕卡跟黃狗(?)都丟掉",
+        "哈哈哈哈 嚕卡不能丟掉"
+      ],
+      "spoken_parts": [
+        "這次兔兔聊天，差點變成才藝競賽。",
+        "我轉述誒哩嫌另一隻只會吃。",
+        "家長馬上幫忙說話：「牠可是有你不會的才藝！」",
+        "我轉述的回應是：「我還會跳來跳去，牠追不到我。」",
+        "好，各位選手先冷靜。每隻有自己的長處，家裡不用選冠軍。",
+        "你家毛孩的強項是什麼？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R053-01_兔兔的才藝比較.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 340,
+          "text": "欸哩 : 媽媽我喜歡你,可以把嚕卡跟黃狗(?)都丟掉"
+        },
+        {
+          "role": "User",
+          "record": 341,
+          "text": "哈哈哈哈 嚕卡不能丟掉"
+        }
+      ]
+    },
+    {
+      "story_id": "R055-01",
+      "chat_id": "chat-9a4cecf02398835f",
+      "source_room_number": 55,
+      "account_name": "安",
+      "pet": "咖皮",
+      "dates": [
+        "2026/06/11"
+      ],
+      "source_csv": "data/raw/20261001/55_20260520_20260611_安.csv",
+      "source_records": [
+        401,
+        410
+      ],
+      "source_message_keys": [
+        "02543a12d717117d8f244fd22dcb3382bf8a71b59a325f1f90da9541a0edce6a",
+        "c6700918fc3d21bd17964b53a993e62bd9553c27d6e7031da2b33c272d5913ef",
+        "8f03d7b89fd3620f01f1dd00f644bcce2d3271c750b13736fdd001e7f5dbf341",
+        "b1ea5cfc2a27c8b3b26a142e9792bc6848e59f311747f4520a7aafaeee04b210",
+        "2720affc2e5ce8aed2eabe037a688e9b0a54ca086caf965bc3783c2b0bf8c672",
+        "f7bad526606b4fdb5d70a38286c75f1750cc4e8a5b3af56ed269f7efe3337aa9",
+        "e469a364517ff2e61ef643c9b5913af7e09c46df0e4297d35f4ba1f1e5080f97",
+        "4f3f179648d4e8025b3058029ba5a44a92046c7b5264f22bca780a450a9a10c6",
+        "483ed464efcd033805895666f1ee1c6722064db97430dbd9acf9a577cd97d546",
+        "b4edd1b9d6b027169a55f8eb1b62ce2a505428dbe73a8a8efce83d87d5b22a7a"
+      ],
+      "scenario_summary": "對話中媽媽熱情告白，轉述咖皮希望少愛一點，家長拒絕；最後轉述我也愛你，並有家長描述實際躺下。",
+      "title": "告白太熱情也會被吐槽",
+      "keywords": [
+        " : 我要先睡一下晚一點再起來晃晃",
+        "很愛你喔皮寶！！！！❤️"
+      ],
+      "spoken_parts": [
+        "跟貓告白，有時候會得到很淡定的回應。",
+        "那次家長熱情喊，好愛你。",
+        "我轉述咖皮的意思：「可以少愛一點點，沒關係。」",
+        "家長說，不管，就是很愛。接著我轉述：「好啦，我也愛你啦。」",
+        "這段像熱情粉絲遇到淡定偶像。愛的表達，也可以不一樣大聲。",
+        "你家是哪種組合？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R055-01_告白太熱情也會被吐槽.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 401,
+          "text": " : 我要先睡一下晚一點再起來晃晃"
+        },
+        {
+          "role": "User",
+          "record": 402,
+          "text": "很愛你喔皮寶！！！！❤️"
+        }
+      ]
+    },
+    {
+      "story_id": "R056-01",
+      "chat_id": "chat-728b21a450d37c88",
+      "source_room_number": 56,
+      "account_name": "AnnLin 앤",
+      "pet": "屁顛",
+      "dates": [
+        "2026/06/06"
+      ],
+      "source_csv": "data/raw/20261001/56_20260427_20260611_AnnLin 앤.csv",
+      "source_records": [
+        83,
+        105
+      ],
+      "source_message_keys": [
+        "7f4f873dc8dddc765a8f499bb9ac8110a04d4b20dddd046fd7e17e206ee192dd",
+        "a15104ca4bfc85796b782d4b2c6bcc1ee030131556b04abad4d265cd8d424c70",
+        "5e68454a2c33aef1f300b856beb0c2f31c750b2ebc24475c7544f5c53c2294b8",
+        "58c2f1277cbbe25d2e43d38586a567bd21862df95f542bd32f6b050212705931",
+        "553412b451c99ba329bee08b72cd372e99e7dfecf9c4861ac145556432a7385d",
+        "1f3bb33af4e5fb29f3142fb044491139371aeb415c7381c084d97ab6d5e5791e",
+        "9de62dd7ebf3f8fc9609171e9044a8b21c4312e520108821240bbe72dabb7b35",
+        "5103062f19540502617f02916fc9ac24454eb6268d371c9d1eb349c99ca0df22",
+        "036d72547ee5d5ed933009837af59b8a70c9fc2ad0c32709f2a43ade227ee7d4",
+        "6eba498bd276c4007d35933409b82375c3e35c35b263e05b2366cc41a151ec13",
+        "ffe0d872901b948f78a4b75fb89021fd3e81643b8a148ead5114667e3e57ea58",
+        "49d6d3aa333d7258d299d01aed0bbf5fcc26914ad78de2b3b760d1ab622db395",
+        "86bc9db63f2e8c4f2f09c561257dc3f480f79673840543cd2039815b72068290",
+        "5d37ffc370f7b74b5e3b17342cceabc006333fb2cb3c7f0a3863bddbd844d1e5",
+        "b5782c1817bd0750061887b0e33ed6999dc1a7903a755ca7b337501b3ca3df02",
+        "f35ac44d5c3f0d206e8b3c1219e2b6b06b71014f8a17f19ba3b12424f11e6ead",
+        "a93cba182ea4572cc6c3f9bc7b390517bfde98604a8e47283b64c31f8d76595c",
+        "6700517ae308aad4549f068497ab78d57ccd18bd9f3314e3c218604c9d4879f0",
+        "0cc7e975264df8e9c11ee973470aff58620d8e9aa4c40af7e07b4c95297a0dfb",
+        "48f2f48d8005ecea523aa2954cab901572e0118e230e6fdd30ed30fabe129293",
+        "60a8cfa60498f6e02b6d45cd21ffb797449c5cd070218e757759b8261501415f",
+        "58a709c2cd1ff836f5e7384615da8c26e430fe11127d2f44aa720ebecb18887d",
+        "b73880dd7394de922bdb6e68eb497e256d6245c71187b6513dfea18403860d73"
+      ],
+      "scenario_summary": "屁顛的轉述向窗外貓提起有罐罐和肉肉，家長笑稱另類炫富；不宣稱可驗證牠和窗外貓實際談話。",
+      "title": "貓界的炫富方式",
+      "keywords": [
+        "我有很多罐罐,我馬麻還會給我吃好吃肉肉,他很羨慕",
+        "屁顛怎麼這樣🤣難怪我們問他他講了一大串"
+      ],
+      "spoken_parts": [
+        "如果貓咪有炫富大賽，比的可能是罐罐。",
+        "那次我轉述屁顛的故事，是向別隻貓說，自己有很多罐罐，媽媽還會給肉肉。",
+        "家長笑說，這是另類炫富。",
+        "我腦中已經出現罐罐開箱頻道。",
+        "這是聊天裡的趣味轉述，真正的照顧也不只看買了多少。",
+        "你家最珍惜什麼？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R056-01_貓界的炫富方式.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 87,
+          "text": "屁顛 : 我跟他說我有很多罐罐,我馬麻還會給我吃好吃肉肉,他很羨慕"
+        },
+        {
+          "role": "User",
+          "record": 85,
+          "text": "屁顛怎麼這樣🤣難怪我們問他他講了一大串"
+        }
+      ]
+    },
+    {
+      "story_id": "R057-01",
+      "chat_id": "chat-227f5a0bc3ad2c67",
+      "source_room_number": 57,
+      "account_name": "陳雅雯",
+      "pet": "滷味",
+      "dates": [
+        "2026/06/10"
+      ],
+      "source_csv": "data/raw/20261001/57_20260511_20260610_陳雅雯.csv",
+      "source_records": [
+        404,
+        413
+      ],
+      "source_message_keys": [
+        "018e3387dd509626782c199dabe1f6ae78ddad79b500f406b8206310a7495bc4",
+        "bf24f47962f97fbf265cba5e9a1763caa3b994064aae59df408396d31e4aca66",
+        "d2bf1b83072d9f4f1bed10a858b07958cf541c4d5cffe20bc9340134c1b198f0",
+        "828bb04246857f434a01b10919c53da3c15d96dce0807953e1b21eee528c4550",
+        "e34490f0b4312f5db00b9ea58a3900e0e5ca26d2f32d7d60339407edba3718f9",
+        "cf46969f656857457c175c59dedb709a962d6e65f77c51a490a23d857688552a",
+        "f594a25241f7dd3442251c112bef42ba9984774e5ba792d2c77018f50610f112",
+        "125b44a927919d286260f77eb2c8eab995bfbc773dc21396ec73c34bccff0ecb",
+        "9f80fc8e268c6a02a0e893085fe8ad5612dff20302cbdbc8d714940ffd0e7b92",
+        "7615822f504604d96ed566103c885e61791f79af87f51fa952295376a1187ca8"
+      ],
+      "scenario_summary": "姐姐表達想給最好，轉述滷味鼓勵說愛並希望找男朋友跑跑；家長接話親一百個與安排時間。",
+      "title": "肉麻告白還有後續行程",
+      "keywords": [
+        "姐姐也要活得久一點,愛要說出來,不要害羞(???",
+        "生活下去 盡我所能給你最好的(Laughter)"
+      ],
+      "spoken_parts": [
+        "有一種告白，感動完還會順便安排活動。",
+        "那次姐姐說，希望小狗平安快樂，給牠最好的。",
+        "我轉述滷味的意思，愛要說出來，不要害羞。",
+        "接著又提，記得帶牠去找人跑跑。",
+        "我還在感動，牠的行程表已經打開。說愛之外，也可以一起做喜歡的事。",
+        "你家最期待哪個活動？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R057-01_肉麻告白還有後續行程.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 408,
+          "text": "滷味 : 我知道啊,姐姐也要活得久一點,愛要說出來,不要害羞(???"
+        },
+        {
+          "role": "User",
+          "record": 405,
+          "text": "姐姐只希望你平安快樂ㄛ\r\n健康的生活下去 \r\n盡我所能給你最好的(Laughter)"
+        }
+      ]
+    },
+    {
+      "story_id": "R058-01",
+      "chat_id": "chat-195a4b6010106704",
+      "source_room_number": 58,
+      "account_name": "珮綺",
+      "pet": "庫里",
+      "dates": [
+        "2026/06/07"
+      ],
+      "source_csv": "data/raw/20261001/58_20260427_20260607_珮綺.csv",
+      "source_records": [
+        275,
+        285
+      ],
+      "source_message_keys": [
+        "4cf2ddc8d340eb2b25a3aa5363930e3b87b5dc860c6b32b564b07ceaef02c6ad",
+        "b710f0893a65a3be3599c16fcd05d61930cf76b95344839e80d8f6b4565320f4",
+        "598cee601a331e55aa8f70d707106bc6c8c1597cfaf86faebed4d3dd7cdbb83c",
+        "1e55d0464979df60838dcda9700dd2ade7aff14c8bd25303db27d825d383ae40",
+        "409d728de3fb1e95fa5c5cfe67bf377d79d270935dddabd579f2f3ba412ba50e",
+        "416698dc5c8f666219e8c17afecf9fce62452a41ea538a484aadfea339e70a09",
+        "df6f3b1537c62dc742145eea19ff23d192c49214b31bf18911bdd7e015cbc6fc",
+        "dcfc4ac031fbd3bd902d0aef91b0b70d79998d24597163ed8948da799a212210",
+        "11ef36c38d862ba1946bddbd03bf7a69040fbe80a93fb80fef9734b8edbb7b6b",
+        "c89e89b6d1def4f4e95831bb23f36b52227d65024b0ce6ec4716c4147badb0aa",
+        "403a9d95505c27feb905487652ce1e22b08a6c7064c01ac1f34d949bb7918fb9"
+      ],
+      "scenario_summary": "家長說媽媽回來打招呼後不理，轉述庫里提醒快洗澡不要拖；家長以潔癖玩笑回應，腳本不作診斷。",
+      "title": "回家先洗澡的提醒",
+      "keywords": [
+        " : 不然媽媽拖拖拉拉,奶奶又要催他",
+        "常常媽媽回來的時候，都跟她打個招呼後就不理媽媽了"
+      ],
+      "spoken_parts": [
+        "有些人回家被催洗澡，催的人還可能是毛孩。",
+        "那次我轉述庫里希望媽媽快去洗澡，不要一直說等一下。",
+        "家長聽完笑說，原來還有這個意見。",
+        "我想像門口多了一位生活管理員。",
+        "這是有趣的轉述，也提醒我們看看回家後彼此的互動節奏。",
+        "你也會一路等一下到睡前嗎？"
+      ],
+      "estimated_seconds": 27,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R058-01_回家先洗澡的提醒.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 275,
+          "text": " : 不然媽媽拖拖拉拉,奶奶又要催他"
+        },
+        {
+          "role": "User",
+          "record": 277,
+          "text": "難怪常常媽媽回來的時候，都跟她打個招呼後就不理媽媽了"
+        }
+      ]
+    },
+    {
+      "story_id": "R059-01",
+      "chat_id": "chat-4b72480481099460",
+      "source_room_number": 59,
+      "account_name": "龐宇文 Jennifer",
+      "pet": "嘟嘟",
+      "dates": [
+        "2026/05/01"
+      ],
+      "source_csv": "data/raw/20261001/59_20260421_20260607_龐宇文 Jennifer.csv",
+      "source_records": [
+        21,
+        27
+      ],
+      "source_message_keys": [
+        "0ab058aef9c1400bef56c9a4a6106a5880071181b838b71e42e0dcbf7d24a1cc",
+        "fae6673c7177b0c41c8a6a8a3ac549dcff4513795da25e3aaa94887e5b1d5db1",
+        "71adca7bdbe7ae77d7741dfc8763c242885428bec167876e7f5dca6308504531",
+        "1bc78d561e12c64e2f6dd13c8286ff0847891035f42d199333d5fc7a4659fa0a",
+        "4bbcc40f2c764c4f2f405b91349148cc806e3e163861908c1a8a6067aff63d1d",
+        "f2bcdc8c03edb1785702499f51470ba6f936e8d5b5d1cd5cc863799aa03fd7a1",
+        "34fd72e42edd1cd06fbd4ed4a31899119e40004b4740ab8b54c097806647982d"
+      ],
+      "scenario_summary": "同聊天室較早另一場溝通，阿玲轉述嘟嘟希望像媽媽一樣躺下再打招呼；不把主觀感受當確定規則。",
+      "title": "打招呼的姿勢有講究",
+      "keywords": [
+        "躺下 聞了一下之後 ：恩可以，你跟媽媽一樣是好人",
+        "我媽都躺下😌🤣"
+      ],
+      "spoken_parts": [
+        "那次跟貓打招呼，我連姿勢都像要重新調整。",
+        "我先蹲下，當時轉述嘟嘟的意思卻是：「你躺下，我媽都躺下。」",
+        "我腦中瞬間出現一場很放鬆的訪談，主持人跟來賓都不坐正。",
+        "這是一次聊天的趣味感受。",
+        "真正接近牠，仍要看看現場反應。",
+        "你通常怎麼跟毛孩打招呼？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R059-01_打招呼的姿勢有講究.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 21,
+          "text": "貓咪真的是慢熟的生物耶\r\n我先蹲下打招呼\r\n嘟：你躺下，我媽都躺下\r\n聞了一下之後\r\n：恩可以，你跟媽媽一樣是好人"
+        },
+        {
+          "role": "User",
+          "record": 22,
+          "text": "我媽都躺下😌🤣"
+        }
+      ]
+    },
+    {
+      "story_id": "R059-02",
+      "chat_id": "chat-4b72480481099460",
+      "source_room_number": 59,
+      "account_name": "龐宇文 Jennifer",
+      "pet": "皮（原對話暱稱）",
+      "dates": [
+        "2026/06/07"
+      ],
+      "source_csv": "data/raw/20261001/59_20260421_20260607_龐宇文 Jennifer.csv",
+      "source_records": [
+        899,
+        910
+      ],
+      "source_message_keys": [
+        "320879a7d02c9ed662ec675189d45252927b50954799ad40149c9bfca8e539f7",
+        "3a366aceb4c12edfab8f4ce26b24d864c564d97708ec79cdc127955582292eb8",
+        "0b3a92897655824b5e7313456bc2b5cc7867540c644e82aa9732bcb84a1bd673",
+        "8cc16e8c135c1a03009b9abb3e020baae92543d027c074f6eb7402b20b52575f",
+        "50ba6928a92530e1bd095d041876544a81246d685dab0405d059eae75cbd255f",
+        "f5afd09022eb4aba81dcbf974242aaf8554ce81936b97d111fff0baa2a0b705a",
+        "b71fc356cc133565ed40d1c7407f78c9d89c92faba6d992acb8e64f0425a13bf",
+        "c7e1a53b5bef18d7afcecd8cd40636de03cdba8f9ae3cccefcd3f747f2e42206",
+        "d3086fc28cb3b294c205ac84f61044fabb4b7a6020ed4c88d5426d139d123635",
+        "4a570735eed50dcac64d020c3bb0a3984c5ab602de0fcb6fa1bca70d6c337d50",
+        "f246278ee31fea2e9502a1e7a71d952f02fea48b8d9e2eee3b41e4dd11cace47",
+        "858a60089a111550a5dece2627d39d10772627856ecde7ae3da000768546bc1f"
+      ],
+      "scenario_summary": "同一聊天室後段另一場景聊穿衣服，家長明說小狗討厭，仍覺得一起穿可愛；名字在選段未明確，保留待確認。",
+      "title": "買衣服的是誰想穿",
+      "keywords": [
+        "講到衣服 皮 : (嘆氣) 媽媽真的很會亂買東西",
+        "媽媽買衣服舒壓"
+      ],
+      "spoken_parts": [
+        "媽媽買衣服很開心，穿衣服的卻是另一位。",
+        "那次聊到小狗衣服，家長說，牠真的很討厭。",
+        "我轉述的意思是：「媽媽可以買自己的，為什麼一直買我的？」",
+        "媽媽說，一起穿很可愛啊。",
+        "這場時尚企劃，客戶好像還沒同意。拍照可愛之外，也看看牠舒不舒服。",
+        "你買過毛孩不領情的東西嗎？"
+      ],
+      "estimated_seconds": 27,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R059-02_買衣服的是誰想穿.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 900,
+          "text": "講到衣服\r\n皮 : (嘆氣) 媽媽真的很會亂買東西"
+        },
+        {
+          "role": "User",
+          "record": 899,
+          "text": "媽媽買衣服舒壓"
+        }
+      ]
+    },
+    {
+      "story_id": "R062-01",
+      "chat_id": "chat-b542e335f0e6c6af",
+      "source_room_number": 62,
+      "account_name": "🌸熱蠟闆娘RUBY®",
+      "pet": "皮蛋",
+      "dates": [
+        "2026/06/07"
+      ],
+      "source_csv": "data/raw/20261001/62_20260602_20260607_🌸熱蠟闆娘RUBY®.csv",
+      "source_records": [
+        284,
+        291
+      ],
+      "source_message_keys": [
+        "ec40251b2f9579ec3981b7838dc8f5b1b30c4b011c7920f5cc436b25671a331b",
+        "8ce855aaa23f0fcef1e2b9a895e587094315e803ddba473f7c152976480d0487",
+        "e5e092cc77e57265f243e3bdd6585c58d66aa4ff4d706b1bc1c4c42746e93f4f",
+        "8052ef8920861ceaefefe9cf9dce9c1b9876b273abed1f39e728d6a095cf1941",
+        "01a4102794ce4499fd738e77c1d6f59f31b1dd09ec30975bf04d205c83e66910",
+        "b402096abef4fea2de7d490db5b69d0e0d73804001f1180e13764b22eb6b4b9c",
+        "64343c60a298abc03a1296dc835e2b8a46642045c4c8f6b3ba57d558c1a1162e",
+        "60426f81357109524eb9e9ab5e8a9cf8fdd8dcf792e3d204e92dd14bcd25e299"
+      ],
+      "scenario_summary": "皮蛋的轉述喜歡慢慢散步而非被追著跑，家長說牠想妹妹陪又想獨占媽媽；不推論行為病因。",
+      "title": "喜歡陪伴但不一定想追逐",
+      "keywords": [
+        "皮蛋 : 我喜歡跟媽媽兜風或是去慢慢散步",
+        "應該自己很矛盾吧 想要妹妹陪他 但又希望霸佔媽媽"
+      ],
+      "spoken_parts": [
+        "喜歡有人陪，跟想被追著跑，可以是兩回事。",
+        "那次我轉述皮蛋喜歡慢慢散步，不太想參加其他狗的追逐。",
+        "家長也聊到，牠想有妹妹陪，又想黏媽媽。",
+        "像我想跟朋友聚會，但不一定想報名路跑。",
+        "陪伴可以有不同玩法。",
+        "你家偏好慢慢走，還是到處探索？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R062-01_喜歡陪伴但不一定想追逐.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 286,
+          "text": "皮蛋 : 我喜歡跟媽媽兜風或是去慢慢散步"
+        },
+        {
+          "role": "User",
+          "record": 289,
+          "text": "皮蛋應該自己很矛盾吧 想要妹妹陪他 但又希望霸佔媽媽"
+        }
+      ]
+    },
+    {
+      "story_id": "R063-01",
+      "chat_id": "chat-3fecd721a17f9a3c",
+      "source_room_number": 63,
+      "account_name": "黃瀚陞💫",
+      "pet": "大福",
+      "dates": [
+        "2026/06/07"
+      ],
+      "source_csv": "data/raw/20261001/63_20260426_20260607_黃瀚陞💫.csv",
+      "source_records": [
+        183,
+        192
+      ],
+      "source_message_keys": [
+        "21df7aeee3e0a14af40be2faa7ec7633c4b129a82d305238233e4a5aef57bf27",
+        "12c27a1c4e2143ccd709dc0319ad127ab592fc0d5841a3c42be2b4eb61296211",
+        "1c184073a0beca451224738913c393800569464041618773267a428cd7a8d748",
+        "0d27669bf362f63b27619b74e73f13eb4f5185d02336ae70cb108c9dd8699931",
+        "1e5192de6abdf8415af026e2f24f24d90ab1e3d5f8ed215c950a4dc798086304",
+        "7acab369030eae5f0c09798b557e2c3cb45e5cb952d2291da2148354a898a9f5",
+        "ba284b20bb3691ef0c2693aef6ebb041d565c9642a5c83125fbbde3b9230b63c",
+        "68e561f8f8a31a4d46cd211da79132ff7c660261946c97d9e93f17cb41f522b3",
+        "c931d3b13af78f0aa7a58d7760f685c817c95fa290369af4c8683f9617e13d9a",
+        "00bd81c627196f86f9b3aa820ada22accd71f776cfd81bd9ef10dfa8e6037c7f"
+      ],
+      "scenario_summary": "轉述大福對生活滿意，家長坦言第一次養大狗比較操心；不使用健康無事的轉述作醫療保證。",
+      "title": "家長心裡的小問號",
+      "keywords": [
+        " : 東西很~~~~~好吃",
+        "真的是太棒了 她有滿意她目前的生活 "
+      ],
+      "spoken_parts": [
+        "第一次養大狗，家長心裡的小問號也很大。",
+        "那次爸爸一直想確認，大福喜不喜歡現在的生活。",
+        "我轉述的意思是，吃的很好，每天很快樂。",
+        "爸爸說，第一次養大狗，總是比較操心。",
+        "我懂，那種怕自己做不夠的心情。把擔心化成每天具體的照顧就好。",
+        "你最常擔心哪一件小事？"
+      ],
+      "estimated_seconds": 27,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R063-01_家長心裡的小問號.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 183,
+          "text": " : 東西很~~~~~好吃"
+        },
+        {
+          "role": "User",
+          "record": 186,
+          "text": "真的是太棒了 她有滿意她目前的生活 "
+        }
+      ]
+    },
+    {
+      "story_id": "R064-01",
+      "chat_id": "chat-d008a60e1b4a5852",
+      "source_room_number": 64,
+      "account_name": "黃至玟",
+      "pet": "寶寶",
+      "dates": [
+        "2026/06/06"
+      ],
+      "source_csv": "data/raw/20261001/64_20260521_20260606_黃至玟.csv",
+      "source_records": [
+        142,
+        155
+      ],
+      "source_message_keys": [
+        "83d467ae747a2d11e2e70441bda2deb2052d04b5370dc7555faf0918a0a97d65",
+        "5670a2411d8aff3250e3d2227915fc29d6042a391cb1886342cf1c6d6b8861c3",
+        "5ccfdf7c659c7945dbaa54828ecbbd730b83d05ea9a6965e39d408e7003c7714",
+        "6230b276970ef02f1f74bca7495b7aafec694cfb988b34cfedb2667e83931442",
+        "eaaa92b7cd2360b28c2751b0323646497748f7a556ba7a17b63bfbb641831960",
+        "ca3c06e9bdcb7e1de97925585e3f4381fc7aa517a1468399e00a157715e5eb88",
+        "f66a52daba33602642ad5c96aa7f586f5cbf161bc0be71122b4eb4d1707ebec2",
+        "6023295f678ffabc7203cc783061da64a97745ad0a45d9e2e44216422d547071",
+        "7c3f05f451398ae36bc2fb856e20e40990c4d8b39393cb994f8a85780e089a22",
+        "7262a80ab73d7e759c168cd5a7ef3a9ed68c1f2e6d72958386d7738f93c5ca07",
+        "449505936c770329765308e569f018d87bc2b953dc2d585aa721471a76f91475",
+        "8052e3af5f3cfabf058142132146d1ad8ec1cdf93842895c02fbe653e5ef5bca",
+        "18f73d2ecc52abb13fad9cb1f99b90d6e06679a4fe1436d6e1adf1cf90594452",
+        "134009c9224942a3fb5c8038a1f84631ca7d7b46434186a9967468b9c15fcafd"
+      ],
+      "scenario_summary": "家長確認寶寶大叫後人靠近會變小聲碎念，轉述是在叫媽媽摸；不將所有叫聲歸因討摸。",
+      "title": "叫你過來是要摸摸",
+      "keywords": [
+        " : 媽媽!!!!!!摸我!!!",
+        "確實蠻有用的🤣"
+      ],
+      "spoken_parts": [
+        "這次聊到的叫聲，很像家裡的服務鈴。",
+        "我轉述寶寶的意思，牠一叫，媽媽就會跑來問怎麼了。",
+        "接著小小聲說，只是要媽媽摸一下。",
+        "家長說，真的，後面會變成可愛的碎念聲。",
+        "這段很可愛，但每次叫聲還是要看當下情境。",
+        "你家叫你過去，通常想做什麼？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R064-01_叫你過來是要摸摸.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 142,
+          "text": " : 媽媽!!!!!!摸我!!!"
+        },
+        {
+          "role": "User",
+          "record": 145,
+          "text": "確實蠻有用的🤣"
+        }
+      ]
+    },
+    {
+      "story_id": "R068-01",
+      "chat_id": "chat-d0df1c84081b6060",
+      "source_room_number": 68,
+      "account_name": "淇淇💜",
+      "pet": "跳摳",
+      "dates": [
+        "2026/06/03"
+      ],
+      "source_csv": "data/raw/20261001/68_20260510_20260603_淇淇💜.csv",
+      "source_records": [
+        204,
+        215
+      ],
+      "source_message_keys": [
+        "cbac94204d79a5f67c8d337a5478e4531532b8d1fd099908d1b2ebe33ababcdd",
+        "3d04f7ef7de5e0816c0e436893d3c20829d316332fc4490a2f8470c0e23aa9e8",
+        "6a4207406205eb4bf72890ffbca8552e2bfd4b52a5fb5d6ec0c2f8f009a4840e",
+        "df43fcf3a6c1e75d62095b275b7b998cfcdb401b1a7f78f1bef6aadb889ad886",
+        "b947c0b7436725c683876790e0590e91e5799a4e639dbc5aa5d250856203e661",
+        "1420c28ffdb1720a52ce015bed0664cf033e6fe3a9e363e146780130be9cf663",
+        "da3c2099ce3c5890919bbabca3b2289e613973c8284770b55499dc595a0d7be0",
+        "9f52234f457afee9520d24a6c2b6e513421ccb704329589d3d7acd1c017bb52d",
+        "25309c426052505477a82f36507424d89b0e72a3b35d32d465dcb048c6048379",
+        "285fa765e8cdd7a5f8043fa63523d80f84a7bbafe987d23f68eacb26022e41ca",
+        "e11844366182ee93a7ed6ebeb409cdf9bab1325385cb64dbde68115ac85eee49",
+        "034d37dd2109d6a986a745582123b3296138918b240bcf1622382b920a2e8233"
+      ],
+      "scenario_summary": "跳摳的轉述先談喜歡家人，再聊雞蛋糕與其他點心；只作對話情緒轉折，不提供餵食建議。",
+      "title": "話題一轉到點心",
+      "keywords": [
+        "跳摳 : 我喜歡姐姐,姐姐會瞭知道我開不開心",
+        "謝謝跳摳，姐姐也很愛跳摳"
+      ],
+      "spoken_parts": [
+        "有些聊天的重點，轉得比我打字還快。",
+        "那次我轉述跳摳很喜歡姐姐，姐姐也回說很愛牠。",
+        "下一題聊到雞蛋糕，轉述突然變成：「喜歡！香！」",
+        "我剛準備感動，畫面就切到美食頻道。",
+        "這是聊天趣事，想吃什麼跟適不適合吃，要分開看。",
+        "你家聽到哪個詞會特別有反應？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R068-01_話題一轉到點心.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 204,
+          "text": "跳摳 : 我喜歡姐姐,姐姐會瞭知道我開不開心"
+        },
+        {
+          "role": "User",
+          "record": 206,
+          "text": "謝謝跳摳，姐姐也很愛跳摳"
+        }
+      ]
+    },
+    {
+      "story_id": "R071-01",
+      "chat_id": "chat-230902687c265116",
+      "source_room_number": 71,
+      "account_name": "ᴬᴺᴺᴬ",
+      "pet": "賓賓",
+      "dates": [
+        "2026/05/03"
+      ],
+      "source_csv": "data/raw/20261001/71_20260427_20260525_ᴬᴺᴺᴬ.csv",
+      "source_records": [
+        330,
+        336
+      ],
+      "source_message_keys": [
+        "5ab76d950a4f854ac9429a343d9a43998f8496a964597c60e9474af3915daf0c",
+        "c26196bf93509688be3905e0de6b4006cb0217106c9a60f28cf4332b035c34f2",
+        "d6b4622add57bc593237e67af63626d452b1717e04339e9715cf485ad4ad9a43",
+        "0507efdaccf8b85f633a31a35a3a84110a732e21db6d4b3c3cec930b961beddf",
+        "9ea8591a7415d3d8ff7b1aef78a868f8e9c35dc710c75bd9986cdac4ccb5cedd",
+        "1af237c6bf9ef3d0767d1a1f4cdcd51b2fef1289e02298d692ceb68476c80a67",
+        "a7e3062073c530b83c63c776b235e5f0d80620cf71bc680502db861f8653acdd"
+      ],
+      "scenario_summary": "轉述以為媽媽偏先摸姐姐，家長更正是先上樓放髒衣服打招呼再下樓抱賓賓；保留更正避免下偏心定論。",
+      "title": "先摸姐姐原來是回家路線",
+      "keywords": [
+        "：媽媽回來會先去找姊姊，他都先摸姊姊",
+        "欸 吃醋喔哈啊哈哈"
+      ],
+      "spoken_parts": [
+        "「媽媽先摸姐姐」，聽起來像偏心，後來才知道還有前情。",
+        "那次我轉述這個想法，家長補充，",
+        "自己先上樓放髒衣服，順便打招呼，再下樓抱牠。",
+        "原來愛的排名，差點輸給回家動線。",
+        "一個畫面不一定是全部，先把前後問清楚。",
+        "你回家第一件事是什麼？"
+      ],
+      "estimated_seconds": 24,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R071-01_先摸姐姐原來是回家路線.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 330,
+          "text": "：媽媽回來會先去找姊姊，他都先摸姊姊"
+        },
+        {
+          "role": "User",
+          "record": 332,
+          "text": "欸 吃醋喔哈啊哈哈"
+        }
+      ]
+    },
+    {
+      "story_id": "R072-01",
+      "chat_id": "chat-3218f0153c0ee590",
+      "source_room_number": 72,
+      "account_name": "蔡承妤",
+      "pet": "香香",
+      "dates": [
+        "2026/05/21"
+      ],
+      "source_csv": "data/raw/20261001/72_20260427_20260524_蔡承妤.csv",
+      "source_records": [
+        428,
+        473
+      ],
+      "source_message_keys": [
+        "2cbdcf72b3c38e0971473d7937d0b2cf8bc9d914ec425df360e42ef2244d1833",
+        "4671e3e156e98380b766e753641ec2b5a858e84dc209207272cd720ae8d6ccd7",
+        "62a8afee6befe65c853bec7d4ae2709298ad4dcbbdba18db4ca38052baecb367",
+        "d8cadd7870768f58a5546b73a711f0c3aa92ed0df4a0b4e1c6f784ba0df8111b",
+        "e7b8a9634797988597c98f8b269257a0222dfe99e1ad24a1987f55d139383d54",
+        "41be5b71e6ebdf258edb416bf2759d4328f0086e785907d197a2b3725fdb66b1",
+        "c84c967d18e3113d5486d3b95234b6da36f9f28a2956d438b3813daedf8e2e67",
+        "d307ad05f1e436f2b780ab1ddd3fdd4e12224ff10d1c90ef676e1476d1a89a33",
+        "5a7a23edc58e96529917fe8b0330637b69c293f90a4a927a040f0ab70918bda7",
+        "986b01a3f637f4147febcc0ec06a8568613ed935484433c5a86273c1d0b2d020",
+        "aca4d5b17209b4f0865e8b41a1933fc5299a88a5662a6a161ad15945e72ad07c",
+        "1532e890a83aba9672ae3590478d8c7165003f3dd1b8173f4648da78a3bf6ad5",
+        "7637291af098bca42b860b9b99f239f179a67a7c07b813a309a116b213b26123",
+        "09254e9f0c76115219ad3754d8c054bcc4194d1f8c67de3712c1636817ea360a",
+        "e7f0f42db3cee8af3067d970c6d024c2ee7aa5b7b46f679b7cfbd484ed9ba423",
+        "135db7bd9f1c159bdb83eaf59f2135617e7e957ff81b67aa37ac0a4f7bd06c32",
+        "fd56c224cc8fc85b256681ae823b5ff4cf3e9228d3d74c488b70da8423a1f282",
+        "1e213190a2030adb49826cbef106f0e53a28b233bda2e846e78cccf94077304e",
+        "d8d0728eeae5768bcdbb3aa39a2d6352e57e2fb97a121d5288ea365194c9a525",
+        "52184f57a879be44a7a0768cec50e8a1f8a69985f006d89f1a5c95e35538d586",
+        "b6b38ba413891c010006c0a2ba601420889303734c8d9612d2f7ba9c4499d916",
+        "389205fbef1db590ca66b582dff8be6626a21d1d5eba209e7ae7a98984d2cd2e",
+        "17812c5bb84bbcab9dae1b8411af8f7e2be8e2bcc0e9cec862977d17977c5c4e",
+        "f9e33b53d6ae2aea456119e5a3de92bbc90d277bc116116b3d88e50ee9a79ead",
+        "d79ae55b39864efb2ad6a7b964899f678f5b40bb053e2988c9d670829d4d73b5",
+        "7d06dc64de6ad4841db4ee68002b32db7ef6084969743356065cae847c2d2738",
+        "f97150cc7ee03408cf03ba96854154d7630bc761a059f9a8b233323fb1e398db",
+        "76fb0c594abebb33ea44c4330d3decf33d5d714034d882c1dd667b40c5085be4",
+        "764e8c6ce81f15aeef4056b0db547c205ed7a809e3b60b15b5280561cf6aff48",
+        "ba473a67942e24f8f75d9d2626f6df56b551349d5649bc09b9f4e0a939828bc3",
+        "9490fe3346a1ba0ef137aee70be36ef893d00ede548a616166a8f4b3f71a1adf",
+        "03bd5b7040ac0c69788838a36d56b1c853d0e467e680709f8be02d2f0be04d5c",
+        "10c8f98f29c6ab25cb631d42688b19b389ef2fce5dd8e5c8ff5a38ac5be4cdf4",
+        "6ff999351927d7f2c8e9b4151d347c0dd6d4537bd9c37f13ed7e729c773659b1",
+        "caba339fda96c3d47c413088e748ef13b09a5ebca05b8a1c5a2696a365e85f57",
+        "35cbbb360911c092ddfdd816a320d2fbf2861341e7e72074cf26945d0129a285",
+        "c812450ba07e6c7a93b3784bf04ab4451bc8aa527cd9885d77f8fbcc253fe684",
+        "b79f316375c8164b180e6f85aa720ffb5dbcc3c7e223dc929c46c576f3cce06b",
+        "ca79c876375ff10845f097815be2a46fd0a3326f1ed1c4f47a7917c2555d3842",
+        "f91216f99c0478ceb6a11876d1ed24cee25ddad4c05a8d542fe6c3fa5014aed8",
+        "f618540bb3aa781f6000ed653472b8519138d06128486b06491f7ca098be3adb",
+        "e8ba45a3f4ccc31caf7903911d75d7f2413e2427db8666974f755f5678b16f9b",
+        "f472ec037bcf6c5fd56676288f48e3cb96594912abecf59cfe7cdbd235254b0b",
+        "409d2313b35bdb7b0bff4f3ddac89df7e9d55871724e8c8194ca3fa66de1784d",
+        "cdc61b242ccc7b4dfa6e067acfc63dfc5b7d97a124bdcf65c5e0bdd71e373c90",
+        "335586763e16f5482a4652133805710017ca5e6c59b7d00a4650d196dfe9d480"
+      ],
+      "scenario_summary": "對話轉述母女都喜歡帥哥，家長認有喜歡的明星，但對特定人選否認且說只是滑到；腳本不指名。",
+      "title": "媽媽和小狗都愛看帥哥",
+      "keywords": [
+        "香香 : 我都喜歡!!!",
+        "人類都喜歡 但更喜歡男生"
+      ],
+      "spoken_parts": [
+        "那次聊小狗的喜好，媽媽也一起被點名。",
+        "我轉述香香的意思：「媽媽也喜歡看帥哥啊。」",
+        "家長笑著承認有喜歡的男明星。",
+        "不過後面猜到某個人，家長說，沒有，只是滑到。",
+        "所以笑歸笑，猜錯的地方也要留下。",
+        "你有沒有滑到一支影片，就被誤會成粉絲？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R072-01_媽媽和小狗都愛看帥哥.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 430,
+          "text": "香香 : 我都喜歡!!!"
+        },
+        {
+          "role": "User",
+          "record": 429,
+          "text": "人類都喜歡 但更喜歡男生"
+        }
+      ]
+    },
+    {
+      "story_id": "R073-01",
+      "chat_id": "chat-0024c7863740f481",
+      "source_room_number": 73,
+      "account_name": "林芳羽",
+      "pet": "饅頭",
+      "dates": [
+        "2026/05/16"
+      ],
+      "source_csv": "data/raw/20261001/73_20260428_20260520_林芳羽.csv",
+      "source_records": [
+        116,
+        128
+      ],
+      "source_message_keys": [
+        "bd6715d87187ea6d58dc90e6e356b9401d3e8c89ccad50d5185f732797e4756d",
+        "f39d4e60647ac9bafea9998aec75c2a19db1c63e169bde9e1043c649905972d7",
+        "898387f261e4724d1afde6b085ab016bbed01bcd11956a9ce1d9874d95a677a6",
+        "94b03d6ac268e5e819e57c351e892b1abb16fa8d0cbee58e4d4ddb2137ba7af6",
+        "08ea7f6dd8bd7cad5b85096f9e3d8fa7fa86b67314672cd506b7cd1b794d83c9",
+        "52be0393dcde742c8e4439eaa276bc0d046aa46aea4f922a1c712266e2129be5",
+        "47f0108fd6d59ad5a390387046cce1907d003e1fc67b48420fc6273073643a8d",
+        "12ae322c0edbf6a6a7c1a3b1dd57626f9fccf501bbb519c33532309a356121da",
+        "877d152a0cf078e1c56549542ea55205712ac29580f1c43db62a48872965e5ab",
+        "1b69a5092c79b0ea4491294f98644597d90e1dd84e725e34c73db40799ca809b",
+        "6ac45c5fdf25b4765b50af251c66623dee9033e2aa7fda8d4cea850de7eb0d6d",
+        "66a3cf65666f2a6f83fb619a5b330f6898e76b726aa6ff66fbf4c502e078596b",
+        "6f9da94a56ce9b64462bb4d847ceb53f486615523af46bcf32b0c2d507277e03"
+      ],
+      "scenario_summary": "對話轉述饅頭覺得姐姐洗澡太久，家長說原本以為迎接而感動；不宣稱守門的普遍原因。",
+      "title": "浴室門口的小小等候者",
+      "keywords": [
+        " : 我想要軟一點的床",
+        "嗯嗯他跟我們一起睡床上"
+      ],
+      "spoken_parts": [
+        "毛孩在浴室門口等，你是不是也會偷偷感動？",
+        "那次我轉述饅頭的版本，牠是覺得姐姐在裡面太久，不知道忙什麼。",
+        "家長笑說，平常都白感動了。",
+        "我想，這也算有人關心你的洗澡進度吧。",
+        "同一個等待，可以有不同解讀，不必急著定案。",
+        "你家也有浴室小警衛嗎？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R073-01_浴室門口的小小等候者.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 119,
+          "text": " : 我想要軟一點的床"
+        },
+        {
+          "role": "User",
+          "record": 118,
+          "text": "嗯嗯他跟我們一起睡床上"
+        }
+      ]
+    },
+    {
+      "story_id": "R074-01",
+      "chat_id": "chat-bd8ba3cc8e8db566",
+      "source_room_number": 74,
+      "account_name": "庭",
+      "pet": "埔里",
+      "dates": [
+        "2026/05/16"
+      ],
+      "source_csv": "data/raw/20261001/74_20260427_20260516_庭.csv",
+      "source_records": [
+        215,
+        246
+      ],
+      "source_message_keys": [
+        "93bbd94f90da6774ea3984f4ecbf8c797eaeb248157d42b595d24c7c07cfe475",
+        "30f8e655ec36b8cb23e95a8ba66e89536265c528a3f6746e29a5cc23bacc83e5",
+        "1ba2ea6a5f3de707ce3361dab2509d8d55311f6d5968fed19c4325795a63ff45",
+        "4907153b31dc6a302e5fbfcf5d4b024bd370ee091e14eacdf86e8e64e05f5179",
+        "9e4054e2d7bb9bd90046813058d4cf36051bdf1518b3f30c2e977d41ba1d4ff8",
+        "d69e97f7f5d8efbe0d00ff1c217339cdcf69f0751a0f799571695c6f21a18440",
+        "23600a386c1addd47e2613c4d8d2bc26e2fae8d1b19c758a87cc8107e36e8af4",
+        "2ab68674288d813a6b629894cdc4793730806b236d9ebac3b27cda877cd13bb1",
+        "cf08ff24e3e956710529ec72fc2ab4906996e408d42e65b9b40063fed581ba14",
+        "73080a469cd675c216b1d235651426b5d659fe82fe83a8fcb4d43e84d4f502be",
+        "b1f707f0fb10970621f65b6cec36512279c60bc851a5322e347e0508a8428025",
+        "cea202a37f4ebc0d783e333528a06a3bbc70cdd833dc1531247c7983a0c37b79",
+        "114d6ddbe615fc867cd8d4f6b5a868cba2efbb3925202f8dd0dd51f100066326",
+        "23d74649b62acc7ff9dd091ab21d3a661ce9d3bb28a5ba953d3b3bc41ef001bb",
+        "d54d9fbfd4b736c768020a8a980c63ea8e23de0377eae8fbbdc4c2a469799ac3",
+        "c21fc1dfda0bdfabfaf60cb742edd31e71973bd7fd0aedccf0ccf2a7b1861c68",
+        "f7df87b7bbea0ce08014ae72e0a6241babe784c74dc61c40447e104b7ac97a5e",
+        "47709500a646fbcadf6a8e263b526762c1060f7ebd31ef26808df35202e06548",
+        "150ca41e03db852a9ea9e32f0ef65ad136c7579b158442f6f5d59dc4ce8e4498",
+        "3a85fc11daa6423eea8dc84cfa6c593afd507516d436ec8337a8004019aa9654",
+        "e75f8dd0599c2e351589af865db6b025ab2f89d69d3015ef66b4ba048c5a2b96",
+        "76159f3ca264dd53fdfd56358e1b37de8fa8e22b1cc6cba03c771b5387232529",
+        "61168c6f163825700a21f3ab678b5ba4bff4be1ef6ef683e1296c0ab1aca47d9",
+        "04560ef1b4b89221d2c2bb7290985eb7256aa4fcfd8d03531dd95a9e5d76bc45",
+        "266e3a0401dff68cdcf58f6b640683d3fa5fd152fed80da0df720d74c7aecc21",
+        "2bf4945e539198c0282564b90241d0fa0db5a3ba7d1a25ddf49cd6f115346f88",
+        "e44df006f937f7413b4cfdb226743aa4d7d4ec4a6cb872dd25be7568c903c372",
+        "3ca19aa693dcce75159d5e3245b9e0c99e8cab1dd09f217a95a471d207aba4f7",
+        "303786eddb79560e8feb32b51baecd4c963d35292d261e262af1be46e9d32070",
+        "201f7ab6f83467ac3618b91a12a14354244cf90c06f054998bf590e36ba63436",
+        "40cdb6ea9f9e738fcf2ed9d076ed4dd1448064d25b215d05fb12a0529140d4bf",
+        "9ee79088193c4d16f846e99b65e0ab9126b88570cf702c9f40cfb19f1581f217"
+      ],
+      "scenario_summary": "已確認試稿來源，家長確認零食桶與逗問魚魚的互動，並說不能每天都給；將健康細節留在完整原文，不當笑點。",
+      "title": "媽媽明明知道還要問",
+      "keywords": [
+        " : 我有時候跟媽媽要零食,媽媽都假裝不懂",
+        "是表達要吃嗎🤣🤣"
+      ],
+      "spoken_parts": [
+        "有一隻貓，討零食討到，連溝通師都覺得多餘。",
+        "媽媽說，牠會坐在零食桶上，還問牠：「要吃魚魚嗎？」",
+        "我當時轉述的是：「媽媽明明知道，根本不用姨姨翻譯！」",
+        "我差點以為自己在主持零食記者會。",
+        "知道牠想吃，跟要不要給，是兩回事嘛。",
+        "你家也有這種討吃儀式嗎？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R074-01_媽媽明明知道還要問.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 215,
+          "text": " : 我有時候跟媽媽要零食,媽媽都假裝不懂"
+        },
+        {
+          "role": "User",
+          "record": 221,
+          "text": "是表達要吃嗎🤣🤣"
+        }
+      ]
+    },
+    {
+      "story_id": "R074-02",
+      "chat_id": "chat-bd8ba3cc8e8db566",
+      "source_room_number": 74,
+      "account_name": "庭",
+      "pet": "埔里",
+      "dates": [
+        "2026/05/16"
+      ],
+      "source_csv": "data/raw/20261001/74_20260427_20260516_庭.csv",
+      "source_records": [
+        385,
+        393
+      ],
+      "source_message_keys": [
+        "c27c2f36cc16938cf72d832e69e3b8eeabe90c05996ae2802922570493bf676c",
+        "156f939c517600c72b72a488381dbc7b25b66d344fad248bba9e010efea62e7d",
+        "ee4317f7e9db7076e608e1149f2564fde5b98e15d76aee060686d447740d5bab",
+        "ee46b0b1edacb2dcd8248dc3d1e30ea45ad8e306625adbdd04084bda58befed7",
+        "34940a76500f8b016dc84936f85ad5d6065f41d61c298ec7aa8e875a96e51355",
+        "bdd4c0675b5291f857d49e2770932bd8b17bd98af9c92589bae030c743594390",
+        "5948f210f17f8a917196a294c5e0752b9a8b48be712b9ff75d3c13f21e364898",
+        "127ad844f86e8d4fd8adf0cad0fecc046db6fb7ba19f6ad2cbebe7b5a1809bf3",
+        "af9b28c38f387638269c644fcbb3aeba9e3b05517cecf4f85f5833d31264efe5"
+      ],
+      "scenario_summary": "另一段對話转述埔里覺得媽媽與自己都懶所以很配，家長繼續接話；不當人格事實。",
+      "title": "懶懶的媽媽遇到懶懶的貓",
+      "keywords": [
+        "是一個很懶的人,但我也很懶,所以我們很配(???",
+        "又要愛情專家了嗎哈哈哈"
+      ],
+      "spoken_parts": [
+        "媽媽跟貓合不合，這次的理由很出乎意料。",
+        "我轉述埔里的意思：「媽媽很懶，我也很懶，所以我們很配。」",
+        "我聽完只想說，原來共同興趣也可以是什麼都不想做。",
+        "這是聊天裡的可愛說法。舒服的陪伴，",
+        "有時候不用把每分鐘排滿。",
+        "你們最像彼此的地方是什麼？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R074-02_懶懶的媽媽遇到懶懶的貓.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 385,
+          "text": "10.覺得媽媽是個怎麼樣的人 \r\n : 我媽是一個很懶的人,但我也很懶,所以我們很配(???"
+        },
+        {
+          "role": "User",
+          "record": 388,
+          "text": "又要愛情專家了嗎哈哈哈"
+        }
+      ]
+    },
+    {
+      "story_id": "R075-01",
+      "chat_id": "chat-a7b19afbba2e9aed",
+      "source_room_number": 75,
+      "account_name": "Wynn",
+      "pet": "Kimchi 泡菜",
+      "dates": [
+        "2026/05/16"
+      ],
+      "source_csv": "data/raw/20261001/75_20260428_20260516_Wynn.csv",
+      "source_records": [
+        525,
+        530
+      ],
+      "source_message_keys": [
+        "bb2359f5829cdb533a1f77dd3ccf08b96e59f7b27017e80e04912b41472d495e",
+        "4d28658cc6b626503841cb8f36aba951d524ff3cb9225debefa10d32b7f28dc2",
+        "39ca3ca0771ae43485ac6d136396ce040cd991a8d9c1860cc5f4ab319672be78",
+        "b322dd5895edf4b3357684d70b80bc619b2c5d55298941724754f94c918c3e92",
+        "78132522e668df46ccaf9c6059d47bbd3f20be8b1dbf8347f050fae61b838856",
+        "da39b6e7b6e3e09dbee844f56013c1694b9384e11e93106d751df9f155773bc6"
+      ],
+      "scenario_summary": "轉述泡菜希望媽媽別給自己太大壓力，提到大家一起進步但等等爸爸；媽媽回應會努力。以敘述者溫和幽默而非責備父親。",
+      "title": "一起進步但也等等別人",
+      "keywords": [
+        ",我們都有一起進步,只是要一起等爸爸一下(又偷臭"
+      ],
+      "spoken_parts": [
+        "那次聊天，有一句話讓我一邊笑一邊心軟。",
+        "我轉述泡菜的意思：「我們都有一起進步，只是要一起等爸爸一下。」",
+        "媽媽說，知道了，會努力。",
+        "這句像家庭進度報告，但沒有要誰交滿分考卷。",
+        "照顧是一起學，不需要每次都責怪自己不夠好。",
+        "你最近學會哪件毛孩小事？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R075-01_一起進步但也等等別人.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 525,
+          "text": " : 姨姨你幫我跟媽媽說 : 我很愛他喔,啊他不要再偷偷哭了,我們都有一起進步,只是要一起等爸爸一下(又偷臭"
+        }
+      ]
+    },
+    {
+      "story_id": "R076-01",
+      "chat_id": "chat-0b078c109d5e50cc",
+      "source_room_number": 76,
+      "account_name": "黃水母",
+      "pet": "噗咪",
+      "dates": [
+        "2026/05/15"
+      ],
+      "source_csv": "data/raw/20261001/76_20260428_20260516_黃水母.csv",
+      "source_records": [
+        652,
+        665
+      ],
+      "source_message_keys": [
+        "51e296939e0104f1e20267f23aa255fa2cfad338778e281efd3d8a6c6a429f74",
+        "7b8a0abcd7a35a63e25d58864e12a613f4a7caeb917cb78f3b6317915b831241",
+        "7a6421c38166bea8462ac822851e456c6128d613bcf273dd90fa1e57a26de794",
+        "20dbdd55fc26f365900890651e18ef5548cee2ec0497e8aaad561e2e10743f66",
+        "0c3b480b98d50e8b2689d61902e5536cd99eb400f8c63c7173b0444870f10be7",
+        "9c68f5bb6fc896e0f8131270dc54b9128f8fafcea0279227b1da2b09d4cebd74",
+        "96cb33368b8cd98fdcf1391fd2b826de628deaf56b31c6399e348b6e868f091d",
+        "bbf8071e2d058a8223b5e97bc4bb4f84b03babde40bed77ed432dee9f46f4a17",
+        "7ddceafdb985fca10b93e10c47c67b174ff5c2e05935aacf34592ad1ed22d236",
+        "1dcddbbc529b5ffb07371c13b58737b54a8e4a149c4f32ff36191e547fec0514",
+        "5094b6fbd03b9ed694653317a8e8bbff210897bd4242a1bcc8a792c08e0935c2",
+        "aa512a70276166ed18478e5e59ce20675d0967729b6090ecc128df6d8842f901",
+        "3bc08f9d24f427e48ed4fd3f28a6bda90064732dbaed1761e69724d4738005e7",
+        "0c71fada344c5b79b214bd4ac55cb39752fb5fe2a3579478704b0bb9162795c7"
+      ],
+      "scenario_summary": "家長以自己的話說噗咪會在腳邊滾但不給摸，後續討論親近與觸摸不同；不搬用聊天中未查核行為表格。",
+      "title": "翻滾不代表要你摸",
+      "keywords": [
+        "我一直以為小狗搖尾巴就是開心(emoji)"
+      ],
+      "spoken_parts": [
+        "貓在腳邊滾來滾去，你的手就自動伸出去了嗎？",
+        "那次家長形容噗咪：「我滾我的，你不可以摸我。」",
+        "我聽到真的笑了，原來有些可愛是觀賞席，不是互動區。",
+        "至少這次，家長觀察到牠並不想被摸。",
+        "別急著把靠近當成同意，看看牠接下來的反應。",
+        "你也遇過這種邀請誤會嗎？"
+      ],
+      "estimated_seconds": 27,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R076-01_翻滾不代表要你摸.docx",
+      "evidence": [
+        {
+          "role": "User",
+          "record": 653,
+          "text": "我一直以為小狗搖尾巴就是開心(emoji)"
+        }
+      ]
+    },
+    {
+      "story_id": "R078-01",
+      "chat_id": "chat-59075929f3110345",
+      "source_room_number": 78,
+      "account_name": "Livia",
+      "pet": "Pinkie",
+      "dates": [
+        "2026/05/10"
+      ],
+      "source_csv": "data/raw/20261001/78_20260427_20260511_Livia.csv",
+      "source_records": [
+        46,
+        59
+      ],
+      "source_message_keys": [
+        "b1f9a60c09ec14544dc09cfbe2eec1a5863400d8da13833666e874466f05bf64",
+        "6c7d10098352cd7a537b9ea3c0217ce852b98205d0afa5bb234ec0c4d04b8b45",
+        "0bf71f04d80d509c7a785cb4b8c44a2492526e1a7712f1356856116256f31b27",
+        "14fe0d32bad7b97f4cc24cc6ef66d2fd93da47684e094eb60a4594107a4ca12f",
+        "1654827e5d05a60b6c4d13e9c0ae4958a6680bba42a6184277f8f1d1436da20f",
+        "0aab81c0adab661d3451e32354041ecc88a9959ea068592ed19fb75b7c066ff7",
+        "9ee5c73b4a8aba9c4d63b53f991b0052a8f431a4b1751a7a0d72bfe64f3ce835",
+        "cbaf502b2c71a0c6714591b674644dc98c43b6e855cb9410f20c020f1843d14a",
+        "bed9929d423e47719daa4f736765fdf6b488ee2d5aef2a6eab6a80f867cf73da",
+        "d6dad1b6f8d8f8e28723045f5817c5dcc996fcb23b2127ac91feb4616ad0dd7a",
+        "a984416523bb8232847aca13de7ce3b9900dccaf89083cbde2a52072b5add77a",
+        "0df9b276d05cb4dda6cf09849097e19efb09d5e94aeb79fbadf6743ace557207",
+        "ef1cdf3c983ffc114d69a5d29b18099bf7745f3c9ddff862f1c9a3bceb492b9f",
+        "de0c8206943179de7b6049b106da7127bb92972543b1193910a62e923b3b6156"
+      ],
+      "scenario_summary": "阿玲轉述 Pinkie 嫌自己有狗味，家長說她不太喜歡狗；阿玲說剛起床有嚕狗。明確是溝通經驗而非氣味隔空驗證。",
+      "title": "開場就被嫌有狗味",
+      "keywords": [
+        "：你身上有狗味",
+        "可是需要觀察"
+      ],
+      "spoken_parts": [
+        "那次溝通，我一開場就被嫌棄。",
+        "我轉述 Pinkie 的第一個意思：「你身上有狗味。」",
+        "家長笑說，牠不太喜歡狗。",
+        "我也只能承認，自己剛起床先嚕了狗。這個開場，實在太有畫面。",
+        "分享的是我的溝通經驗，大家可以保留自己的理解。",
+        "你家也有很鮮明的好惡嗎？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R078-01_開場就被嫌有狗味.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 50,
+          "text": "：你身上有狗味"
+        },
+        {
+          "role": "User",
+          "record": 46,
+          "text": "可是需要觀察"
+        }
+      ]
+    },
+    {
+      "story_id": "R079-01",
+      "chat_id": "chat-013e8c71f7605fce",
+      "source_room_number": 79,
+      "account_name": "沛君",
+      "pet": "炸雞",
+      "dates": [
+        "2026/05/10"
+      ],
+      "source_csv": "data/raw/20261001/79_20260427_20260510_沛君.csv",
+      "source_records": [
+        253,
+        259
+      ],
+      "source_message_keys": [
+        "71ed1e64d2bb612d3745359c7b5f158af552c3cff5b01ed63afdab20c168d5af",
+        "80c00cd7d2a0f3e5953b1e3b94ee4f8c820377ecf8e291bad2eaf84318d9315f",
+        "ca3d4406304dbd2e4b7ff333140db3bbd13ee3bc7083da14f6dccfeb6c08b738",
+        "891ea109f1ada6dd2e48888061c0abea71bb61c71f677bd751c324138a411183",
+        "29de3337d104c46b2e157af8202336f2724a2284b975404d8433faa49c792e2b",
+        "9e063effb1f2e3c22582a89f2a4b8d8c432e022bbfdc22f72fa06fb0529541bd",
+        "bea1d4a16ec2a26469a051371297b2bae1cfc9de86d78f2dc05a082dc74cacb4"
+      ],
+      "scenario_summary": "轉述炸雞希望爸爸多摸多說話，家長補充他摸一下就去打電動；只取陪伴落差，不取責罵焦慮片段。",
+      "title": "爸爸回家摸一下就去忙",
+      "keywords": [
+        " : 爸爸回家可以多摸摸我,跟我說說話嗎~",
+        "我會轉告爸爸🤣🤣"
+      ],
+      "spoken_parts": [
+        "「爸爸回家很忙」，後來多了一個補充說明。",
+        "那次我轉述炸雞希望爸爸多摸摸、多說話，因為他摸一下就去做別的。",
+        "媽媽補一句：「去打電動了。」",
+        "我突然不知道這個忙字要怎麼翻譯。",
+        "忙自己的興趣沒問題，也留一小段專心陪伴吧。",
+        "你家回家後誰最容易分心？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R079-01_爸爸回家摸一下就去忙.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 253,
+          "text": " : 爸爸回家可以多摸摸我,跟我說說話嗎~"
+        },
+        {
+          "role": "User",
+          "record": 255,
+          "text": "我會轉告爸爸🤣🤣"
+        }
+      ]
+    },
+    {
+      "story_id": "R080-01",
+      "chat_id": "chat-236807bdb2a8051a",
+      "source_room_number": 80,
+      "account_name": "薇Wei",
+      "pet": "雪寶",
+      "dates": [
+        "2026/05/10"
+      ],
+      "source_csv": "data/raw/20261001/80_20260428_20260510_薇Wei.csv",
+      "source_records": [
+        302,
+        307
+      ],
+      "source_message_keys": [
+        "d50b65230b03d9d4366ba914054ccee34aa448907c0501e4d50b9485c6cb9cf3",
+        "d03672b6c2dc6ee14a8c805af56ab3c409b3c24bbb8b0b61d59f04bfbe225b32",
+        "07815b21b542ddb686d098ddaab39e1db114b2d59026ccb77962a25a0e01bdad",
+        "2dcab5e716fd18795697a6c6adf42615e843d6fcda5f49badb58f84f74f29ba0",
+        "b31405c5be117fe06d4261800a37e28726041e9461d4a3fa6ac97c1ae551e6bf",
+        "e13bb0051bc6d8e6993a1f7d231b825923c75e56be2e15a4ea1ec79eb528ea84"
+      ],
+      "scenario_summary": "問玩具偏好時轉述雪寶喜歡會掉肉肉的，家長說有顆球以前裝零食如今沒裝；不討論疾病與餵食。",
+      "title": "最喜歡的玩具有條件",
+      "keywords": [
+        " : 會掉出來小肉肉的玩具",
+        "我就覺得她都只是在利用爸爸而已"
+      ],
+      "spoken_parts": [
+        "問最喜歡的玩具，牠的條件非常明確。",
+        "那次我轉述雪寶的答案：「會掉出小肉肉的玩具。」",
+        "姐姐說，家裡有一顆球，以前會裝，現在沒裝了。",
+        "我聽著像有人買了飲料機，發現只剩展示功能。",
+        "玩具的外形之外，互動方式也很重要。",
+        "你家喜歡玩，還是喜歡裡面的獎勵？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R080-01_最喜歡的玩具有條件.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 305,
+          "text": " : 會掉出來小肉肉的玩具"
+        },
+        {
+          "role": "User",
+          "record": 303,
+          "text": "我就覺得她都只是在利用爸爸而已"
+        }
+      ]
+    },
+    {
+      "story_id": "R081-01",
+      "chat_id": "chat-66e4f00616b05e50",
+      "source_room_number": 81,
+      "account_name": "Unknown",
+      "pet": "葉啤酒 嚕嚕",
+      "dates": [
+        "2026/05/10"
+      ],
+      "source_csv": "data/raw/20261001/81_20260427_20260925_Unknown.csv",
+      "source_records": [
+        443,
+        453
+      ],
+      "source_message_keys": [
+        "443d96dd60a4f150ed55229022b9b063c50d75c7227ad107394d7c75b8db62cf",
+        "08a9f43a973db7057703a7995ebc9d266d971b4a808d0ed4dc2b72137c5e5975",
+        "a9cee3c593560682fd7a50fa6817d8343974eca80b9edeab234725db9dd3657a",
+        "8b64ba69ae79ececcaf33710b41d6766df1ed156957f54bb5b974281cd9c2867",
+        "925aeb476b82c77fb00ff31aba982c66792af962a9e067092b51c6007bab5e97",
+        "9bc44342222a81f44200b06fa90e69e739ecda7823d1b0930ffad63cea75b7e3",
+        "6f943122de97fed487d811ab0b1a6dcda2c03c2dde7a4ffe2e2c38f26490217d",
+        "f0537a7deb9068e7f24e0f78f8594765bb732da731547229f34c270c8f1ec80c",
+        "36ae071e7437d7c779a8b1cb9caa017f4a579155b0627399a1143ce2bd80df04",
+        "71ce6aac936e3992f122d178b139dfb8287aedd7872035cae90beb0d43ef2ff7",
+        "289d5f5b55058df79cd30b2b2b0e0643d486893d94203c1076cd1928b1edfe15"
+      ],
+      "scenario_summary": "轉述嚕嚕認為自己長大想少被管，借媽媽與長輩互動比喻；家長回應謝謝，不泛化心理。",
+      "title": "貓咪也想保留自己的空間",
+      "keywords": [
+        " : 我也希望媽媽開心啦,阿可以不要管我那麼多",
+        "希望他開開心心的"
+      ],
+      "spoken_parts": [
+        "那次聊天，貓咪的發言讓我有點熟悉。",
+        "我轉述嚕嚕的意思：「媽媽開心就好，但可以不要管那麼多嗎？我也長大了。」",
+        "還拿媽媽不想被長輩管來舉例。",
+        "這段根本像家裡的青春期會議。",
+        "親近之外，也可以留一點各自舒服的空間。",
+        "你家毛孩什麼時候最想自己待著？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R081-01_貓咪也想保留自己的空間.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 445,
+          "text": " : 我也希望媽媽開心啦,阿可以不要管我那麼多"
+        },
+        {
+          "role": "User",
+          "record": 443,
+          "text": "希望他開開心心的"
+        }
+      ]
+    },
+    {
+      "story_id": "R084-01",
+      "chat_id": "chat-690e8103bda38efc",
+      "source_room_number": 84,
+      "account_name": "小丸子",
+      "pet": "Uni U寶",
+      "dates": [
+        "2026/05/09"
+      ],
+      "source_csv": "data/raw/20261001/84_20260427_20260509_小丸子.csv",
+      "source_records": [
+        54,
+        63
+      ],
+      "source_message_keys": [
+        "ed6a415e0fd2b1fc920e096fd8685cdb1dc5ba8e7a0bc505744009e2e2e82d66",
+        "602959f206168110188c7bd20ee55dcb6c7216e35e65503941240806f9d1eec7",
+        "c54248c0c1cac8e512445b6e8b4f0da393ffa16e404f8ab31bf35ac22ed7f428",
+        "44b4e011c4811b7b128d9a9e07f5d152b0855eafd5a952600fb59495177ae8a2",
+        "58dc9d41ff0f1118d6eee49f9fbc5d96fba0cbecff470f410cb6c22083a19a87",
+        "bd7b90e6e6503714a24426117997c7697045f1ffe944063e99af2bddb0a4ee67",
+        "6ca9eeb7dfa1e07ad4595edeeade0b4cbc3e8871f452794f15fa6c3fba80f606",
+        "e4427d69713ede1188903018cc1271a87c4a8c8b15df6793e74315083af63fb2",
+        "fe7c276db9fdd618ebd75f11e41d88519ccf5efd70bb074393fd39c2bb4828de",
+        "daa8f26f3605acba6f00af493a19d2f4692773ff791e1b3e281199fd1117bb96"
+      ],
+      "scenario_summary": "家長確認雨天等雨停，轉述 U寶在家有點無聊，家長提出坐車吹風；不重述未查核疾病風險。",
+      "title": "下雨天的出遊提案",
+      "keywords": [
+        "：前幾天一直下雨欸，而且媽媽說現在外面地板很恐怖",
+        "對～會等雨停"
+      ],
+      "spoken_parts": [
+        "下雨天，家長和小狗都在等一個放晴通知。",
+        "那次媽媽說，會等雨停再出去。",
+        "我轉述 U寶在家有點無聊，媽媽就問：「那坐車吹風可以嗎？」",
+        "像臨時把戶外行程改成備案小旅行。",
+        "不一定每次都照原計畫，也可以找彼此合適的活動。",
+        "你家雨天都怎麼打發時間？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R084-01_下雨天的出遊提案.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 58,
+          "text": "我問他最近怎麼樣\r\nＵ：前幾天一直下雨欸，而且媽媽說現在外面地板很恐怖"
+        },
+        {
+          "role": "User",
+          "record": 55,
+          "text": "對～會等雨停"
+        }
+      ]
+    },
+    {
+      "story_id": "R085-01",
+      "chat_id": "chat-e6e461ef55517602",
+      "source_room_number": 85,
+      "account_name": "元喬",
+      "pet": "荳荳",
+      "dates": [
+        "2026/05/09"
+      ],
+      "source_csv": "data/raw/20261001/85_20260427_20260509_元喬.csv",
+      "source_records": [
+        249,
+        260
+      ],
+      "source_message_keys": [
+        "3ce0950cb59b65cc27e580c366a18d3e36cbd70f05a53db37bcab2b8b77189f5",
+        "9d1e13b474e668882cd3e791ec61ce1fc380eeb862a2a5820bb2774050110c74",
+        "e2f9aca424804d4d489e2c8a85f324c65efe7dc2026ccef65d08b28931bd25dd",
+        "a3b438e0c9a4fadc2b3e53dc946bd1de79fddd5cd82b457e16ae2550f21c1229",
+        "60d6560929f0e12ae230ad67f808b3cdc2bfe5003f2b42729f5f111cad4e4401",
+        "4e924160e8e38b106dbcda34027ec03689fd007b0ccc0d1a2b95e04be84d1870",
+        "eee1cebd70d51f5037df2709a8053817c5af75f186df7d439e06cf986b6a7718",
+        "9541eaa2410fbadaa86444867f3da89086a8fd5205b9a012c11c5525987f5cef",
+        "e61d8731bcb7e4848d0cfabf5ed3e1894a840d469d0c4c44bab21a6442c6bcee",
+        "e0553b2e80b126644ff2ce002a7858c55e9bf0384c9a9e853f0399fc18adbf76",
+        "6064b1e6d6d62d6604abb2adb07e3cef2c816c49408d5f36d2c0e073dd84ad3d",
+        "f0e6dc90d74bf3d98f0172172b6f6455d924c310b60587bece9be278320f068b"
+      ],
+      "scenario_summary": "家長認自己愛耍廢、毛孩也喜歡，轉述荳荳跟媽媽一起待著很開心；不拿伴侶愛不愛作客觀評判。",
+      "title": "一起耍廢也很快樂",
+      "keywords": [
+        "後通常這種時候：阿補擠就在那邊關著門用很香的東西",
+        "因為媽媽真的太愛耍廢ㄌ還好小狗也喜歡"
+      ],
+      "spoken_parts": [
+        "有次聊天，媽媽和小狗的共同興趣超一致。",
+        "我轉述荳荳很喜歡跟媽媽一起耍廢。",
+        "媽媽直接承認，自己真的太愛耍廢，還好小狗也喜歡。",
+        "這份默契不用訂餐廳，沙發有位置就行。",
+        "陪伴不必每次排滿節目，有時候一起安靜待著就很舒服。",
+        "你們最常一起待在哪裡？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R085-01_一起耍廢也很快樂.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 252,
+          "text": "然後通常這種時候：阿補擠就在那邊關著門用很香的東西"
+        },
+        {
+          "role": "User",
+          "record": 253,
+          "text": "因為媽媽真的太愛耍廢ㄌ還好小狗也喜歡"
+        }
+      ]
+    },
+    {
+      "story_id": "R086-01",
+      "chat_id": "chat-7e7f3d19df105303",
+      "source_room_number": 86,
+      "account_name": "蘇🖤",
+      "pet": "ㄋㄞ",
+      "dates": [
+        "2026/05/09"
+      ],
+      "source_csv": "data/raw/20261001/86_20260427_20260509_蘇🖤.csv",
+      "source_records": [
+        46,
+        53
+      ],
+      "source_message_keys": [
+        "7fde091bb9858444c3dc17ef7d35ccc1d40746a7324200997fe53e99f2924e25",
+        "5598d427cb9dba8455dc71212863a78566797f47a7715f2d8d44273496c97933",
+        "a660288aaca4c9855a89b57d8d5afaf37f872acc1a9d1bdd34bf7620f55416f0",
+        "8a2c4871e0363775ac3c62972207f80dc6f756990edadaa6ead4669304445b05",
+        "0a81cabc0b00c693210b6331abb2c31d593e9cdbfe3aff1d55fea8d9ec22b6ab",
+        "073db9f2746a25a696aa92c687bfcc2f8f82aa3a33b6957d5b375752b9dfd73f",
+        "6f369f36f606c0900a6667205d6e19367ec10034d708681f7393c940edf291c2",
+        "dc5fc5fde457f023867fe25ca055496fbb14a91419fbfbfff3798a5290a52bef"
+      ],
+      "scenario_summary": "轉述ㄋㄞ喜歡輕鬆拍一下的招呼、不喜歡被抱來抱去；避免將性別直接當偏好的原因。",
+      "title": "喜歡的可能是互動方式",
+      "keywords": [
+        "：我是男生欸，男生跟男生玩啊！",
+        " 我改天問一下 他那位兄弟都說自己是ㄋㄞˉ的葛格"
+      ],
+      "spoken_parts": [
+        "家長問，牠是不是比較喜歡男生？",
+        "那次聊下去，我轉述ㄋㄞ提到的差別，",
+        "其實是有人愛抱來抱去，有人經過輕輕打招呼就好。",
+        "我聽著像在說，社交可以，流程短一點。",
+        "與其先用性別分類，也看看每個人實際怎麼互動。",
+        "你家喜歡熱情迎接，還是點到就好？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R086-01_喜歡的可能是互動方式.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 47,
+          "text": "：我是男生欸，男生跟男生玩啊！"
+        },
+        {
+          "role": "User",
+          "record": 48,
+          "text": "！！！！！！沒有吧 我改天問一下 他那位兄弟都說自己是ㄋㄞˉ的葛格"
+        }
+      ]
+    },
+    {
+      "story_id": "R087-01",
+      "chat_id": "chat-bf00cc65d9a3af6d",
+      "source_room_number": 87,
+      "account_name": "Liya💕",
+      "pet": "Gucci 古蹟",
+      "dates": [
+        "2026/05/08"
+      ],
+      "source_csv": "data/raw/20261001/87_20260427_20260508_Liya💕.csv",
+      "source_records": [
+        254,
+        263
+      ],
+      "source_message_keys": [
+        "a0be510ac4fdb19bec46bb66626b78a6e24122e245014ab530d6a467f73f99a7",
+        "9f7ec8ef7045d5ca47ba214f4422c1bbc79254e80efb7145390206cd8006a0cb",
+        "c1393f8090481602bc1eeab26643a6400bcef53d9663179526432f758d0cba7f",
+        "6a7484c885e4d1978596f446bc90b89bca53ea2add204b3c34071215c899e51b",
+        "3262058a02a5ca69a727506c1f7934eb281cf5764e0442e517857c457d021eca",
+        "77bff9a3300eb351f3fbb11002fdfd0f0aef2fcf8c1f646baafb893eef61e68c",
+        "b0de495e367a391ff7174dc29a7f99aa9f4ffa97140f4183789cfb82c29e86f1",
+        "48add83585cf890cbe30258d8965a2da87d166c338a0b3ba9a646ed808438daa",
+        "57666ab1e0895a0560f87fd7ad5818e14f15871518e2c4d5dc2a117086f85eb8",
+        "161b93a16b1e28f94682135784f4ff42989540170a5486f1f54404221d98eb83"
+      ],
+      "scenario_summary": "家長說小寶寶會哭，古蹟比較冷靜；轉述牠想讓姐姐不要太累。輕柔處理新家庭成員。",
+      "title": "家裡來了新生兒",
+      "keywords": [
+        "：小寶寶感覺好麻煩，回來的時候，我看大家都好忙",
+        "請古蹟不用擔心 我會常常回來陪她"
+      ],
+      "spoken_parts": [
+        "家裡來了小寶寶，毛孩版本像多了一位資深同事。",
+        "那次我轉述古蹟覺得寶寶不懂事，要像自己一樣，別讓姐姐太累。",
+        "家長說，寶寶會哭，牠倒是很冷靜。",
+        "我只好在心裡說，新人還在適應啦。",
+        "迎接新成員，也記得照顧原本毛孩的生活節奏。",
+        "你家最淡定的是誰？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R087-01_家裡來了新生兒.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 256,
+          "text": "：小寶寶感覺好麻煩，回來的時候，我看大家都好忙"
+        },
+        {
+          "role": "User",
+          "record": 254,
+          "text": "請古蹟不用擔心 我會常常回來陪她"
+        }
+      ]
+    },
+    {
+      "story_id": "R088-01",
+      "chat_id": "chat-8744381cb0fe3df3",
+      "source_room_number": 88,
+      "account_name": "糰糰媽媽",
+      "pet": "糰糰",
+      "dates": [
+        "2026/05/07"
+      ],
+      "source_csv": "data/raw/20261001/88_20260430_20260508_糰糰媽媽.csv",
+      "source_records": [
+        384,
+        393
+      ],
+      "source_message_keys": [
+        "9449448118fc76ad3adceffced8ed064cadfa0d1c80d47cb994c487b612f2500",
+        "1af58ddca1cc70dab413543c4bc928d5803627216ca488e60ef102c52992de96",
+        "d2b422ff67a2d7a5974b6ace923d4d088967b97760a76cc421240f940dd5ee52",
+        "a1c5e64207c28685ce9a3faa72109ed122485a96a1c1b7428b2f4b31e1befa00",
+        "c8f0495715985abaaf390e190a8c88db4e02645582ab2a82877a18f10a2645d8",
+        "abafeefea71248a4993854c1b146f9b20402c96b7ea93c1135a31ec811d43a28",
+        "0618b4f7605832271ea82e187429a26502881ba201d26fa1538345b85eed70f3",
+        "e8fb1ba757c3559392b79f6aedb74dcb4e72e7d9e84fbdd6e9e2dee0f99647ba",
+        "046d09760fc94bbc8afa5315e37df5d753eb02885e7508af479d19ea5a5f65ab",
+        "37294cc65581f8c916c12eeb961ae30a2527fe50a3fe13e92e283106afeae245"
+      ],
+      "scenario_summary": "家長列出髮圈羽毛小老鼠，轉述糰糰更喜歡妈妈说话摸摸，家长回覆只想聊天；不建議使用髮圈作玩具。",
+      "title": "玩具清單之外的願望",
+      "keywords": [
+        "我．．一開始覺得一點點好玩，後面就覺得那樣很累！",
+        "麼多遊戲，髮圈、羽毛、小老鼠你都沒有最喜歡的嗎？"
+      ],
+      "spoken_parts": [
+        "媽媽準備很多玩具，這次答案卻不在購物清單。",
+        "那次家長問，哪個玩具最喜歡？",
+        "我轉述糰糰的意思：「我喜歡媽媽跟我說話，摸摸我。」",
+        "媽媽笑說，原來只是想聊天。",
+        "我看著都覺得，購物車可以先放一邊。陪伴有時很簡單，不一定再買一個。",
+        "你們有固定聊天時間嗎？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R088-01_玩具清單之外的願望.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 385,
+          "text": "：我．．一開始覺得一點點好玩，後面就覺得那樣很累！"
+        },
+        {
+          "role": "User",
+          "record": 386,
+          "text": "媽媽跟你玩了這麼多遊戲，髮圈、羽毛、小老鼠你都沒有最喜歡的嗎？"
+        }
+      ]
+    },
+    {
+      "story_id": "R108-01",
+      "chat_id": "chat-3088d758662c2865",
+      "source_room_number": 108,
+      "account_name": "Emily🌸",
+      "pet": "財姊（原文稱財）",
+      "dates": [
+        "2026/05/01"
+      ],
+      "source_csv": "data/raw/20261001/108_20260421_20260501_Emily🌸.csv",
+      "source_records": [
+        189,
+        199
+      ],
+      "source_message_keys": [
+        "506a00667fcabfa6ae0bc68643b39e91fc4e010727f70895bed0e49e72fb52a5",
+        "571f4e5b3b525cd80e86303035889a2537d79f08e233a5bad82ce8785f47233e",
+        "2adf21f75e736ea9cbc191dc9c21e9627a4e1f841a2509e384bf967417a86c2a",
+        "134933730f790b0d2d178ee64797992504f39d015a10e88d64f0dcf2496a2ec2",
+        "e226604965a706553cf946ae97a7905d22a10e00c9a209b6261458270986d32b",
+        "b9248af121996e31feb6a8c9bc639cba72b8e4fec6d0c1e780a5d321edad1cf9",
+        "97864c30a363ac89c8d56aaaaa599ac478a15f0b997eeb79cce88d772133d8d1",
+        "bc62a0958f9f612436ff94181167e7118a8fa3f27ebec45bbc06a3a8a7c858b4",
+        "e2bb4e046b62b32aae265c71ff5b197d9578d7f256815f0043e7deaea0a6b39d",
+        "4991d50dd99c4c756ffe09f557eccbde892e90a746137377bf1779075e55a4fc",
+        "2c58ce33e86ae5d40ca28903c0ac3e918f00a706714c9463c582d8b8635455da"
+      ],
+      "scenario_summary": "家長說地上至少四個床，仍說牠愛地板與沙發；不推論確定舒適原因。",
+      "title": "家裡四張床還是躺地板",
+      "keywords": [
+        "我問他喜歡媽媽怎樣 ：媽媽以前會做漂亮的飯",
+        "地板上至少4個床"
+      ],
+      "spoken_parts": [
+        "家裡至少四張床，這位住客還是選地板。",
+        "那次聊休息位置，媽媽說，床真的有買，至少四個。",
+        "接著又說，牠就是愛地板跟沙發。",
+        "我覺得自己像在聽旅館老闆介紹空房。",
+        "我們準備得很認真，牠的選擇也值得觀察，不必急著再下單。",
+        "你家最常空著的是哪張床？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R108-01_家裡四張床還是躺地板.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 195,
+          "text": "我問他喜歡媽媽怎樣\r\n：媽媽以前會做漂亮的飯"
+        },
+        {
+          "role": "User",
+          "record": 192,
+          "text": "地板上至少4個床"
+        }
+      ]
+    },
+    {
+      "story_id": "R108-02",
+      "chat_id": "chat-3088d758662c2865",
+      "source_room_number": 108,
+      "account_name": "Emily🌸",
+      "pet": "財姊（原文稱財）",
+      "dates": [
+        "2026/05/01"
+      ],
+      "source_csv": "data/raw/20261001/108_20260421_20260501_Emily🌸.csv",
+      "source_records": [
+        393,
+        397
+      ],
+      "source_message_keys": [
+        "ec10a1d4ba8a420274fd69672909f8117e7b0c139b07ce7030d45acd5e242698",
+        "c03d4fb99f7e87c877c01f271c2e36e5e03739478ba53ed66ed183a3edfc27ab",
+        "9a6e249da0de7b45e2eb03129adf1b006f65a2bd0aeb090ab3420e0c6f959d01",
+        "f66c42b96d48c7f8de18f1c024384eead2fac03a62fa8ba3f8ca0f9a06eabd34",
+        "cc021815c6ab2b23ce9657188aeca5a63e195aac36af5067199f7cc3c25ca478"
+      ],
+      "scenario_summary": "同聊天室另一情境轉述財姊希望媽媽想帶就帶，不要一直想；不描述實際後續。",
+      "title": "媽媽要不要帶我上班",
+      "keywords": [
+        "我去上班就帶我去啊，不要再想了，我跟弟弟都可以啦"
+      ],
+      "spoken_parts": [
+        "想帶毛孩上班，家長有時候比毛孩還猶豫。",
+        "那次我轉述財姊的意思：「媽媽想帶就帶啊，",
+        "不要再想了。」",
+        "我聽著像行程還沒決定，來賓已經準備出發。",
+        "這是聊天片段，真的要同行，還得看工作場所和實際狀況。",
+        "把期待跟安排分開想，會清楚一些。你家適合陪你上班嗎？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R108-02_媽媽要不要帶我上班.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 397,
+          "text": "：媽媽想帶我去上班就帶我去啊，不要再想了，我跟弟弟都可以啦"
+        }
+      ]
+    },
+    {
+      "story_id": "R109-01",
+      "chat_id": "chat-025ee7d298aab511",
+      "source_room_number": 109,
+      "account_name": "吉可媽媽",
+      "pet": "吉吉",
+      "dates": [
+        "2026/05/01"
+      ],
+      "source_csv": "data/raw/20261001/109_20260421_20260501_吉可媽媽.csv",
+      "source_records": [
+        456,
+        465
+      ],
+      "source_message_keys": [
+        "b7e18414fd0dda415d30e24b93356f400c60d00681f82034db0b46b73d1a3cd7",
+        "1a040064b4dfa752cd8b7a9b4d6dd28f538086fe6dac1c014124402d324cba74",
+        "df784553ba304ef0d6f860e788346d65071b9a417926932dc05d1f2b39226b18",
+        "8457bd6dc45174b35049f77e6b4832cafc1809cd6d87289bd77a367ca6335572",
+        "cfb7ec7d11d996359c3d89015a8e359bd7dcee5a4d827a88b5ca94fd27b4b77a",
+        "16d1f60ddc665334ce8443d126d9e7ae3f75ed7438d70730b40e3099c4c2aecb",
+        "062b500d3b5fdf74d31a8f1597cc3c921266ce5cc51697d61154406df87915b3",
+        "43f9c39c090bdaf55b1191c504463b49a57f7c87510ab267c815eb5b3083faeb",
+        "f3a4b445daf31227bf7274e0ff9840aa1dec2483623c0c007eb0c03808330435",
+        "fae8188076dc918215fffaa2f06e16a03002be43ca053f393b90f1fa83e1235e"
+      ],
+      "scenario_summary": "轉述毛孩對生活滿意，不用因他人購物而比較，家長回覆開心就好；不將滿意轉述等同健康評估。",
+      "title": "不用跟著別人一直買",
+      "keywords": [
+        "好像一定要跟大家一起買什麼給我們才是真的對我們好",
+        "他大概3歲以後就不太愛狗"
+      ],
+      "spoken_parts": [
+        "有次聊天，最想留下的話跟購物車有關。",
+        "我轉述毛孩的意思：「不用跟著大家買什麼，才算對我們好。」",
+        "家長聽完說，開心就好。",
+        "我腦中的購物車，突然可以先冷靜一下。",
+        "分享這段，是想提醒自己，照顧也包括時間和注意，不只新東西。",
+        "你最常忍不住買哪一類？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R109-01_不用跟著別人一直買.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 462,
+          "text": "：媽媽對我們很好，不用覺得好像一定要跟大家一起買什麼給我們才是真的對我們好"
+        },
+        {
+          "role": "User",
+          "record": 456,
+          "text": "他大概3歲以後就不太愛狗"
+        }
+      ]
+    },
+    {
+      "story_id": "R110-01",
+      "chat_id": "chat-3fac6291b530fa06",
+      "source_room_number": 110,
+      "account_name": "金酷姊姊",
+      "pet": "金酷與鐵支",
+      "dates": [
+        "2026/05/01"
+      ],
+      "source_csv": "data/raw/20261001/110_20260421_20260501_金酷姊姊.csv",
+      "source_records": [
+        292,
+        303
+      ],
+      "source_message_keys": [
+        "8bbcea748fc6ca1448f0e82ba69f1c741e10f7638e7f86323ffcd18cfa131ef2",
+        "7c812d826c1b7315d27cd09d5a3763fa832039024689dac22600347ca7bbc1cb",
+        "9c1a0301e8d8b1ba62d9889b9846a5178ede932ef7044ca337790ff33228b106",
+        "7d21b87d12972d8e29d222c3946283258dd506b08e0865a6de3c62934448100f",
+        "8aa6521e84e1bc5154989e1e13587cdfd7de8db532a358a6cbd9ce03d4ac7980",
+        "ed287cef214cb128d7197129d7412868cc61c51e68cb29c12b39197c52031ff3",
+        "ceb2164621484c4a30f7f9c23549eb7bdbf8f8060dcb244a5bf9b2cd6f56fdd1",
+        "d43961fc542bca44a7e916d958dd99517903137388ecf14ed2d995521e48899c",
+        "b11e8a57306bcb54e7bf67e9844a8400cae9a7e536705c8077d160dbcea5bf57",
+        "cf136a9c9dd859b4349ded7cf45011957bce021bcd56238809cc69e198bf57d2",
+        "98865b2068d843421194fe70766a849feb7099c0056fbe88c72ae76fa32b1c2b",
+        "f24efe6a4a5ee68f63a1b696eec6e3673adfc1e944b33b65dfbb12dd8193afc9"
+      ],
+      "scenario_summary": "轉述金酷嫌鐵支拍照想睡，家長笑說像阿伯且要叮；笑點是擬人化的工作態度，不強迫動物拍攝。",
+      "title": "拍照還有小小監工",
+      "keywords": [
+        "：他什麼都可以什麼都說好",
+        "這比較像阿伯欸"
+      ],
+      "spoken_parts": [
+        "拍照這件事，有的毛孩看起來比人還認真。",
+        "那次我轉述金酷嫌另一隻拍照時一直想睡。",
+        "姐姐笑說，這比較像阿伯，還得盯一下。",
+        "我聽著像攝影棚多了一位小小監工。",
+        "這是有趣的轉述，真的累了就休息，照片下次再拍。",
+        "你家誰最容易拍到一半放空？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R110-01_拍照還有小小監工.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 295,
+          "text": "：他什麼都可以什麼都說好"
+        },
+        {
+          "role": "User",
+          "record": 298,
+          "text": "這比較像阿伯欸"
+        }
+      ]
+    },
+    {
+      "story_id": "R111-01",
+      "chat_id": "chat-06cf733b134b10ce",
+      "source_room_number": 111,
+      "account_name": "Super ·ꙫ·",
+      "pet": "哭摟",
+      "dates": [
+        "2026/05/01"
+      ],
+      "source_csv": "data/raw/20261001/111_20260421_20260501_Super ·ꙫ·.csv",
+      "source_records": [
+        47,
+        53
+      ],
+      "source_message_keys": [
+        "c3d1405f8550c5965778f8ddac3ccd1dd8e82f378e55fac5fc746fb9d3acc9ee",
+        "03c6c39c3129ede898989fbe7e5e0c7eec6e577de7f9c10a58d4eca6301b6992",
+        "e43a81973efb76ffea85c384ff89676ed5d0e518505feef8b02bcaf9bfe5f6f0",
+        "dc24fc402d46515d9f617cb6fdc57033fd4297831442b0da4dd4b91f620d9ab8",
+        "a6bbc497c36aa7ac35977474c24aa232d4a23d444542bcda54209eda0262eed8",
+        "1fea90b25e42bc650cf56f2eb347adbe0df11c86fe424a8eac79783a16c61ccb",
+        "d69d30b3f9e4acfc96b80cadaa8bdbc7c7585bcdcf34246bfa35e8c1dcd9fbc6"
+      ],
+      "scenario_summary": "轉述家長喜歡抱揉毛孩又打噴嚏嫌掉毛，家長確認很愛在地板揉牠；不給過敏醫療建議。",
+      "title": "邊吸狗邊嫌掉毛",
+      "keywords": [
+        "最喜歡媽媽對你做什麼 ：整個抱住我柔我的身體",
+        "抱歉 人類檢討！！！"
+      ],
+      "spoken_parts": [
+        "有一種家長，嘴上嫌掉毛，手卻完全不想放。",
+        "那次我轉述哭摟的意思，媽媽很愛抱住牠揉一揉，然後打噴嚏，再嫌牠掉毛。",
+        "家長說，對，自己超愛揉牠。",
+        "我聽完只想說，這位媽媽真的很誠實。",
+        "喜歡互動，也記得留意雙方舒服不舒服。",
+        "你也會邊清毛邊想抱嗎？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R111-01_邊吸狗邊嫌掉毛.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 47,
+          "text": "最喜歡媽媽對你做什麼\r\n：整個抱住我柔我的身體"
+        },
+        {
+          "role": "User",
+          "record": 52,
+          "text": "抱歉 人類檢討！！！"
+        }
+      ]
+    },
+    {
+      "story_id": "R123-01",
+      "chat_id": "chat-586afc237f486dc3",
+      "source_room_number": 123,
+      "account_name": "咖啡媽媽",
+      "pet": "咖啡",
+      "dates": [
+        "2026/04/26"
+      ],
+      "source_csv": "data/raw/20261001/123_20260421_20260427_咖啡媽媽.csv",
+      "source_records": [
+        190,
+        202
+      ],
+      "source_message_keys": [
+        "da319b4d8c299442f401aec3d698d784ca7b42a28d6be8cc6e1bb0b559d5fb2e",
+        "cb752b4bd5c69dda3ed8c674e798b4161aa78ea8c21c7766c2f47b9634e4349e",
+        "41c943c5cf75ce43d467ae4e895681f4772e77495777217bc7f7292da1b3491f",
+        "dca451e19f7fc1664f37c49d63c836d53fdaefc705851df52afdf22468eae09a",
+        "52e0b8cab18e2770d7666398a156a68d8989261fc26b736b73ccdd1e69382d97",
+        "dbc97c6908604cde7c4e5a280dc8817dae198b0a8e49cf06613a356e9c9ee54e",
+        "0bf3ef65d86f275434f37a7cb1659deaccf41934bf7ae3413fc2321ceb39e340",
+        "fc64550c352d836a2fc876a9f4510c102624e6337db4a5a9a38a5f7d3f64b426",
+        "ef704506a9f009bbcfd26f5c6181354d9b2309f1b8c5594145fac2911297328a",
+        "7a66ebfec6932d1b3d32fdecb84acccd7d616c76b5a8fe197e5ff8374b449147",
+        "992a1464d76d9f68886dd97f4b6ab41a7cbf1852b9e1e4a4d3a8f0b5bba1419c",
+        "aa344290c53f5d3ee50732e21a9f0e7f6b754e9ba4c35f75bd6752c020fdbdeb",
+        "a4a7d18a68e1f391fcb825a2972bf125e6e43d49c887b6d9afa7de6e48cbcb9a"
+      ],
+      "scenario_summary": "媽媽提及姐姐一直想知道被不被愛，後段轉述姨姨姨丈喜歡咖啡，媽媽确认有感受到；不補造單獨出遊事實。",
+      "title": "全家都想知道牠愛不愛自己",
+      "keywords": [
+        "：姨姨跟姨丈很喜歡我",
+        "媽媽很開心也很愛妳哦"
+      ],
+      "spoken_parts": [
+        "有時候約寵物溝通，真正排隊提問的是整個家。",
+        "那次媽媽先說，姐姐一直想知道小狗有沒有愛她。",
+        "後面聊到姨姨姨丈，我轉述咖啡知道他們很喜歡自己。",
+        "我像在受理全家的關係查詢。",
+        "愛不一定要搶第一，平常的相處也有答案。",
+        "你家誰最常問牠愛不愛我？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R123-01_全家都想知道牠愛不愛自己.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 195,
+          "text": "：姨姨跟姨丈很喜歡我"
+        },
+        {
+          "role": "User",
+          "record": 191,
+          "text": "媽媽很開心也很愛妳哦"
+        }
+      ]
+    },
+    {
+      "story_id": "R124-01",
+      "chat_id": "chat-83f35ae5650a2528",
+      "source_room_number": 124,
+      "account_name": "屋逆媽媽",
+      "pet": "屋逆",
+      "dates": [
+        "2026/04/26"
+      ],
+      "source_csv": "data/raw/20261001/124_20260421_20260426_屋逆媽媽.csv",
+      "source_records": [
+        126,
+        132
+      ],
+      "source_message_keys": [
+        "ac4c891671aa2628497a86db33c43ff96e3d97f6f1ad144733843c2427cbae87",
+        "0f63be1dfc3be6e5514b7741c34053f9e49df07032dce6a4e878fd0c2840cffc",
+        "90621b3913539e9a9d489bf0491501364046d6d58774d2084527d44fd4103889",
+        "f78bbad8a8363d47ddc45b69e898bafc023cdcbd7b2d56f9ec261183fdf55eeb",
+        "4ae65c3741b9bc7158d10627230f05c46ee95bfa8e83e6282eedcb92a28df999",
+        "f267e56aa07a71b0837965cdee36d0bc3e56f0a26e82ed360905cb526631190e",
+        "f3090c17da05c84589cc0b1b369fa93aac21970fcffee54f2e144349d25c199c"
+      ],
+      "scenario_summary": "轉述屋逆不喜歡陌生人未先確認就摸，家長參與討論；不把毛亂作唯一行為原因。",
+      "title": "可愛不等於摸摸通行證",
+      "keywords": [
+        "：我真的不喜歡人家隨便要摸我",
+        "但屋逆自己有覺得自己很有禮貌嗎？🤣"
+      ],
+      "spoken_parts": [
+        "小狗長得可愛，不代表摸摸自動開放。",
+        "那次我轉述屋逆的意思：「我沒有說可以摸，",
+        "還會弄亂我的毛。」",
+        "我聽完很有畫面，這位朋友連髮型都要保護。",
+        "笑歸笑，靠近陌生毛孩之前，先問家長，也看看牠願不願意。",
+        "你家比較愛打招呼，還是想保留距離？"
+      ],
+      "estimated_seconds": 25,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R124-01_可愛不等於摸摸通行證.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 127,
+          "text": "：我真的不喜歡人家隨便要摸我"
+        },
+        {
+          "role": "User",
+          "record": 128,
+          "text": "但屋逆自己有覺得自己很有禮貌嗎？🤣"
+        }
+      ]
+    },
+    {
+      "story_id": "R125-01",
+      "chat_id": "chat-22ebbcf39b3cd8b1",
+      "source_room_number": 125,
+      "account_name": "電塔媽媽",
+      "pet": "閃電",
+      "dates": [
+        "2026/04/26"
+      ],
+      "source_csv": "data/raw/20261001/125_20260421_20260426_電塔媽媽.csv",
+      "source_records": [
+        367,
+        376
+      ],
+      "source_message_keys": [
+        "9e80ac0a1c6fbb7bbb0aaa29196adac2265a05a355a0eadf9d433cf68d29e8a2",
+        "0ddaa36ee89f5eab732cfa97415dfaf9b67fae4f90cd1d691fbe295831bfc1d3",
+        "7490f213c1710fb56e18959495a1939c05863e8a0b2fcb8d917ab740ad2dab68",
+        "6c814b4271b1659963fbefd8c25a337b48bc88cecf14a25bbf436be198a59edb",
+        "65cc2915458cac3affdf1ff225f4e9e104ba1b01471e0c16aff5e2828b02fcbc",
+        "5b6a3eaf9ab130a0442ffc7eac503cb4e62cc15b61568595635c3743291659dd",
+        "2c76466fb1c1e700d2e7682778f1515aeb59135aa1aa685738fd6b9601732996",
+        "9f86473db16ac96dca6d4f47f13fb0cae71ca6a37a4d240001c88c9d5631546a",
+        "b2d9baf03cac2b9efe35dd23bbfb6b6eee1a4d321d1b656fe3280ca66f71bef6",
+        "f90b3d4bbd99580b97660da4904c1c2c7929213e0612760b95c844b29c1a4419"
+      ],
+      "scenario_summary": "轉述閃電否認欺負姐姐、想邀玩，家長補充當天有衝康姐姐；保留雙方說法，不淡化衝突。",
+      "title": "我只是想找姐姐玩",
+      "keywords": [
+        "：你要走了喔",
+        " 你乖乖地長大就好😄 不要太常欺負姊姊呀～～～～"
+      ],
+      "spoken_parts": [
+        "同一場互動，家長跟毛孩版本差很多。",
+        "那次媽媽提醒，不要常欺負姐姐。",
+        "我轉述閃電的意思：「我哪敢，我只是想叫姐姐陪我玩。」",
+        "媽媽馬上補充，今天才在鬧姐姐。",
+        "這場家庭小法庭，兩邊都要聽。想玩是一回事，對方想不想也很重要。",
+        "你家有熱情過頭的小朋友嗎？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R125-01_我只是想找姐姐玩.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 367,
+          "text": "：你要走了喔"
+        },
+        {
+          "role": "User",
+          "record": 369,
+          "text": "幫我跟他說 \r\n\r\n你乖乖地長大就好😄\r\n不要太常欺負姊姊呀～～～～"
+        }
+      ]
+    },
+    {
+      "story_id": "R126-01",
+      "chat_id": "chat-6c78dd23f2c5c1ae",
+      "source_room_number": 126,
+      "account_name": "薯泥媽媽",
+      "pet": "茶茶",
+      "dates": [
+        "2026/04/25"
+      ],
+      "source_csv": "data/raw/20261001/126_20260421_20260425_薯泥媽媽.csv",
+      "source_records": [
+        159,
+        165
+      ],
+      "source_message_keys": [
+        "d53b6f963208c800d5c79d784e425bebef686ee3f3ee450608c9b73430acba51",
+        "fd02d3cd57b858c845468a7424d817e0d41ace2dd2ca2b6d2b105d1de72bd086",
+        "dd59378a59b0ce44ace3c079bdf95571c6a7e536718b348efa9bf24cabb9f1cb",
+        "b7f6f8f30af38ec43e5ef309d0ee1a3ec6a70e0ca732382acadf4290bed465f6",
+        "4bbca95fe4e0f242fac6ccf7fd6d07830b898eba4c1cc2a0b7eab4028bd4485c",
+        "c04cf0ad5eaf9a44bab215109f76a0dd7efaabdbe5f4b084e82a842ba5feb742",
+        "9dc730dde2471f4deb55cdee2c6004561d3ebf1d6c7f283b1d1bb28b766bb591"
+      ],
+      "scenario_summary": "轉述茶茶覺得姐姐較少回家，家長回應前天才回去；保留客觀日期和感受落差，不判定哪方想法必然正確。",
+      "title": "前天才回家怎麼算很久",
+      "keywords": [
+        "：姊姊為什麼現在比較少回來",
+        "為什麼我也有一點畫面… 我叫媽咪明天用給他吃"
+      ],
+      "spoken_parts": [
+        "多久沒見，才叫很久？這次兩邊的答案不同。",
+        "我當時轉述茶茶覺得姐姐最近比較少回家。",
+        "姐姐馬上說：「我明明前天才回去！」",
+        "我聽著像一邊翻日曆，一邊在算想念。",
+        "這是我的趣味解讀，不能確定牠怎麼想，但日期跟感受可以分開聊。",
+        "你也說過「不是才見過嗎」？"
+      ],
+      "estimated_seconds": 26,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R126-01_前天才回家怎麼算很久.docx",
+      "evidence": [
+        {
+          "role": "Account",
+          "record": 162,
+          "text": "：姊姊為什麼現在比較少回來"
+        },
+        {
+          "role": "User",
+          "record": 161,
+          "text": "為什麼我也有一點畫面…\r\n我叫媽咪明天用給他吃"
+        }
+      ]
+    },
+    {
+      "story_id": "R127-01",
+      "chat_id": "chat-31140f0addd255bc",
+      "source_room_number": 127,
+      "account_name": "饅饅媽媽",
+      "pet": "饅饅",
+      "dates": [
+        "2026/04/25"
+      ],
+      "source_csv": "data/raw/20261001/127_20260421_20260425_饅饅媽媽.csv",
+      "source_records": [
+        422,
+        431
+      ],
+      "source_message_keys": [
+        "96182a349b77ab0ea37704edeb6292b0c00767f16cfbdf202dd8a66137e7131b",
+        "925ed6c01acdad6cfaa8f9200bb80288961a3c79a608b8a4b65981f416441055",
+        "3b73bdfb9f52be3aaac33475d29b71acff6637deda4934847e4cd1afaad14495",
+        "7d75b42ef1b803f373493db656e2fa4e883996dd26eb4ed10c936e2d854cf824",
+        "5b979cd6bf17b400ed021402c2b6eaae94a9cea57a4ccc3e7475d811de23e0a1",
+        "608afd2e66ccd9a452bdc069742bef66e6dc8522c4e1b201fef34a36643f31cb",
+        "d868dc2264fb02f7c1e3bd07420ce08d5302aeb60648ee89faf0b25a942b9d71",
+        "454f562d0d9411ddc601337771e6fb31dca8f4b5e5eb9d4b28ceb5018944d800",
+        "2e858184d7b8814e27052ce858de2694dddded3c1a463fce9239d61e5b8a239a",
+        "3da098c452496b1474571a3679569f772a7ab6a159c0501c1b5469037647e352"
+      ],
+      "scenario_summary": "轉述饅饅喜歡和小姐姐一起趴著，家長說以後常抱；聚焦已表達的陪伴，不推論健康。",
+      "title": "最喜歡一起趴著的時光",
+      "keywords": [
+        "還是好感的🥹🥹"
+      ],
+      "spoken_parts": [
+        "最喜歡的行程，有時候就是一起趴著。",
+        "那次我轉述饅饅很喜歡姐姐在沙發上，自己趴在她身上的時光。",
+        "姐姐感動到打錯字，還說以後要常常這樣抱。",
+        "這個約會地點，連導航都不用開。",
+        "留一點不趕時間的陪伴，也看看牠是不是同樣舒服。",
+        "你們最喜歡一起待在哪裡？"
+      ],
+      "estimated_seconds": 27,
+      "status": "generated",
+      "output": "outputs/20261001_reels/R127-01_最喜歡一起趴著的時光.docx",
+      "evidence": [
+        {
+          "role": "User",
+          "record": 424,
+          "text": "還是好感的🥹🥹"
+        }
+      ]
+    }
+  ]
+}
